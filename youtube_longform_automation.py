@@ -239,6 +239,7 @@ For each phrase:
 1. English phrase (pure English, zero Turkish) with commas for natural pauses
 2. Turkish translation (Turkish only)
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Turkish. NEVER use German, Spanish, or any other language. Only Turkish.
 
 Return as JSON array:
 [{{"english": "...", "turkish": "...", "pronunciation": "..."}}]
