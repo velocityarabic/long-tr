@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
+TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -99,86 +99,95 @@ VIRAL_STYLES = [
 ]
 
 # AI Model
-AI_MODEL = os.getenv("AI_MODEL")
-
-if not AI_MODEL:
-    raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
-    )
+AI_MODEL = os.getenv("AI_MODEL") or "gemini-fast"
 
 
-# ============== PHRASE HISTORY MANAGEMENT ==============
+# ============== PHRASE HISTORY MANAGEMENT & DEDUPLICATION ==============
+
+def normalize_phrase_text(text: str) -> str:
+    """Normalize phrase text for strict duplicate detection (lowercase, alphanumeric only)."""
+    import re
+    return re.sub(r'[^a-z0-9\s]', '', text.lower()).strip()
+
+
+def get_phrase_words(text: str) -> set:
+    """Extract set of words for similarity check, ignoring trivial single-letter words."""
+    import re
+    words = set(re.findall(r'\b[a-z0-9]+\b', text.lower()))
+    return {w for w in words if len(w) > 1}
+
+
+def is_phrase_similar_fast(cand_words: set, reference_words_list: list, threshold: float = 0.65) -> bool:
+    """Fast similarity check using Jaccard word overlap to prevent rephrased duplicates."""
+    if not cand_words:
+        return False
+    cand_len = len(cand_words)
+    for ref_words in reference_words_list:
+        if not ref_words:
+            continue
+        intersection_len = len(cand_words.intersection(ref_words))
+        if intersection_len == 0:
+            continue
+        union_len = cand_len + len(ref_words) - intersection_len
+        if union_len > 0 and (intersection_len / union_len) >= threshold:
+            return True
+    return False
+
 
 def load_phrase_history():
+    """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
-            return json.load(f)
+        try:
+            with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[history] Warning: Could not read history file ({e}), initializing fresh.")
     return {"phrases": [], "last_updated": None}
 
 
 def save_phrase_history(data):
+    """Save phrase history"""
     data["last_updated"] = datetime.now().isoformat()
     with open(PHRASE_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
-
-
-def is_phrase_similar(new_phrase, used_phrases, similarity_threshold=0.6):
-    new_words = set(new_phrase.lower().split())
-    if len(new_words) < 3:
-        for used in used_phrases:
-            if new_phrase.lower() in used.lower() or used.lower() in new_phrase.lower():
-                return True
-        return False
-    for used in used_phrases:
-        used_words = set(used.lower().split())
-        if len(new_words) == 0 or len(used_words) == 0:
-            continue
-        intersection = len(new_words.intersection(used_words))
-        union = len(new_words.union(used_words))
-        similarity = intersection / union if union > 0 else 0
-        if similarity >= similarity_threshold:
-            return True
-    return False
-
-
-def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    unique_phrases = []
-    for phrase in phrases:
-        english_text = phrase.get("english", "")
-        if not is_phrase_similar(english_text, used_phrases, similarity_threshold):
-            unique_phrases.append(phrase)
-        else:
-            print(f"[filter] Skipping similar: {english_text[:50]}...")
-    return unique_phrases
-
-
 def add_phrases_to_history(phrases, category):
+    """Add new unique phrases to permanent history"""
     history = load_phrase_history()
+    existing_normalized = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history.get("phrases", [])
+        if p.get("english")
+    }
+    
+    added_count = 0
     for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "turkish": phrase["turkish"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
+        norm = normalize_phrase_text(phrase.get("english", ""))
+        if norm and norm not in existing_normalized:
+            existing_normalized.add(norm)
+            foreign_val = phrase.get("turkish") or phrase.get("target") or phrase.get("foreign") or ""
+            history["phrases"].append({
+                "english": phrase["english"],
+                "turkish": foreign_val,
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            added_count += 1
+            
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
 
 def calculate_phrases_needed(target_minutes: int) -> int:
-    avg_phrase_duration = 5.0
+    """
+    Calculate how many phrases needed for target video duration.
+    With pedagogical pauses (English ~2.5s + 1.2s pause + Foreign ~3.0s + 2.0s pause = ~8.7-10.0s per phrase):
+    For 20 minutes (1200 seconds): 1200 / 10 = ~120 phrases.
+    """
+    avg_phrase_duration = 10.0  # seconds
     total_seconds = target_minutes * 60
     return int(total_seconds / avg_phrase_duration)
 
@@ -214,7 +223,7 @@ def repair_and_parse_json(content: str):
             except Exception:
                 pass
 
-    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    matches = re.findall(r'\{[^{}]*"english"[^{}]*\}', cleaned)
     results = []
     for m in matches:
         try:
@@ -229,75 +238,124 @@ def repair_and_parse_json(content: str):
     raise ValueError("Could not parse or repair JSON from content")
 
 
-def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_turkish = CATEGORIES_TURKISH[category_english]
-    history = load_phrase_history()
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    viral_style = random.choice(VIRAL_STYLES)
-    all_phrases = []
-    batch_size = 20
-    max_attempts = 5
+# Sub-themes to guarantee rich vocabulary variety and completely prevent repetitive phrasing
+SUBTHEMES = [
+    ("Everyday Essentials & Reactions", "Focus on high-frequency everyday expressions, quick reactions, and essential conversational starters"),
+    ("Questions & Interactive Dialogue", "Focus on asking questions, polite inquiries, seeking advice, and two-way conversations"),
+    ("Mindset & Encouragement", "Focus on motivating thoughts, affirmations, giving praise, and positive mindset"),
+    ("Native Idioms & Cultural Sayings", "Focus on natural idioms, colloquial expressions, common sayings, and local phrasing"),
+    ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
+    ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
+]
 
-    for batch_num in range((num_phrases + batch_size - 1) // batch_size):
-        remaining = num_phrases - len(all_phrases)
-        current_batch_size = min(batch_size, remaining)
-        if current_batch_size <= 0:
+
+def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
+    """
+    Generate 100% unique bilingual phrases for a ~20-minute long-form video.
+    Guarantees NO repetition within the video and NO repetition across past videos.
+    """
+    import requests
+    import time
+
+    category_foreign = CATEGORIES_TURKISH[category_english]
+    history = load_phrase_history()
+    
+    # Pre-index all past phrases in history
+    history_phrases = history.get("phrases", [])
+    history_norm_set = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    }
+    history_words_list = [
+        get_phrase_words(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    ]
+    
+    # Category-specific past phrases (to feed directly into LLM exclusion prompts)
+    category_past_english = [
+        p.get("english", "")
+        for p in history_phrases
+        if p.get("category") == category_english and p.get("english")
+    ]
+
+    all_phrases = []
+    current_video_norm_set = set()
+    current_video_words_list = []
+
+    num_batches = len(SUBTHEMES)
+    target_per_batch = (num_phrases + num_batches - 1) // num_batches
+    max_batch_attempts = 4
+
+    print(f"[content] Starting generation of {num_phrases} UNIQUE phrases for '{category_english}' ({category_foreign})...")
+
+    for batch_idx, (theme_name, theme_guidance) in enumerate(SUBTHEMES):
+        remaining_needed = num_phrases - len(all_phrases)
+        if remaining_needed <= 0:
             break
-        for attempt in range(max_attempts):
+
+        batch_target = min(target_per_batch, remaining_needed)
+        request_count = min(30, batch_target + 10)
+        temp = round(0.85 + (batch_idx * 0.05), 2)
+        viral_style = random.choice(VIRAL_STYLES)
+
+        for attempt in range(max_batch_attempts):
+            remaining_for_batch = batch_target - (len(all_phrases) - (batch_idx * target_per_batch))
+            if remaining_for_batch <= 0 and len(all_phrases) >= (batch_idx + 1) * target_per_batch:
+                break
+
             try:
-                import requests
+                # Dynamic exclusion list:
+                # 1. Phrases generated in THIS video run (prevents repeating across batches!)
+                # 2. Recent phrases from past history for this category
+                current_generated_en = [p["english"] for p in all_phrases[-40:]]
+                recent_cat_past = category_past_english[-25:] if category_past_english else []
+                combined_exclusions = list(dict.fromkeys(current_generated_en + recent_cat_past))
+                
+                exclusion_note = ""
+                if combined_exclusions:
+                    exclusion_note = (
+                        f"\n\nCRITICAL: DO NOT use, repeat, or slightly rephrase any of these phrases:\n"
+                        + "\n".join(f"- {p}" for p in combined_exclusions[:40])
+                    )
+
+                prompt = f"""Create {request_count} UNIQUE {category_english} phrases for English speakers learning Turkish.
+
+Thematic Section {batch_idx + 1}/{num_batches}: {theme_name}
+Focus: {theme_guidance} related to {category_english}.
+Style: Natural, authentic {viral_style} format - phrasing real native speakers use.
+
+RULES FOR CLEAR, NATURAL SPEECH:
+1. Length: Short and clear (4 to 12 words per phrase).
+2. Natural pauses: Use commas (,) to indicate natural pauses for speaking practice (e.g. "Dream big, start small").
+3. Everyday vocabulary: Practical, high-frequency, modern conversational vocabulary.
+4. Variety: Varied grammatical forms (imperatives, questions, observations, short idioms).
+5. NO REPETITION: Every phrase must express a distinct idea.{exclusion_note}
+
+For each phrase provide:
+1. "english": English phrase with commas for natural pauses
+2. "turkish": Natural Turkish translation
+3. "pronunciation": Pronunciation guide (phonetic spelling for English speakers, e.g. "Hej, hur mår du?")
+
+Return STRICTLY a JSON array:
+[{"english": "...", "turkish": "...", "pronunciation": "..."}]"""
+
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
                     "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                     "Content-Type": "application/json"
                 }
-                exclusion_note = ""
-                if used_phrases:
-                    recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
-                    exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
-
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Turkish.
-
-Style: Make each phrase feel like a {viral_style} - something people would want to share!
-
-CRITICAL RULE - STRICTLY ENFORCE:
-The "english" field must contain PURE ENGLISH words only. ZERO Turkish/Special Characters.
-The "turkish" field contains the Turkish translation in Turkish.
-The "pronunciation" field is phonetic English spelling.
-
-WRONG (mixed language): {{"english": "Kendine inan on yourself, believe in yourself", ...}}
-WRONG (Turkish in english): {{"english": "Follow your hayal and success will come", ...}}
-CORRECT: {{"english": "Make your dreams come true, believe in yourself.", "turkish": "Hayallerini gerçekleştir, kendine inan.", "pronunciation": "ha-ya-lle-ri-ni ger-chek-lesh-tir, ken-di-ne i-nan."}}
-
-The english field MUST be 100% English words only. NO Turkish words allowed.
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-6. Use everyday vocabulary - avoid exotic or rare words
-7. Avoid complex grammar - keep it simple and practical
-8. Vary sentence structure for natural flow
-
-For each phrase:
-1. English phrase (pure English, zero Turkish) with commas for natural pauses
-2. Turkish translation (Turkish only)
-3. Pronunciation guide (phonetic English spelling)
-
-Return as JSON array:
-[{{"english": "...", "turkish": "...", "pronunciation": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
-
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Turkish teacher. CRITICAL: The 'english' field must contain PURE ENGLISH words ONLY. NO Turkish in english field. Turkish goes in the 'turkish' field. This is strictly enforced."},
+                        {
+                            "role": "system",
+                            "content": f"You are an expert native Turkish language instructor creating viral, high-retention educational lessons for YouTube. Always return clean, valid JSON with fresh, non-repeating phrases."
+                        },
                         {"role": "user", "content": prompt}
                     ],
-                    "temperature": 1.0
+                    "temperature": temp
                 }
 
                 response = requests.post(url, headers=headers, json=payload, timeout=90)
@@ -305,208 +363,133 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 
                 data = response.json()
                 content = data["choices"][0]["message"]["content"].strip()
+                candidates = repair_and_parse_json(content)
 
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
+                accepted_in_batch = 0
+                for cand in candidates:
+                    if len(all_phrases) >= num_phrases:
+                        break
 
-                phrases = repair_and_parse_json(content)
-                filtered_phrases = filter_similar_phrases(phrases, history)
-                unique_phrases = []
-                for phrase in filtered_phrases:
-                    if len(phrase["english"].split()) > 15:
+                    en_text = cand.get("english", "").strip()
+                    foreign_text = (cand.get("turkish") or cand.get("target") or cand.get("foreign") or "").strip()
+                    pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+
+                    if not en_text or not foreign_text:
                         continue
-                    if not is_phrase_used(phrase["english"]):
-                        unique_phrases.append(phrase)
-                for phrase in unique_phrases:
-                    if len(all_phrases) < num_phrases:
-                        all_phrases.append(phrase)
+
+                    # Word count constraints (avoid single words or long run-ons)
+                    words_count = len(en_text.split())
+                    if words_count < 2 or words_count > 15:
+                        continue
+
+                    norm_en = normalize_phrase_text(en_text)
+                    if not norm_en:
+                        continue
+
+                    # 1. Check exact match in current video (STRICT ZERO DUPLICATES in same video!)
+                    if norm_en in current_video_norm_set:
+                        continue
+
+                    # 2. Check exact match in past history
+                    if norm_en in history_norm_set:
+                        continue
+
+                    # 3. Check similarity against phrases already accepted in THIS video (prevents rephrasing)
+                    cand_words = get_phrase_words(en_text)
+                    if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                        continue
+
+                    # 4. Check similarity against past history
+                    if is_phrase_similar_fast(cand_words, history_words_list, threshold=0.70):
+                        continue
+
+                    # Candidate is verified 100% unique!
+                    valid_phrase = {
+                        "english": en_text,
+                        "turkish": foreign_text,
+                        "pronunciation": pron_text
+                    }
+                    current_video_norm_set.add(norm_en)
+                    current_video_words_list.append(cand_words)
+                    history_norm_set.add(norm_en)
+                    history_words_list.append(cand_words)
+                    all_phrases.append(valid_phrase)
+                    accepted_in_batch += 1
+
+                print(f"  [batch {batch_idx + 1}/{num_batches} '{theme_name}'] Added {accepted_in_batch} unique phrases (progress: {len(all_phrases)}/{num_phrases})")
+
+                if len(all_phrases) >= (batch_idx + 1) * target_per_batch or len(all_phrases) >= num_phrases:
+                    break
+
+            except Exception as e:
+                print(f"  [batch {batch_idx + 1}, attempt {attempt + 1}] Notice: {e}")
+                time.sleep(2)
+
+        time.sleep(0.5)
+
+    # Secondary booster pass: if any slots remain to reach num_phrases, generate fresh conversational phrases
+    attempts_booster = 0
+    while len(all_phrases) < num_phrases and attempts_booster < 4:
+        attempts_booster += 1
+        needed = num_phrases - len(all_phrases)
+        print(f"[content] Booster pass {attempts_booster}: Generating {needed} additional unique phrases...")
+        try:
+            current_generated_en = [p["english"] for p in all_phrases[-40:]]
+            prompt = f"""Generate {needed + 8} FRESH, UNIQUE conversational phrases for English speakers learning Turkish.
+Theme: Practical life, emotional intelligence, and interpersonal communication related to {category_english}.
+
+RULES:
+1. 3 to 12 words per phrase. Natural commas for pauses.
+2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
+
+Return STRICTLY a JSON array:
+[{"english": "...", "turkish": "...", "pronunciation": "..."}]"""
+
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": f"You are a native Turkish tutor. Return only valid JSON array of unique phrases."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.05
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            resp.raise_for_status()
+            candidates = repair_and_parse_json(resp.json()["choices"][0]["message"]["content"])
+            
+            for cand in candidates:
                 if len(all_phrases) >= num_phrases:
                     break
-            except Exception as e:
-                print(f"[content] Batch {batch_num + 1}, Attempt {attempt + 1} failed: {e}")
-        if len(all_phrases) < num_phrases:
-            import time
-            time.sleep(1)
-
-    if not all_phrases:
-        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
-        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
-    elif len(all_phrases) < num_phrases:
-        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
-        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
-        for ex in extras:
-            if ex not in all_phrases:
-                all_phrases.append(ex)
+                en_text = cand.get("english", "").strip()
+                foreign_text = (cand.get("turkish") or cand.get("target") or cand.get("foreign") or "").strip()
+                pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+                if not en_text or not foreign_text:
+                    continue
+                norm_en = normalize_phrase_text(en_text)
+                if not norm_en or norm_en in current_video_norm_set or norm_en in history_norm_set:
+                    continue
+                cand_words = get_phrase_words(en_text)
+                if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                    continue
+                
+                valid_phrase = {"english": en_text, "turkish": foreign_text, "pronunciation": pron_text}
+                current_video_norm_set.add(norm_en)
+                current_video_words_list.append(cand_words)
+                history_norm_set.add(norm_en)
+                history_words_list.append(cand_words)
+                all_phrases.append(valid_phrase)
+        except Exception as e:
+            print(f"  [booster attempt {attempts_booster}] Error: {e}")
+            time.sleep(2)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
         add_phrases_to_history(final_phrases, category_english)
-    print(f"[content] Generated {len(final_phrases)} phrases for long-form video")
+
+    print(f"\n[content] Successfully generated {len(final_phrases)} 100% UNIQUE phrases for '{category_english}'")
     return final_phrases
-
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "turkish": "Kendine inan.", "pronunciation": "ken-di-ne i-nan."},
-            {"english": "You are capable of amazing things.", "turkish": "İnanılmaz şeyler yapabilirsin.", "pronunciation": "i-na-nil-maz shey-ler ya-pa-bi-lir-sin."},
-            {"english": "Dream big, start small.", "turkish": "Büyük hayal et, küçük başla.", "pronunciation": "bu-yuk ha-yal et, ku-chuk bash-la."},
-            {"english": "Your future is created by your actions.", "turkish": "Geleceğin eylemlerinle şekillenir.", "pronunciation": "ge-le-ce-in ey-lem-le-rin-le she-kil-le-nir."},
-            {"english": "Never give up on your dreams.", "turkish": "Hayallerinden asla vazgeçme.", "pronunciation": "ha-yal-le-rin-den as-la vaz-gesh-me."},
-            {"english": "Small steps lead to big changes.", "turkish": "Küçük adımlar büyük değişimlere yol açar.", "pronunciation": "ku-chuk a-dum-lar bu-yuk de-i-shim-le-re yol a-char."},
-            {"english": "You are stronger than you think.", "turkish": "Düşündüğünden daha güçlüsün.", "pronunciation": "du-shun-du-un-den da-ha guch-lu-sun."},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "turkish": "Önce kendini sev.", "pronunciation": "on-ce ken-di-ni sev."},
-            {"english": "Love makes everything possible.", "turkish": "Sevgi her şeyi mümkün kılar.", "pronunciation": "sev-gi her she-yi mum-kun ku-lar."},
-            {"english": "My heart beats for you.", "turkish": "Kalbim senin için atıyor.", "pronunciation": "kal-bim se-nin i-chin a-tu-yor."},
-            {"english": "You are my everything.", "turkish": "Sen benim her şeyimsin.", "pronunciation": "sen be-nim her shey-im-sin."},
-            {"english": "Together forever, hand in hand.", "turkish": "Sonsuza kadar el ele.", "pronunciation": "son-su-za ka-dar el e-le."},
-        ],
-        "Success": [
-            {"english": "Success comes from hard work.", "turkish": "Başarı sıkı çalışmadan gelir.", "pronunciation": "ba-sha-ru sı-kı cha-lush-ma-dan ge-lir."},
-            {"english": "Keep going, you're getting there.", "turkish": "Devam et, neredeyse geldin.", "pronunciation": "de-vam et, ne-re-dey-se gel-din."},
-            {"english": "Winners never quit.", "turkish": "Kazananlar asla pes etmez.", "pronunciation": "ka-za-nan-lar as-la pes et-mez."},
-            {"english": "Your effort will pay off.", "turkish": "Çabanın karşılığını alacaksın.", "pronunciation": "cha-ba-nun kar-shu-lu-u-nu a-la-jak-sun."},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "turkish": "Bilgi güçtür.", "pronunciation": "bil-gi guch-tur."},
-            {"english": "Learn from yesterday, live for today.", "turkish": "Dünden öğren, bugün için yaşa.", "pronunciation": "dun-den or-en, bu-gun i-chin ya-sha."},
-            {"english": "Think before you act.", "turkish": "Harekete geçmeden önce düşün.", "pronunciation": "ha-re-ke-te gech-me-den on-ce du-shun."},
-            {"english": "Experience is the best teacher.", "turkish": "Deneyim en iyi öğretmendir.", "pronunciation": "de-ne-yim en i-yi or-ret-men-dir."},
-        ],
-        "Happiness": [
-            {"english": "Happiness is a choice.", "turkish": "Mutluluk bir seçimdir.", "pronunciation": "mut-lu-luk bir se-chim-dir."},
-            {"english": "Find joy in the little things.", "turkish": "Küçük şeylerde neşe bul.", "pronunciation": "ku-chuk shey-ler-de ne-she bul."},
-            {"english": "Smile, it makes others happy.", "turkish": "Gülümse, bu başkalarını mutlu eder.", "pronunciation": "gu-lum-se, bu bash-ka-la-ru-nu mut-lu e-der."},
-            {"english": "Today is a gift.", "turkish": "Bugün bir hediyedir.", "pronunciation": "bu-gun bir he-di-ye-dir."},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "turkish": "Dünden daha iyi ol.", "pronunciation": "dun-den da-ha i-yi ol."},
-            {"english": "Grow through what you go through.", "turkish": "Yaşadıklarından büyü.", "pronunciation": "ya-sha-duk-la-run-dan bu-yu."},
-            {"english": "Invest in yourself daily.", "turkish": "Her gün kendine yatırım yap.", "pronunciation": "her gun ken-di-ne ya-tu-rum yap."},
-        ],
-        "Gratitude": [
-            {"english": "Thank you for everything.", "turkish": "Her şey için teşekkür ederim.", "pronunciation": "her shey i-chin te-shek-kur e-de-rim."},
-            {"english": "I appreciate your help.", "turkish": "Yardımını takdir ediyorum.", "pronunciation": "yar-du-mu-nu tak-dir e-di-yo-rum."},
-            {"english": "Grateful for this moment.", "turkish": "Bu an için minnettarım.", "pronunciation": "bu an i-chin min-net-ta-rum."},
-        ],
-        "Friendship": [
-            {"english": "Friends forever, no matter what.", "turkish": "Ne olursa olsun sonsuza kadar arkadaş.", "pronunciation": "ne o-lur-sa ol-sun son-su-za ka-dar ar-ka-dash."},
-            {"english": "You are my best friend.", "turkish": "Sen benim en iyi arkadaşımsın.", "pronunciation": "sen be-nim en i-yi ar-ka-da-shum-sun."},
-            {"english": "True friends stick together.", "turkish": "Gerçek arkadaşlar birlikte kalır.", "pronunciation": "ger-chek ar-ka-dash-lar bir-lik-te ka-lur."},
-        ],
-        "Hope": [
-            {"english": "There is always hope.", "turkish": "Her zaman umut vardır.", "pronunciation": "her za-man u-mut var-dur."},
-            {"english": "Better days are coming.", "turkish": "Daha güzel günler geliyor.", "pronunciation": "da-ha gu-zel gun-ler ge-li-yor."},
-            {"english": "Keep faith, keep going.", "turkish": "İnancını koru, devam et.", "pronunciation": "i-nan-ju-nu ko-ru, de-vam et."},
-        ],
-        "Creativity": [
-            {"english": "Create something beautiful today.", "turkish": "Bugün güzel bir şey yarat.", "pronunciation": "bu-gun gu-zel bir shey ya-rat."},
-            {"english": "Your imagination is unlimited.", "turkish": "Hayal gücün sınırsız.", "pronunciation": "ha-yal gu-chun sun-ruz-suz."},
-            {"english": "Art comes from the heart.", "turkish": "Sanat kalpten gelir.", "pronunciation": "sa-nat kalp-ten ge-lir."},
-            {"english": "Express yourself freely.", "turkish": "Kendini özgürce ifade et.", "pronunciation": "ken-di-ni oz-gur-ce i-fa-de et."},
-            {"english": "Innovation starts with curiosity.", "turkish": "Yenilik merakla başlar.", "pronunciation": "ye-ni-lik me-rak-la bash-lar."},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "turkish": "Kendi içinde huzur bul.", "pronunciation": "ken-di i-chin-de hu-zur bul."},
-            {"english": "Breathe, relax, let go.", "turkish": "Nefes al, rahatla, bırak git.", "pronunciation": "ne-fes al, ra-hat-la, bu-rak git."},
-            {"english": "Calm mind, happy heart.", "turkish": "Sakin zihin, mutlu kalp.", "pronunciation": "sa-kin zi-hin, mut-lu kalp."},
-        ],
-        "Confidence": [
-            {"english": "You are enough, just as you are.", "turkish": "Olduğun gibi yeterlisin.", "pronunciation": "ol-du-un gi-bi ye-ter-li-sin."},
-            {"english": "Stand tall, speak up.", "turkish": "Dik dur, sesini yükselt.", "pronunciation": "dik dur, se-si-ni yuk-selt."},
-            {"english": "Believe in your abilities.", "turkish": "Yeteneklerine güven.", "pronunciation": "ye-te-nek-le-ri-ne gu-ven."},
-        ],
-        "Perseverance": [
-            {"english": "Never give up, keep pushing.", "turkish": "Asla pes etme, devam et.", "pronunciation": "as-la pes et-me, de-vam et."},
-            {"english": "Storms make trees take deeper roots.", "turkish": "Fırtınalar ağaçların köklerini derinleştirir.", "pronunciation": "fur-tu-na-lar a-ach-la-run kok-le-ri-ni de-rin-lesh-ti-rir."},
-            {"english": "Patience and persistence win.", "turkish": "Sabır ve azim kazanır.", "pronunciation": "sa-bur ve a-zim ka-za-nur."},
-        ],
-        "Inspiration": [
-            {"english": "Let your light shine bright.", "turkish": "Işığın parlak parlasın.", "pronunciation": "i-shu-un par-lak par-la-sun."},
-            {"english": "Inspire others by your actions.", "turkish": "Başkalarına eylemlerinle ilham ver.", "pronunciation": "bash-ka-la-ru-na ey-lem-le-rin-le il-ham ver."},
-            {"english": "Be the change you want to see.", "turkish": "Görmek istediğin değişim ol.", "pronunciation": "gor-mek is-te-di-in de-i-shim ol."},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "turkish": "Her gün pozitifliği seç.", "pronunciation": "her gun po-zi-tif-li-i sech."},
-            {"english": "Good vibes only.", "turkish": "Sadece iyi enerji.", "pronunciation": "sa-de-ce i-yi e-ner-ji."},
-            {"english": "Life is what you make it.", "turkish": "Hayat senin ona kattığın gibidir.", "pronunciation": "ha-yat se-nin o-na kat-tu-un gi-bi-dir."},
-        ],
-        "Courage": [
-            {"english": "Be brave, take the first step.", "turkish": "Cesur ol, ilk adımı at.", "pronunciation": "ce-sur ol, ilk a-du-mu at."},
-            {"english": "Courage is not the absence of fear.", "turkish": "Cesaret korkunun yokluğu değildir.", "pronunciation": "ce-sa-ret kor-ku-nun yok-lu-u de-i-l-dir."},
-            {"english": "Face your fears head on.", "turkish": "Korkularınla yüzleş.", "pronunciation": "kor-ku-la-run-la yuz-lesh."},
-        ],
-        "Kindness": [
-            {"english": "Be kind to everyone you meet.", "turkish": "Tanıştığın herkese nazik ol.", "pronunciation": "ta-nush-tu-un her-ke-se na-zik ol."},
-            {"english": "Kindness costs nothing, means everything.", "turkish": "Nezaket hiçbir şeye mal olmaz, her şey demektir.", "pronunciation": "ne-za-ket hich-bir she-ye mal ol-maz, her shey de-mek-tir."},
-            {"english": "Spread kindness wherever you go.", "turkish": "Gittiğin her yerde nezaket saç.", "pronunciation": "git-ti-in her yer-de ne-za-ket sach."},
-        ],
-        "Patience": [
-            {"english": "Good things take time.", "turkish": "Güzel şeyler zaman alır.", "pronunciation": "gu-zel shey-ler za-man a-lur."},
-            {"english": "Wait patiently, trust the process.", "turkish": "Sabırla bekle, sürece güven.", "pronunciation": "sa-bur-la bek-le, su-re-ce gu-ven."},
-            {"english": "Rome wasn't built in a day.", "turkish": "Roma bir günde inşa edilmedi.", "pronunciation": "ro-ma bir gun-de in-sha e-dil-me-di."},
-        ],
-        "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "turkish": "Affet ve kendini özgür bırak.", "pronunciation": "af-fet ve ken-di-ni oz-gur bu-rak."},
-            {"english": "Let go of grudges, find peace.", "turkish": "Küskünlükleri bırak, huzur bul.", "pronunciation": "kus-kun-luk-le-ri bu-rak, hu-zur bul."},
-            {"english": "Forgiveness is a gift to yourself.", "turkish": "Affetmek kendine bir hediyedir.", "pronunciation": "af-fet-mek ken-di-ne bir he-di-ye-dir."},
-        ],
-        "Strength": [
-            {"english": "You are stronger than you know.", "turkish": "Bildiğinden daha güçlüsün.", "pronunciation": "bil-di-in-den da-ha guch-lu-sun."},
-            {"english": "Inner strength comes from within.", "turkish": "İçsel güç içeriden gelir.", "pronunciation": "ich-sel guch i-che-ri-den ge-lir."},
-            {"english": "Challenges make you stronger.", "turkish": "Zorluklar seni daha güçlü yapar.", "pronunciation": "zor-luk-lar se-ni da-ha guch-lu ya-par."},
-        ],
-        "Joy": [
-            {"english": "Find joy in every moment.", "turkish": "Her anda neşe bul.", "pronunciation": "her an-da ne-she bul."},
-            {"english": "Joy is contagious, spread it.", "turkish": "Neşe bulaşıcıdır, yay onu.", "pronunciation": "ne-she bu-la-shu-cu-dur, yay o-nu."},
-            {"english": "Dance like nobody's watching.", "turkish": "Kimse izlemiyormuş gibi dans et.", "pronunciation": "kim-se iz-le-mi-yor-mush gi-bi dans et."},
-        ],
-        "Balance": [
-            {"english": "Find balance in your life.", "turkish": "Hayatında denge bul.", "pronunciation": "ha-ya-tun-da den-ge bul."},
-            {"english": "Work hard, rest well.", "turkish": "Sıkı çalış, iyi dinlen.", "pronunciation": "sı-kı cha-lush, i-yi din-len."},
-            {"english": "Too much of anything is not good.", "turkish": "Her şeyin fazlası zarardır.", "pronunciation": "her she-yin faz-la-sı za-rar-dur."},
-        ],
-        "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "turkish": "Gelişim konfor alanının dışında olur.", "pronunciation": "ge-li-shim kon-for a-la-nu-nun du-shun-da o-lur."},
-            {"english": "Embrace change, grow stronger.", "turkish": "Değişimi kucakla, daha güçlü büyü.", "pronunciation": "de-i-shi-mi ku-jak-la, da-ha guch-lu bu-yu."},
-            {"english": "Every challenge is a chance to grow.", "turkish": "Her zorluk büyümek için bir fırsattır.", "pronunciation": "her zor-luk bu-yu-mek i-chin bir fur-sat-tur."},
-        ],
-        "Purpose": [
-            {"english": "Find your purpose, follow it.", "turkish": "Amacını bul, onu takip et.", "pronunciation": "a-ma-ju-nu bul, o-nu ta-kip et."},
-            {"english": "Your life has meaning.", "turkish": "Hayatının bir anlamı var.", "pronunciation": "ha-ya-tu-nun bir an-la-mu var."},
-            {"english": "Live with intention, not accident.", "turkish": "Niyetle yaşa, tesadüfen değil.", "pronunciation": "ni-yet-le ya-sha, te-sa-du-fen de-il."},
-        ],
-        "Mindfulness": [
-            {"english": "Be present in this moment.", "turkish": "Bu anda var ol.", "pronunciation": "bu an-da var ol."},
-            {"english": "Breathe deeply, stay grounded.", "turkish": "Derin nefes al, topraklanmış kal.", "pronunciation": "de-rin ne-fes al, top-rak-lan-mush kal."},
-            {"english": "Notice the little things around you.", "turkish": "Etrafındaki küçük şeyleri fark et.", "pronunciation": "et-ra-fun-da-ki ku-chuk shey-le-ri fark et."},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    history = load_phrase_history()
-    fresh_phrases = []
-    for p in fallbacks:
-        if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-            fresh_phrases.append(p)
-
-    if len(fresh_phrases) < num_phrases:
-        for cat, cat_fallbacks in all_fallbacks.items():
-            if cat != category:
-                for p in cat_fallbacks:
-                    if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-                        fresh_phrases.append(p)
-                    if len(fresh_phrases) >= num_phrases:
-                        break
-            if len(fresh_phrases) >= num_phrases:
-                break
-
-    return fresh_phrases[:num_phrases]
-
 
 # ============== AUDIO GENERATION ==============
 
@@ -595,39 +578,49 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
 
 
 def generate_all_audio(phrases: list, output_dir: str):
+    """Generate audio for all phrases with proper timing for a ~20-minute video"""
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
 
     for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        lang_file = output_dir / f"lang_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+        english_file = output_dir / f"english_{i:04d}.mp3"
+        foreign_file = output_dir / f"turkish_{i:04d}.mp3"
+        combined_file = output_dir / f"combined_{i:04d}.mp3"
 
-        if (i + 1) % 20 == 0:
+        if (i + 1) % 20 == 0 or (i + 1) == len(phrases):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
+        # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
         if not en_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["turkish"], LANG_VOICE, str(lang_file)))
-        if not lang_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
+        # Generate Foreign audio
+        foreign_text = phrase.get("turkish") or phrase.get("target") or phrase.get("foreign") or ""
+        foreign_success = asyncio.run(generate_single_audio(foreign_text, LANG_VOICE, str(foreign_file)))
+        if not foreign_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(foreign_file)]
             subprocess.run(cmd, capture_output=True)
 
+        # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        lang_duration = get_audio_duration(str(lang_file))
+        foreign_duration = get_audio_duration(str(foreign_file))
 
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + lang_duration
+        # Pedagogical pauses for optimal learning:
+        # 1.2s pause after English: allows learner to process English meaning and anticipate translation
+        # 2.0s pause after foreign phrase: allows learner to repeat aloud and study pronunciation
+        pause_mid = 1.2
+        pause_end = 2.0
 
+        # Combine audio files with precise ffmpeg apad
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(lang_file),
-            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
+            "-i", str(foreign_file),
+            "-filter_complex", f"[0:a]apad=pad_dur={pause_mid}[a0];[1:a]apad=pad_dur={pause_end}[a1];[a0][a1]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
@@ -635,10 +628,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         result = subprocess.run(cmd, capture_output=True, text=True)
 
         if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
+            concat_file = output_dir / f"concat_{i:04d}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{lang_file.as_posix()}'\n")
+                f.write(f"file '{foreign_file.as_posix()}'\n")
+
             cmd = [
                 "ffmpeg", "-y",
                 "-f", "concat", "-safe", "0",
@@ -655,16 +649,15 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "lang": str(lang_file),
+            "turkish": str(foreign_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "lang_duration": lang_duration
+            "foreign_duration": foreign_duration
         })
 
     print(f"\n[audio] Generated {len(audio_files)} phrase audios")
     return audio_files
-
 
 def get_audio_duration(audio_file: str) -> float:
     if not Path(audio_file).exists():
@@ -756,8 +749,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    turkish = phrase_data.get("turkish", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    turkish = phrase_data.get("turkish") or phrase_data.get("target") or phrase_data.get("foreign") or ""
+    pronunciation = phrase_data.get("pronunciation") or phrase_data.get("pronunciation") or phrase_data.get("pinyin") or phrase_data.get("romaji") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -953,30 +946,38 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_turkish: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_foreign: str, phrases: list, duration_minutes: float, output_dir: str):
+    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+    
+    count = len(phrases)
+    est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
+    
+    # Generate viral title variations
     titles = [
-        f"Learn Turkish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_turkish})",
-        f"60 Turkish Phrases for {category_english} | Speak Turkish Like a Native! ({category_turkish})",
-        f"Master Turkish {category_english} | 60 Essential Turkish Phrases with Pronunciation | Velocity Turkish",
-        f"Turkish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Learn Turkish in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
+        f"{count} Turkish Phrases for {category_english} | Speak Turkish Like a Native! ({category_foreign})",
+        f"Master Turkish {category_english} | {count} Essential Turkish Phrases with Pronunciation | VELOCITY TURKISH",
+        f"Turkish Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
         f"Speak Turkish Fluently | {category_english} Phrases | English + Turkish + Pronunciation",
     ]
 
-    description = f"""🇹🇷 Learn Turkish with Velocity Turkish! 🇹🇷
+    # Generate comprehensive description
+    description = f"""🇹🇷 Learn Turkish with VELOCITY TURKISH! 🇹🇷
 
-In this video, you'll learn 60 essential Turkish phrases about {category_english} ({category_turkish}).
+In this video, you'll learn {count} essential Turkish phrases about {category_english} ({category_foreign}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Turkish
-• Correct pronunciation guide
-• Natural pauses for speaking practice
+• {count} practical {category_english} phrases in Turkish
+• Correct pronunciation with phonetics
+• Natural pedagogical pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
 
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    # Add timestamps for each phrase (every 10 phrases grouped)
+    avg_phrase_duration = (duration_minutes * 60) / max(len(phrases), 1)
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -984,27 +985,30 @@ Perfect for beginners and intermediate learners!
         end_phrase = min(i + 10, len(phrases))
         description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
-    description += """
+    description += f"""
 📝 ALL PHRASES IN THIS VIDEO:
 """
 
+    # Add all phrases
     for i, phrase in enumerate(phrases, 1):
+        foreign_phrase_text = phrase.get("turkish") or phrase.get("target") or phrase.get("foreign") or ""
+        pron_phrase_text = phrase.get("pronunciation") or phrase.get("pronunciation") or phrase.get("pinyin") or phrase.get("romaji") or phrase.get("phonetic") or ""
         description += f"""
 {i}. {phrase['english']}
-   Turkish: {phrase['turkish']}
-   Pronunciation: {phrase['pronunciation']}
+   Turkish: {foreign_phrase_text}
+   Pronunciation: {pron_phrase_text}
 """
 
-    description += """
+    description += f"""
 🎯 PERFECT FOR:
 • Turkish beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Turkish language and culture
+• Anyone interested in Turkish culture
 • Language enthusiasts and polyglots
-• Students preparing for exams
+• Students preparing for Turkish language exams
 
 💡 TIPS FOR LEARNING:
-1. Repeat each phrase out loud
+1. Repeat each phrase out loud during the pause
 2. Practice daily for best results
 3. Use the pauses to speak along
 4. Write down phrases you find difficult
@@ -1023,14 +1027,16 @@ Perfect for beginners and intermediate learners!
 📖 RELATED VIDEOS:
 • Turkish Motivation Phrases
 • Turkish Love Expressions
+• Turkish Basics
 • Basic Turkish Greetings
 
-#LearnTurkish #TurkishPhrases #TurkishLanguage #{category_english.replace(' ', '')} #VelocityTurkish #TurkishForBeginners #SpeakTurkish #TurkishVocabulary #Pronunciation #LanguageLearning #Turkish101 #TurkishLesson
+#Turkish #TurkishPhrases #TurkishLanguage #{category_english.replace(' ', '')} #VELOCITYTURKISH #TurkishForBeginners #SpeakTurkish #TurkishVocabulary #LanguageLearning #Turkish101 #TurkishLesson
 
 ---
-© Velocity Turkish - Making Turkish learning accessible to everyone!
+© VELOCITY TURKISH - Making Turkish learning accessible to everyone!
 """
 
+    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1038,43 +1044,48 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        f.write("RECOMMENDED TITLES (Choose one):\n")
+        
+        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("SELECTED TITLE (Recommended):\n")
+        f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO DESCRIPTION:\n")
+        f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO TAGS (for YouTube):\n")
+        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Turkish",
-            "Turkish Phrases",
-            "Turkish Language",
+            f"Learn Turkish",
+            f"Turkish Phrases",
+            f"Turkish",
             category_english,
-            "Velocity Turkish",
-            "Turkish for Beginners",
-            "Speak Turkish",
-            "Turkish Vocabulary",
+            brand_text,
+            f"Turkish for Beginners",
+            f"Speak Turkish",
+            f"Turkish Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Turkish 101",
-            "Turkish Lesson"
+            f"Turkish 101",
+            f"Turkish Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
+    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_turkish": category_turkish,
+        "category_turkish": category_foreign,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1089,9 +1100,6 @@ Perfect for beginners and intermediate learners!
 
     return metadata
 
-
-# ============== VIDEO CREATION ==============
-
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
 
@@ -1101,7 +1109,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
         duration = audio_info['duration']
         print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         cmd = [
@@ -1114,7 +1122,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-c:a", "aac",
             "-b:a", "128k",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "ultrafast",
             "-shortest",
             "-vsync", "cfr",
             str(temp_clip)
