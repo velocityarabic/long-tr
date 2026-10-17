@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Welcome home, dear, how was your day?",
+      "turkish": "Hoş geldin canım, günün nasıldı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.887970"
+    },
+    {
+      "english": "I'm home now, anyone there?",
+      "turkish": "Ben geldim, evde kimse var mı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.887986"
+    },
+    {
+      "english": "Is dinner ready yet, I'm hungry!",
+      "turkish": "Akşam yemeği hazır mı, acıktım!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.887992"
+    },
+    {
+      "english": "Let's eat together, everyone!",
+      "turkish": "Hep birlikte yiyelim, hadi!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.887996"
+    },
+    {
+      "english": "Did you lock the door, love?",
+      "turkish": "Kapıyı kilitledin mi, aşkım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888002"
+    },
+    {
+      "english": "Don't forget your keys, please.",
+      "turkish": "Anahtarlarını unutma, lütfen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888007"
+    },
+    {
+      "english": "The house is so clean today!",
+      "turkish": "Ev bugün ne kadar temiz!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888012"
+    },
+    {
+      "english": "Who made this mess?",
+      "turkish": "Bu dağınıklığı kim yaptı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888023"
+    },
+    {
+      "english": "I need some quiet time, please.",
+      "turkish": "Biraz sessizliğe ihtiyacım var.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888028"
+    },
+    {
+      "english": "Can you turn down the TV?",
+      "turkish": "Televizyonun sesini kısar mısın?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888032"
+    },
+    {
+      "english": "Is the child sleeping soundly?",
+      "turkish": "Çocuk mışıl mışıl uyuyor mu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888036"
+    },
+    {
+      "english": "Don't make noise, baby's asleep.",
+      "turkish": "Ses yapma, bebek uyuyor.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888041"
+    },
+    {
+      "english": "I'll do the dishes, don't worry.",
+      "turkish": "Bulaşıkları ben yıkayacağım, merak etme.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888045"
+    },
+    {
+      "english": "Can you help me with this?",
+      "turkish": "Bana bunda yardım eder misin?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888049"
+    },
+    {
+      "english": "What are we having for lunch?",
+      "turkish": "Öğle yemeğinde ne var?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888053"
+    },
+    {
+      "english": "I bought groceries, need help unpacking.",
+      "turkish": "Alışveriş yaptım, yerleştirmeye yardım lazım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888057"
+    },
+    {
+      "english": "The blanket is so soft, lovely!",
+      "turkish": "Battaniye ne kadar yumuşak, harika!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888061"
+    },
+    {
+      "english": "Where did you put the remote?",
+      "turkish": "Kumandayı nereye koydun?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888065"
+    },
+    {
+      "english": "Did you pay the electricity bill?",
+      "turkish": "Elektrik faturasını ödedin mi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888070"
+    },
+    {
+      "english": "I need to clean the windows soon.",
+      "turkish": "Yakında camları temizlemem lazım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888073"
+    },
+    {
+      "english": "This is our cozy little home.",
+      "turkish": "Burası bizim şirin yuvamız.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888077"
+    },
+    {
+      "english": "Let's tidy up before guests arrive.",
+      "turkish": "Misafirler gelmeden toparlayalım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888081"
+    },
+    {
+      "english": "Is the heating on?, it's cold.",
+      "turkish": "Kombi yanıyor mu?, soğuk.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888086"
+    },
+    {
+      "english": "I'm folding laundry, can you help?",
+      "turkish": "Çamaşır katlıyorum, yardım eder misin?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888090"
+    },
+    {
+      "english": "The smell of home cooking, amazing!",
+      "turkish": "Ev yemeği kokusu, harika!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888094"
+    },
+    {
+      "english": "Don't leave the lights on, please.",
+      "turkish": "Işıkları açık bırakma, lütfen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888098"
+    },
+    {
+      "english": "Time for a family movie night!",
+      "turkish": "Ailece film izleme zamanı!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888102"
+    },
+    {
+      "english": "I love spending time at home.",
+      "turkish": "Evde vakit geçirmeyi seviyorum.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888105"
+    },
+    {
+      "english": "Is everything okay at home?",
+      "turkish": "Evde her şey yolunda mı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888121"
+    },
+    {
+      "english": "Let's make some tea, relax.",
+      "turkish": "Biraz çay yapalım, dinlenelim.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888125"
+    },
+    {
+      "english": "How is everyone, my dears?",
+      "turkish": "Herkes nasıl, canlarım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888129"
+    },
+    {
+      "english": "Are you comfortable here, guests?",
+      "turkish": "Rahat mısınız burada, misafirler?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888133"
+    },
+    {
+      "english": "What did you do today, child?",
+      "turkish": "Bugün ne yaptın bakalım, evlat?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888137"
+    },
+    {
+      "english": "Did you call your parents, dear?",
+      "turkish": "Anneni babanı aradın mı, canım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888142"
+    },
+    {
+      "english": "Is there anything needed, honey?",
+      "turkish": "Bir şeye ihtiyacınız var mı, balım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888146"
+    },
+    {
+      "english": "Who wants tea or coffee?",
+      "turkish": "Kim çay, kim kahve ister?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888149"
+    },
+    {
+      "english": "Should I prepare something, maybe?",
+      "turkish": "Bir şeyler hazırlayayım mı acaba?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888153"
+    },
+    {
+      "english": "How can I help you, friend?",
+      "turkish": "Nasıl yardımcı olabilirim sana, dostum?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888157"
+    },
+    {
+      "english": "Did you finish your homework, son?",
+      "turkish": "Ödevini bitirdin mi, oğlum?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888161"
+    },
+    {
+      "english": "What do you think about this, wife?",
+      "turkish": "Bunun hakkında ne düşünüyorsun, hanım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888165"
+    },
+    {
+      "english": "Shall we watch a movie tonight?",
+      "turkish": "Bu akşam film izleyelim mi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888169"
+    },
+    {
+      "english": "Is the table set for dinner?",
+      "turkish": "Akşam yemeği için masa kuruldu mu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888173"
+    },
+    {
+      "english": "Do we have fresh bread?",
+      "turkish": "Taze ekmeğimiz var mı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888177"
+    },
+    {
+      "english": "Can you pass the salt, please?",
+      "turkish": "Tuzu uzatır mısın, lütfen?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888181"
+    },
+    {
+      "english": "Have you seen my glasses, dear?",
+      "turkish": "Gözlüğümü gördün mü, hayatım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888185"
+    },
+    {
+      "english": "Is the baby awake yet?",
+      "turkish": "Bebek uyandı mı henüz?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888189"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "turkish": "Hafta sonu planların ne senin?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888192"
+    },
+    {
+      "english": "Did you water the plants today?",
+      "turkish": "Bugün çiçekleri suladın mı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888196"
+    },
+    {
+      "english": "Where should we go on holiday?",
+      "turkish": "Tatil için nereye gitsek?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888200"
+    },
+    {
+      "english": "Can you close the window, please?",
+      "turkish": "Pencereyi kapatır mısın, rica etsem?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888204"
+    },
+    {
+      "english": "Is the fire lit, it's cold?",
+      "turkish": "Ateş yandı mı, üşüyorum?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888208"
+    },
+    {
+      "english": "What time will you be back?",
+      "turkish": "Saat kaçta döneceksin eve?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888212"
+    },
+    {
+      "english": "Did you remember to buy milk?",
+      "turkish": "Süt almayı unutmadın değil mi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888215"
+    },
+    {
+      "english": "Who is at the door, I wonder?",
+      "turkish": "Acaba kapıda kim var?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888219"
+    },
+    {
+      "english": "Let's tidy our rooms, quickly!",
+      "turkish": "Odalarımızı toplayalım çabuk!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888224"
+    },
+    {
+      "english": "What do you want for dinner, love?",
+      "turkish": "Akşama ne istersin, canım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888227"
+    },
+    {
+      "english": "Is the laundry dry yet?",
+      "turkish": "Çamaşırlar kurudu mu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888234"
+    },
+    {
+      "english": "Can you help me, please, darling?",
+      "turkish": "Bana yardım eder misin, tatlım?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888238"
+    },
+    {
+      "english": "Is there any problem at home?",
+      "turkish": "Evde bir sıkıntı var mı?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888242"
+    },
+    {
+      "english": "Shall we have dessert after dinner?",
+      "turkish": "Yemekten sonra tatlı yiyelim mi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888246"
+    },
+    {
+      "english": "Home, sweet home, finally!",
+      "turkish": "Ev, mis kokulu ev, sonunda!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888250"
+    },
+    {
+      "english": "My castle, my rules, you know.",
+      "turkish": "Benim kalem, benim kurallarım, bilirsin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888257"
+    },
+    {
+      "english": "The heart of the home, is the kitchen.",
+      "turkish": "Evin kalbi, mutfaktır.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888261"
+    },
+    {
+      "english": "We are a bunch of happy chaos.",
+      "turkish": "Biz neşeli bir kaos ekibiyiz.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888264"
+    },
+    {
+      "english": "Family is everything, truly.",
+      "turkish": "Aile her şeydir, gerçekten.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888268"
+    },
+    {
+      "english": "Love grows here, naturally.",
+      "turkish": "Aşk burada, doğal olarak büyür.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888273"
+    },
+    {
+      "english": "This is our happy place, always.",
+      "turkish": "Burası bizim mutlu yerimiz, her zaman.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888277"
+    },
+    {
+      "english": "Home is where the Wi-Fi connects automatically.",
+      "turkish": "Ev, Wi-Fi'nin otomatik bağlandığı yerdir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888281"
+    },
+    {
+      "english": "Let's make some noise, together!",
+      "turkish": "Biraz ses yapalım, hep birlikte!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888285"
+    },
+    {
+      "english": "My comfort zone, is right here.",
+      "turkish": "Benim rahatlık alanım, tam olarak burası.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888289"
+    },
+    {
+      "english": "Who finished the cookies, again?",
+      "turkish": "Kurabiyeleri kim bitirdi, yine?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888293"
+    },
+    {
+      "english": "Our home is our sanctuary.",
+      "turkish": "Evimiz, bizim sığınağımızdır.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888296"
+    },
+    {
+      "english": "Life is better with family.",
+      "turkish": "Hayat aileyle daha güzeldir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888300"
+    },
+    {
+      "english": "The most important people, live here.",
+      "turkish": "En önemli insanlar, burada yaşar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888304"
+    },
+    {
+      "english": "Let's share a meal, happily.",
+      "turkish": "Bir öğün paylaşalım, mutlu bir şekilde.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888308"
+    },
+    {
+      "english": "This is where my heart is.",
+      "turkish": "Benim kalbimin olduğu yer burası.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888312"
+    },
+    {
+      "english": "We are all unique, thank goodness.",
+      "turkish": "Hepimiz benzersiziz, neyse ki.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888318"
+    },
+    {
+      "english": "Home is where you are loved.",
+      "turkish": "Ev, sevildiğin yerdir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888323"
+    },
+    {
+      "english": "Let's make some memories, today.",
+      "turkish": "Bugün biraz anı biriktirelim.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888327"
+    },
+    {
+      "english": "The walls have ears, sometimes.",
+      "turkish": "Duvarların kulakları vardır, bazen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888331"
+    },
+    {
+      "english": "My little kingdom, my sanctuary.",
+      "turkish": "Küçük krallığım, benim sığınağım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888335"
+    },
+    {
+      "english": "Every family has its own rhythm.",
+      "turkish": "Her ailenin kendi ritmi vardır.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888338"
+    },
+    {
+      "english": "We are a team, always.",
+      "turkish": "Biz bir takımız, her zaman.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888342"
+    },
+    {
+      "english": "Home is not a place, it's a feeling.",
+      "turkish": "Ev bir yer değil, bir duygudur.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888346"
+    },
+    {
+      "english": "Let's appreciate the little things.",
+      "turkish": "Küçük şeyleri takdir edelim.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888350"
+    },
+    {
+      "english": "This house runs on love, and coffee.",
+      "turkish": "Bu ev sevgiyle, ve kahveyle işler.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888354"
+    },
+    {
+      "english": "My favorite people, are at home.",
+      "turkish": "En sevdiğim insanlar, evde.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888358"
+    },
+    {
+      "english": "A messy house, means a happy life.",
+      "turkish": "Dağınık bir ev, mutlu bir hayat demektir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888365"
+    },
+    {
+      "english": "The key to happiness, is here.",
+      "turkish": "Mutluluğun anahtarı, burada.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888370"
+    },
+    {
+      "english": "This feeling, is so peaceful.",
+      "turkish": "Bu his, çok huzurlu.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888374"
+    },
+    {
+      "english": "Patience is a virtue, especially here.",
+      "turkish": "Sabır bir erdemdir, özellikle burada.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888378"
+    },
+    {
+      "english": "We learn from each other, daily.",
+      "turkish": "Birbirimizden öğreniyoruz, her gün.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888382"
+    },
+    {
+      "english": "My heart feels full, right now.",
+      "turkish": "Kalbim dolu hissediyor, şu an.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888386"
+    },
+    {
+      "english": "Understanding is key, my dear.",
+      "turkish": "Anlayış önemlidir, canım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888393"
+    },
+    {
+      "english": "Let's talk honestly, about feelings.",
+      "turkish": "Dürüstçe konuşalım, duygular hakkında.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888398"
+    },
+    {
+      "english": "Home reflects who we are.",
+      "turkish": "Ev, kim olduğumuzu yansıtır.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888401"
+    },
+    {
+      "english": "This quiet moment, is precious.",
+      "turkish": "Bu sessiz an, çok değerli.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888405"
+    },
+    {
+      "english": "Forgiveness makes us stronger, together.",
+      "turkish": "Affetmek bizi güçlendirir, birlikte.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888409"
+    },
+    {
+      "english": "I truly cherish this bond.",
+      "turkish": "Bu bağı gerçekten çok seviyorum.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888413"
+    },
+    {
+      "english": "Let's listen with empathy, always.",
+      "turkish": "Empatiyle dinleyelim, her zaman.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888417"
+    },
+    {
+      "english": "Our home holds deep memories.",
+      "turkish": "Evimiz derin anılar saklar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888421"
+    },
+    {
+      "english": "It's okay to feel vulnerable, here.",
+      "turkish": "Zayıf hissetmek sorun değil, burada.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888426"
+    },
+    {
+      "english": "True connection, is a gift.",
+      "turkish": "Gerçek bağ, bir hediyedir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888430"
+    },
+    {
+      "english": "We grow through honest conversation.",
+      "turkish": "Dürüst sohbetle büyürüz.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888434"
+    },
+    {
+      "english": "This warmth, feels like home.",
+      "turkish": "Bu sıcaklık, ev gibi.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888438"
+    },
+    {
+      "english": "Acceptance is crucial, for peace.",
+      "turkish": "Kabul etmek önemlidir, huzur için.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888442"
+    },
+    {
+      "english": "My reflection, in these walls.",
+      "turkish": "Yansımam, bu duvarlarda.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888445"
+    },
+    {
+      "english": "Love requires continuous effort.",
+      "turkish": "Sevgi sürekli çaba gerektirir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888449"
+    },
+    {
+      "english": "This shared silence, is comforting.",
+      "turkish": "Bu paylaşılan sessizlik, rahatlatıcı.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888452"
+    },
+    {
+      "english": "Kindness builds strong foundations.",
+      "turkish": "İyilik sağlam temeller kurar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888455"
+    },
+    {
+      "english": "My deepest thoughts, are here.",
+      "turkish": "En derin düşüncelerim, buradalar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888458"
+    },
+    {
+      "english": "We navigate life's challenges, together.",
+      "turkish": "Hayatın zorluklarını, birlikte aşarız.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888461"
+    },
+    {
+      "english": "This sense of belonging, is everything.",
+      "turkish": "Bu aidiyet hissi, her şey.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888464"
+    },
+    {
+      "english": "Let's be gentle with ourselves.",
+      "turkish": "Kendimize karşı nazik olalım.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888468"
+    },
+    {
+      "english": "Home is where healing happens.",
+      "turkish": "Ev, iyileşmenin olduğu yer.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888470"
+    },
+    {
+      "english": "Your presence, brings me joy.",
+      "turkish": "Senin varlığın, bana neşe verir.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888474"
+    },
+    {
+      "english": "We build trust, brick by brick.",
+      "turkish": "Güveni inşa ederiz, tuğla tuğla.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888476"
+    },
+    {
+      "english": "This peace, is hard-earned.",
+      "turkish": "Bu huzur, zor kazanıldı.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888482"
+    },
+    {
+      "english": "My heart speaks the truth, here.",
+      "turkish": "Kalbim gerçeği söyler, burada.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888485"
+    },
+    {
+      "english": "Who is responsible, for the dishes tonight?",
+      "turkish": "Bulaşıklardan, bu akşam kim sorumlu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:36.888488"
+    }
+  ],
+  "last_updated": "2026-10-17T07:25:36.888490"
+}
