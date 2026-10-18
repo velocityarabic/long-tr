@@ -719,7 +719,727 @@
       "turkish": "Bulaşıklardan, bu akşam kim sorumlu?",
       "category": "Family & Home",
       "generated_at": "2026-10-17T07:25:36.888488"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "turkish": "Affedersin, benim hatam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135239"
+    },
+    {
+      "english": "I apologize, truly.",
+      "turkish": "Özür dilerim, gerçekten.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135253"
+    },
+    {
+      "english": "Please forgive me.",
+      "turkish": "Lütfen beni affet.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135264"
+    },
+    {
+      "english": "Can you overlook this?",
+      "turkish": "Bunu görmezden gelebilir misin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135267"
+    },
+    {
+      "english": "My mistake, sorry.",
+      "turkish": "Benim hatam, kusura bakma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135270"
+    },
+    {
+      "english": "I didn't mean to.",
+      "turkish": "Kasıtlı yapmadım.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135273"
+    },
+    {
+      "english": "Hope you can forgive me.",
+      "turkish": "Umarım beni affedersin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135275"
+    },
+    {
+      "english": "I regret my actions.",
+      "turkish": "Yaptıklarımdan pişmanım.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135280"
+    },
+    {
+      "english": "Can we move past this?",
+      "turkish": "Bunu geride bırakabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135284"
+    },
+    {
+      "english": "It was unintentional.",
+      "turkish": "Niyetim kötü değildi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135288"
+    },
+    {
+      "english": "Please accept my apology.",
+      "turkish": "Özümü kabul et.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135291"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "turkish": "Mahvettim, üzgünüm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135294"
+    },
+    {
+      "english": "Can you forgive this once?",
+      "turkish": "Bu defalık affeder misin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135296"
+    },
+    {
+      "english": "I owe you an apology.",
+      "turkish": "Senden özür dilemeliyim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135299"
+    },
+    {
+      "english": "Please don't be mad.",
+      "turkish": "Lütfen kızma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135301"
+    },
+    {
+      "english": "I am so sorry.",
+      "turkish": "Çok üzgünüm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135304"
+    },
+    {
+      "english": "Forgive my rudeness.",
+      "turkish": "Kabalığım için affet.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135307"
+    },
+    {
+      "english": "It won't happen again.",
+      "turkish": "Bir daha olmayacak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135309"
+    },
+    {
+      "english": "Can you let it go?",
+      "turkish": "Boş ver, olur mu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135312"
+    },
+    {
+      "english": "I am truly sorry.",
+      "turkish": "Gerçekten çok üzgünüm.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135314"
+    },
+    {
+      "english": "I hope for your understanding.",
+      "turkish": "Anlayışını umuyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135317"
+    },
+    {
+      "english": "My apologies for the error.",
+      "turkish": "Hata için özür dilerim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135319"
+    },
+    {
+      "english": "Can we start over?",
+      "turkish": "Yeniden başlayabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135322"
+    },
+    {
+      "english": "I didn't realize.",
+      "turkish": "Farkında değildim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135324"
+    },
+    {
+      "english": "Please excuse me.",
+      "turkish": "Beni mazur gör.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135327"
+    },
+    {
+      "english": "I feel terrible about it.",
+      "turkish": "Bu durumdan dolayı çok kötü hissediyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135329"
+    },
+    {
+      "english": "Can you find it in your heart?",
+      "turkish": "Yüreğin elverir mi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135332"
+    },
+    {
+      "english": "I really messed up.",
+      "turkish": "Gerçekten mahvettim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135334"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "turkish": "Aklında ne var, gerçekten?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135337"
+    },
+    {
+      "english": "Can we talk about this, calmly?",
+      "turkish": "Bunu konuşabilir miyiz, sakin sakin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135343"
+    },
+    {
+      "english": "How do you feel about what happened?",
+      "turkish": "Oldukça ne hissediyorsun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135346"
+    },
+    {
+      "english": "Is there something bothering you?",
+      "turkish": "Seni rahatsız eden bir şey mi var?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135349"
+    },
+    {
+      "english": "What if we try a different approach?",
+      "turkish": "Farklı bir yol denesek nasıl olur?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135352"
+    },
+    {
+      "english": "Do you think we can resolve this?",
+      "turkish": "Bunu çözebilir miyiz sence?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135355"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "turkish": "Bana ne tavsiye edersin?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135358"
+    },
+    {
+      "english": "How can I make this right?",
+      "turkish": "Bunu nasıl düzeltebilirim?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135360"
+    },
+    {
+      "english": "Are you open to hearing me out?",
+      "turkish": "Beni dinlemeye açık mısın?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135365"
+    },
+    {
+      "english": "What would help you feel better?",
+      "turkish": "Senin daha iyi hissetmeni ne sağlar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135368"
+    },
+    {
+      "english": "Can we find common ground here?",
+      "turkish": "Burada ortak bir zemin bulabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135371"
+    },
+    {
+      "english": "Tell me, what are your expectations?",
+      "turkish": "Söyle bakalım, beklentilerin neler?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135374"
+    },
+    {
+      "english": "Do you need some space, maybe?",
+      "turkish": "Biraz zamana ihtiyacın var belki?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135376"
+    },
+    {
+      "english": "What's the best way forward, do you think?",
+      "turkish": "İlerisi için en iyi yol ne, sence?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135381"
+    },
+    {
+      "english": "Could you explain your perspective?",
+      "turkish": "Bakış açını anlatır mısın?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135384"
+    },
+    {
+      "english": "What lesson did you learn from this?",
+      "turkish": "Bundan ne ders çıkardın?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135387"
+    },
+    {
+      "english": "How can we prevent this in future?",
+      "turkish": "Bunu gelecekte nasıl önleyebiliriz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135389"
+    },
+    {
+      "english": "Is there anything I can do now?",
+      "turkish": "Şimdi yapabileceğim bir şey var mı?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135392"
+    },
+    {
+      "english": "Would you be willing to reconsider?",
+      "turkish": "Tekrar düşünmeye istekli olur musun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135394"
+    },
+    {
+      "english": "What does forgiveness mean to you?",
+      "turkish": "Affetmek senin için ne demek?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135397"
+    },
+    {
+      "english": "Should we seek mediation, perhaps?",
+      "turkish": "Belki bir arabulucuya gitmeliyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135402"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "turkish": "Nasıl bir sonuç umuyorsun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135404"
+    },
+    {
+      "english": "Can we agree on a path forward?",
+      "turkish": "Gelecek için bir yol üzerinde anlaşabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135407"
+    },
+    {
+      "english": "What would closure look like?",
+      "turkish": "Kapanış nasıl görünür?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135409"
+    },
+    {
+      "english": "Did you consider other viewpoints?",
+      "turkish": "Başka bakış açılarını düşündün mü?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135412"
+    },
+    {
+      "english": "What needs to happen for peace?",
+      "turkish": "Huzur için ne olması gerek?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135415"
+    },
+    {
+      "english": "How can we rebuild trust, honestly?",
+      "turkish": "Güveni nasıl yeniden inşa edebiliriz, dürüstçe?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135418"
+    },
+    {
+      "english": "What's your honest reaction to this?",
+      "turkish": "Buna dürüst tepkin ne?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135421"
+    },
+    {
+      "english": "Can we mend this situation together?",
+      "turkish": "Bu durumu birlikte onarabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135424"
+    },
+    {
+      "english": "What's the key to moving on?",
+      "turkish": "İlerlemek için anahtar ne?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135426"
+    },
+    {
+      "english": "Let's focus on healing, okay?",
+      "turkish": "Hadi iyileşmeye odaklanalım, tamam mı?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135430"
+    },
+    {
+      "english": "Your strength is inspiring, truly.",
+      "turkish": "Gücün gerçekten ilham verici.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135433"
+    },
+    {
+      "english": "Breathe deep, let go of anger.",
+      "turkish": "Derin nefes al, kızgınlığı bırak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135436"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "turkish": "Harika gidiyorsun, devam et.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135439"
+    },
+    {
+      "english": "Peace starts within you.",
+      "turkish": "Huzur senin içinde başlar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135442"
+    },
+    {
+      "english": "This is a learning moment.",
+      "turkish": "Bu bir öğrenme anı.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135446"
+    },
+    {
+      "english": "Your positive energy shines.",
+      "turkish": "Pozitif enerjin parlıyor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135449"
+    },
+    {
+      "english": "We can overcome this, together.",
+      "turkish": "Bunun üstesinden gelebiliriz, birlikte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135452"
+    },
+    {
+      "english": "Every challenge makes us stronger.",
+      "turkish": "Her zorluk bizi güçlendirir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135455"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "turkish": "Her zaman iyi olana odaklan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135457"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "turkish": "Bunu başarabilirsin, inan buna.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135462"
+    },
+    {
+      "english": "Let kindness guide your heart.",
+      "turkish": "Nezaket kalbine rehberlik etsin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135465"
+    },
+    {
+      "english": "A new beginning awaits.",
+      "turkish": "Yeni bir başlangıç seni bekliyor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135467"
+    },
+    {
+      "english": "Your resilience is amazing.",
+      "turkish": "Dayanıklılığın harika.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135470"
+    },
+    {
+      "english": "Choose peace over conflict.",
+      "turkish": "Çatışma yerine huzuru seç.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135473"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "turkish": "Harika şeyler yapabilecek kapasitedesin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135476"
+    },
+    {
+      "english": "Let go, and feel lighter.",
+      "turkish": "Bırak gitsin, ve daha hafif hisset.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135478"
+    },
+    {
+      "english": "Your inner strength is immense.",
+      "turkish": "İçsel gücün muazzam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135481"
+    },
+    {
+      "english": "Embrace the present moment.",
+      "turkish": "Şimdiki anı kucakla.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135484"
+    },
+    {
+      "english": "You are growing, and that's good.",
+      "turkish": "Büyüyorsun, ve bu harika.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135487"
+    },
+    {
+      "english": "Be kind to yourself, always.",
+      "turkish": "Kendine karşı hep nazik ol.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135490"
+    },
+    {
+      "english": "This too shall pass.",
+      "turkish": "Bu da geçecek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135492"
+    },
+    {
+      "english": "Your journey is unique.",
+      "turkish": "Senin yolculuğun eşsiz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135495"
+    },
+    {
+      "english": "Find joy in small things.",
+      "turkish": "Küçük şeylerde neşe bul.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135498"
+    },
+    {
+      "english": "You are deserving of peace.",
+      "turkish": "Huzuru hak ediyorsun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135501"
+    },
+    {
+      "english": "Let your heart be light.",
+      "turkish": "Kalbin hafif olsun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135503"
+    },
+    {
+      "english": "Positive thoughts attract positivity.",
+      "turkish": "Pozitif düşünceler pozitif çeker.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135506"
+    },
+    {
+      "english": "You handle things well.",
+      "turkish": "Olayları iyi idare ediyorsun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135508"
+    },
+    {
+      "english": "Sending you good vibes.",
+      "turkish": "Sana iyi enerjiler gönderiyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135511"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "turkish": "Yarın yeni bir gün.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135513"
+    },
+    {
+      "english": "I need time, to reflect.",
+      "turkish": "Düşünmek için zamana ihtiyacım var.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135516"
+    },
+    {
+      "english": "Honesty builds bridges, truly.",
+      "turkish": "Dürüstlük köprüler kurar, gerçekten.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135519"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "turkish": "Sabır bir erdemdir, unutma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135522"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "turkish": "Duygularım geçerlidir, her zaman.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135527"
+    },
+    {
+      "english": "Let's speak our truths, gently.",
+      "turkish": "Gerçeklerimizi konuşalım, nazikçe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135530"
+    },
+    {
+      "english": "Can we talk, heart to heart?",
+      "turkish": "Kalpten kalbe konuşabilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135533"
+    },
+    {
+      "english": "Understanding takes effort, I know.",
+      "turkish": "Anlamak çaba ister, biliyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135536"
+    },
+    {
+      "english": "I'm learning to forgive, slowly.",
+      "turkish": "Affetmeyi öğreniyorum, yavaşça.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135539"
+    },
+    {
+      "english": "This requires deep thought.",
+      "turkish": "Bu derin düşünce gerektirir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135542"
+    },
+    {
+      "english": "What do you truly feel?",
+      "turkish": "Gerçekten ne hissediyorsun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135544"
+    },
+    {
+      "english": "My perspective might change.",
+      "turkish": "Bakış açım değişebilir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135547"
+    },
+    {
+      "english": "Let's be open, with each other.",
+      "turkish": "Birbirimize karşı açık olalım.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135550"
+    },
+    {
+      "english": "I value your honesty, greatly.",
+      "turkish": "Dürüstlüğünü çok önemserim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135555"
+    },
+    {
+      "english": "It's okay to be vulnerable.",
+      "turkish": "Kırılgan olmak sorun değil.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135558"
+    },
+    {
+      "english": "We both need understanding.",
+      "turkish": "İkimiz de anlayışa muhtacız.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135560"
+    },
+    {
+      "english": "My intention is peace.",
+      "turkish": "Niyetim barış.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135563"
+    },
+    {
+      "english": "Let's process this slowly.",
+      "turkish": "Bunu yavaşça işleyelim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135565"
+    },
+    {
+      "english": "Your feelings matter, a lot.",
+      "turkish": "Duyguların çok önemli.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135568"
+    },
+    {
+      "english": "Can we listen, truly listen?",
+      "turkish": "Gerçekten dinleyebilir miyiz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135571"
+    },
+    {
+      "english": "Forgiveness is a journey, not a destination.",
+      "turkish": "Affetmek bir yolculuktur, varış değil.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135573"
+    },
+    {
+      "english": "What do you need, right now?",
+      "turkish": "Şu anda neye ihtiyacın var?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135576"
+    },
+    {
+      "english": "I'm choosing empathy, today.",
+      "turkish": "Empatiyi seçiyorum, bugün.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135579"
+    },
+    {
+      "english": "Let's try to see, clearly.",
+      "turkish": "Net görmeye çalışalım.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135584"
+    },
+    {
+      "english": "I’m working on my patience.",
+      "turkish": "Sabır üzerinde çalışıyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135589"
+    },
+    {
+      "english": "My heart needs healing.",
+      "turkish": "Kalbim iyileşmeye ihtiyaç duyuyor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135592"
+    },
+    {
+      "english": "Let's be mindful, always.",
+      "turkish": "Her zaman bilinçli olalım.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135596"
+    },
+    {
+      "english": "I forgive myself, too.",
+      "turkish": "Kendimi de affediyorum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135598"
+    },
+    {
+      "english": "This feeling will pass.",
+      "turkish": "Bu duygu geçecek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135601"
+    },
+    {
+      "english": "Let's find resolution, together.",
+      "turkish": "Çözüm bulalım, birlikte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135604"
+    },
+    {
+      "english": "Let's forget the past, okay?",
+      "turkish": "Geçmişi silelim, olur mu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135609"
+    },
+    {
+      "english": "Don't hold grudges, breathe deep.",
+      "turkish": "Kin tutma, derin nefes al.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135612"
+    },
+    {
+      "english": "Let go of that anger, now.",
+      "turkish": "O öfkeyi bırak gitsin, şimdi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T07:39:51.135615"
     }
   ],
-  "last_updated": "2026-10-17T07:25:36.888490"
+  "last_updated": "2026-10-18T07:39:51.135617"
 }
