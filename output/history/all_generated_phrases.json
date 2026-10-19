@@ -1439,7 +1439,727 @@
       "turkish": "O öfkeyi bırak gitsin, şimdi.",
       "category": "Forgiveness",
       "generated_at": "2026-10-18T07:39:51.135615"
+    },
+    {
+      "english": "I am very happy, really.",
+      "turkish": "Çok mutluyum, gerçekten.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263569"
+    },
+    {
+      "english": "This makes me happy, you know.",
+      "turkish": "Bu beni mutlu ediyor, biliyorsun.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263586"
+    },
+    {
+      "english": "What a joyful day!",
+      "turkish": "Neşeli bir gün!",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263588"
+    },
+    {
+      "english": "Feeling great today, yes.",
+      "turkish": "Bugün harika hissediyorum, evet.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263590"
+    },
+    {
+      "english": "That's wonderful news, wow!",
+      "turkish": "Ne harika haber, vay!",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263592"
+    },
+    {
+      "english": "I'm so pleased, thank you.",
+      "turkish": "Çok memnun kaldım, teşekkürler.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263596"
+    },
+    {
+      "english": "This is pure bliss, isn't it?",
+      "turkish": "Bu tam bir mutluluk, değil mi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263598"
+    },
+    {
+      "english": "So happy to see you.",
+      "turkish": "Seni gördüğüme çok sevindim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263602"
+    },
+    {
+      "english": "Everything is going well.",
+      "turkish": "Her şey yolunda gidiyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263605"
+    },
+    {
+      "english": "I feel so alive, wow.",
+      "turkish": "Çok canlı hissediyorum, vay.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263607"
+    },
+    {
+      "english": "This is such a delight.",
+      "turkish": "Bu büyük bir keyif.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263609"
+    },
+    {
+      "english": "My heart is full of joy.",
+      "turkish": "Kalbim sevinçle dolu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263611"
+    },
+    {
+      "english": "What a pleasant surprise!",
+      "turkish": "Ne hoş bir sürpriz!",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263612"
+    },
+    {
+      "english": "Smiling a lot today.",
+      "turkish": "Bugün çok gülüyorum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263614"
+    },
+    {
+      "english": "This brought me joy.",
+      "turkish": "Bu bana neşe verdi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263638"
+    },
+    {
+      "english": "Feeling cheerful, absolutely.",
+      "turkish": "Neşeli hissediyorum, kesinlikle.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263640"
+    },
+    {
+      "english": "Life is good, isn't it?",
+      "turkish": "Hayat güzel, değil mi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263642"
+    },
+    {
+      "english": "This moment is perfect.",
+      "turkish": "Bu an mükemmel.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263643"
+    },
+    {
+      "english": "Pure happiness, right now.",
+      "turkish": "Saf mutluluk, şu an.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263645"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "turkish": "İyi bir ruh halindeyim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263647"
+    },
+    {
+      "english": "This is truly wonderful.",
+      "turkish": "Bu gerçekten harika.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263649"
+    },
+    {
+      "english": "So much positive energy.",
+      "turkish": "Çok pozitif enerji.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263651"
+    },
+    {
+      "english": "I feel blessed, truly.",
+      "turkish": "Kendimi şanslı hissediyorum, gerçekten.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263653"
+    },
+    {
+      "english": "What a happy occasion!",
+      "turkish": "Ne mutlu bir olay!",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263654"
+    },
+    {
+      "english": "This is simply amazing.",
+      "turkish": "Bu sadece harika.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263656"
+    },
+    {
+      "english": "Feeling content, yes.",
+      "turkish": "Memnun hissediyorum, evet.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263658"
+    },
+    {
+      "english": "Couldn't be happier, really.",
+      "turkish": "Daha mutlu olamazdım, gerçekten.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263660"
+    },
+    {
+      "english": "This brings a smile.",
+      "turkish": "Bu bir gülümseme getiriyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263663"
+    },
+    {
+      "english": "Such a joyful experience.",
+      "turkish": "Böyle neşeli bir deneyim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263665"
+    },
+    {
+      "english": "Everything feels right.",
+      "turkish": "Her şey doğru hissettiriyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263667"
+    },
+    {
+      "english": "How do you find happiness, generally?",
+      "turkish": "Mutluluğu nasıl buluyorsun, genelde?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263669"
+    },
+    {
+      "english": "What brings you joy, lately?",
+      "turkish": "Seni neşelendiren nedir, bu aralar?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263671"
+    },
+    {
+      "english": "Do you think small things matter?",
+      "turkish": "Küçük şeylerin önemli olduğunu düşünüyor musun?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263674"
+    },
+    {
+      "english": "Where do you seek peace, friend?",
+      "turkish": "Huzuru nerede ararsın, dostum?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263676"
+    },
+    {
+      "english": "Are you content with your life?",
+      "turkish": "Hayatından memnun musun?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263678"
+    },
+    {
+      "english": "What makes you smile, most days?",
+      "turkish": "Seni çoğu zaman ne gülümsetir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263680"
+    },
+    {
+      "english": "Any advice for feeling better?",
+      "turkish": "Daha iyi hissetmek için tavsiyen var mı?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263682"
+    },
+    {
+      "english": "Is it easy to be happy?",
+      "turkish": "Mutlu olmak kolay mıdır?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263686"
+    },
+    {
+      "english": "What's your secret to happiness?",
+      "turkish": "Mutluluk sırrın nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263688"
+    },
+    {
+      "english": "Can we talk about positive things?",
+      "turkish": "Pozitif şeyler hakkında konuşabilir miyiz?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263690"
+    },
+    {
+      "english": "What's your definition of joy?",
+      "turkish": "Neşenin tanımı nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263693"
+    },
+    {
+      "english": "How do you share your happiness?",
+      "turkish": "Mutluluğunu nasıl paylaşırsın?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263783"
+    },
+    {
+      "english": "Do you believe in good fortune?",
+      "turkish": "İyi şansa inanır mısın?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263785"
+    },
+    {
+      "english": "What makes a day great?",
+      "turkish": "Bir günü harika yapan nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263787"
+    },
+    {
+      "english": "Any tips for staying positive?",
+      "turkish": "Pozitif kalmak için ipuçların var mı?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263789"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "turkish": "Bugün ne için minnettarsın?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263791"
+    },
+    {
+      "english": "How do you handle stress, well?",
+      "turkish": "Stresi nasıl yönetirsin, iyi mi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263793"
+    },
+    {
+      "english": "Is inner peace achievable?",
+      "turkish": "İç huzura ulaşılabilir mi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263795"
+    },
+    {
+      "english": "What makes you feel hopeful?",
+      "turkish": "Seni umutlu hissettiren nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263797"
+    },
+    {
+      "english": "Do you often feel content?",
+      "turkish": "Sık sık memnun olur musun?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263798"
+    },
+    {
+      "english": "What's a simple joy for you?",
+      "turkish": "Senin için basit bir neşe nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263800"
+    },
+    {
+      "english": "How can we spread more cheer?",
+      "turkish": "Daha fazla neşe nasıl yayabiliriz?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263802"
+    },
+    {
+      "english": "What fuels your optimism?",
+      "turkish": "İyimserliğini ne besler?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263804"
+    },
+    {
+      "english": "Do you find joy in routine?",
+      "turkish": "Rutininde neşe bulur musun?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263807"
+    },
+    {
+      "english": "What makes you feel truly alive?",
+      "turkish": "Seni gerçekten canlı hissettiren nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263809"
+    },
+    {
+      "english": "Any thoughts on contentment?",
+      "turkish": "Memnuniyet hakkında düşüncelerin var mı?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263811"
+    },
+    {
+      "english": "What's your favorite happy memory?",
+      "turkish": "En sevdiğin mutlu anın nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263813"
+    },
+    {
+      "english": "How do you cultivate inner joy?",
+      "turkish": "İçsel neşeyi nasıl geliştirirsin?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263814"
+    },
+    {
+      "english": "What brings you peace of mind?",
+      "turkish": "Sana huzur veren nedir?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263816"
+    },
+    {
+      "english": "Do you believe happiness is learned?",
+      "turkish": "Mutluluğun öğrenildiğine inanır mısın?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263820"
+    },
+    {
+      "english": "My heart is full, truly.",
+      "turkish": "Kalbim coşuyor, inan.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263823"
+    },
+    {
+      "english": "Life is sweet, like honey.",
+      "turkish": "Hayat bal gibi tatlı.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263825"
+    },
+    {
+      "english": "Every day's a gift, really.",
+      "turkish": "Her gün bir hediye, vallahi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263827"
+    },
+    {
+      "english": "I'm on cloud nine, you know.",
+      "turkish": "Şu an bulutların üstündeyim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263829"
+    },
+    {
+      "english": "This is pure bliss, my friend.",
+      "turkish": "Bu saf bir mutluluk, canım.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263831"
+    },
+    {
+      "english": "My soul is singing, happily.",
+      "turkish": "Ruhum neşeyle ötüyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263833"
+    },
+    {
+      "english": "What a stroke of luck, wow!",
+      "turkish": "Ne şanslı bir an, vay!",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263838"
+    },
+    {
+      "english": "Feeling like a million bucks.",
+      "turkish": "Kendimi çok iyi hissediyorum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263840"
+    },
+    {
+      "english": "This makes my day, truly.",
+      "turkish": "Burası günümü güzelleştirdi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263843"
+    },
+    {
+      "english": "My cup is overflowing, yes.",
+      "turkish": "Bardağım taşıyor, evet.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263846"
+    },
+    {
+      "english": "This is the good life, surely.",
+      "turkish": "Bu tam anlamıyla güzel hayat.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263848"
+    },
+    {
+      "english": "I'm walking on sunshine, maybe.",
+      "turkish": "Güneşte yürüyorum sanki.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263850"
+    },
+    {
+      "english": "Everything's coming up roses.",
+      "turkish": "Her şey güllük gülistanlık.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263852"
+    },
+    {
+      "english": "A happy camper, that's me.",
+      "turkish": "Mutlu bir kampçı, benim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263854"
+    },
+    {
+      "english": "This feeling is just perfect.",
+      "turkish": "Bu his tam on ikiden.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263856"
+    },
+    {
+      "english": "Pure delight, from start to end.",
+      "turkish": "Başından sonuna dek saf keyif.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263858"
+    },
+    {
+      "english": "I've found my happy place, here.",
+      "turkish": "Mutlu olduğum yeri buldum, burası.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263860"
+    },
+    {
+      "english": "This is music to my ears.",
+      "turkish": "Bu benim kulağıma hoş geliyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263862"
+    },
+    {
+      "english": "Life's a bowl of cherries, indeed.",
+      "turkish": "Hayat bir kiraz yumağı, gerçekten.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263864"
+    },
+    {
+      "english": "Feeling absolutely fantastic, wow.",
+      "turkish": "Kendimi harika hissediyorum, vay.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263866"
+    },
+    {
+      "english": "This is simply divine, my dear.",
+      "turkish": "Bu ilahi bir şey, canım.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263868"
+    },
+    {
+      "english": "My spirits are soaring high.",
+      "turkish": "Keyfim bir hayli yerinde.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263871"
+    },
+    {
+      "english": "This is peak happiness, no joke.",
+      "turkish": "Bu zirve mutluluk, şaka değil.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263873"
+    },
+    {
+      "english": "Every moment is precious, truly.",
+      "turkish": "Her an çok değerli, gerçekten.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263875"
+    },
+    {
+      "english": "This is pure gold, I tell you.",
+      "turkish": "Bu tam altın değerinde, derim sana.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263877"
+    },
+    {
+      "english": "I'm blooming like a flower.",
+      "turkish": "Bir çiçek gibi açıyorum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263878"
+    },
+    {
+      "english": "This fills my heart with joy.",
+      "turkish": "Bu kalbimi neşeyle dolduruyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263880"
+    },
+    {
+      "english": "It's a sunshiny day inside.",
+      "turkish": "İçimde güneşli bir gün var.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263882"
+    },
+    {
+      "english": "Couldn't ask for more, really.",
+      "turkish": "Daha fazla ne isteyebilirim ki?",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263884"
+    },
+    {
+      "english": "Inner peace, is key, I think.",
+      "turkish": "İç huzur, anahtar, bence.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263886"
+    },
+    {
+      "english": "Acceptance brings, a calm feeling.",
+      "turkish": "Kabullenmek getirir, sakin bir his.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263887"
+    },
+    {
+      "english": "Gratitude makes, everything brighter.",
+      "turkish": "Şükran etmek, her şeyi parlak yapar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263890"
+    },
+    {
+      "english": "Reflecting, on good things, helps.",
+      "turkish": "İyi şeyleri, düşünmek, yardım eder.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263892"
+    },
+    {
+      "english": "Be patient, with yourself, always.",
+      "turkish": "Sabırlı ol, kendinle, her zaman.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263894"
+    },
+    {
+      "english": "Honesty with feelings, matters greatly.",
+      "turkish": "Duygularla dürüstlük, çok önemlidir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263896"
+    },
+    {
+      "english": "This quiet moment, feels perfect.",
+      "turkish": "Bu sessiz an, mükemmel hissettiriyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263898"
+    },
+    {
+      "english": "Finding joy, in small details, yes.",
+      "turkish": "Küçük detaylarda, neşe bulmak, evet.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263900"
+    },
+    {
+      "english": "My heart feels, truly content now.",
+      "turkish": "Kalbim gerçekten, şimdi huzurlu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263902"
+    },
+    {
+      "english": "Understanding myself, is a journey.",
+      "turkish": "Kendimi anlamak, bir yolculuktur.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263903"
+    },
+    {
+      "english": "Embracing imperfection, sets you free.",
+      "turkish": "Kusurluluğu kucaklamak, seni özgürleştirir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263905"
+    },
+    {
+      "english": "This moment's peace, is enough.",
+      "turkish": "Bu anın huzuru, yeterli.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263909"
+    },
+    {
+      "english": "Being present, truly makes happy.",
+      "turkish": "An'da olmak, gerçekten mutlu eder.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263911"
+    },
+    {
+      "english": "Authenticity, leads to happiness.",
+      "turkish": "Özlülük, mutluluğa götürür.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263913"
+    },
+    {
+      "english": "Deep breaths, calm the soul.",
+      "turkish": "Derin nefesler, ruhu sakinleştirir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263915"
+    },
+    {
+      "english": "Letting go, feels so freeing.",
+      "turkish": "Bırakmak, çok özgürleştirici hissettiriyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263917"
+    },
+    {
+      "english": "Kindness to others, reflects inward.",
+      "turkish": "Başkalarına nezaket, içeriye yansır.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263919"
+    },
+    {
+      "english": "My perspective, has shifted greatly.",
+      "turkish": "Bakış açım, büyük ölçüde değişti.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263921"
+    },
+    {
+      "english": "Contentment is, a quiet strength.",
+      "turkish": "Memnuniyet, sessiz bir güçtür.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263923"
+    },
+    {
+      "english": "Empathy feels, like connection.",
+      "turkish": "Empati, bağ kurmak gibi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263925"
+    },
+    {
+      "english": "This calm understanding, is rare.",
+      "turkish": "Bu sakin anlayış, nadirdir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263926"
+    },
+    {
+      "english": "I choose, to see the good.",
+      "turkish": "İyiyi görmeyi, seçiyorum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263929"
+    },
+    {
+      "english": "Honest reflection, heals the heart.",
+      "turkish": "Dürüst düşünce, kalbi iyileştirir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263931"
+    },
+    {
+      "english": "Patience with life's flow, is vital.",
+      "turkish": "Hayatın akışına sabır, hayati.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263933"
+    },
+    {
+      "english": "My spirit feels, deeply peaceful.",
+      "turkish": "Ruhum derinlemesine, huzurlu hissediyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263936"
+    },
+    {
+      "english": "This feeling of warmth, is genuine.",
+      "turkish": "Bu sıcaklık hissi, gerçek.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263937"
+    },
+    {
+      "english": "Acknowledging feelings, is progress.",
+      "turkish": "Duyguları kabul etmek, ilerlemedir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263939"
+    },
+    {
+      "english": "A quiet joy, settles within.",
+      "turkish": "Sessiz bir neşe, içime yerleşiyor.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263941"
+    },
+    {
+      "english": "Enjoy today, forget worries.",
+      "turkish": "Bugünün tadını çıkar, dertleri unut.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263943"
+    },
+    {
+      "english": "Simple pleasures, bring big smiles.",
+      "turkish": "Küçük zevkler, büyük gülümsemeler getirir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263945"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "turkish": "Kalbini dinle, o bilir.",
+      "category": "Happiness",
+      "generated_at": "2026-10-19T08:21:58.263947"
     }
   ],
-  "last_updated": "2026-10-18T07:39:51.135617"
+  "last_updated": "2026-10-19T08:21:58.263948"
 }
