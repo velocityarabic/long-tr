@@ -2159,7 +2159,727 @@
       "turkish": "Kalbini dinle, o bilir.",
       "category": "Happiness",
       "generated_at": "2026-10-19T08:21:58.263947"
+    },
+    {
+      "english": "Hello, I have a reservation.",
+      "turkish": "Merhaba, rezervasyonum var.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775540"
+    },
+    {
+      "english": "Do you have a single room?",
+      "turkish": "Tek kişilik odanız var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775556"
+    },
+    {
+      "english": "I'd like a double room, please.",
+      "turkish": "Çift kişilik oda rica ediyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775560"
+    },
+    {
+      "english": "How much is a room per night?",
+      "turkish": "Gecelik oda fiyatı ne kadar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775563"
+    },
+    {
+      "english": "Is breakfast included?",
+      "turkish": "Kahvaltı dahil mi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775566"
+    },
+    {
+      "english": "Can I see the room?",
+      "turkish": "Odayı görebilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775569"
+    },
+    {
+      "english": "This room is perfect, thank you.",
+      "turkish": "Bu oda harika, teşekkürler.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775572"
+    },
+    {
+      "english": "Where is the elevator?",
+      "turkish": "Asansör nerede?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775577"
+    },
+    {
+      "english": "Can I have the Wi-Fi password?",
+      "turkish": "Wi-Fi şifresini alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775581"
+    },
+    {
+      "english": "The key, please.",
+      "turkish": "Anahtar, lütfen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775584"
+    },
+    {
+      "english": "My room number is 305.",
+      "turkish": "Oda numaram 305.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775589"
+    },
+    {
+      "english": "Is there a safe in the room?",
+      "turkish": "Odada kasa var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775592"
+    },
+    {
+      "english": "I need an extra pillow.",
+      "turkish": "Ekstra bir yastık lazım.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775595"
+    },
+    {
+      "english": "Can you call a taxi?",
+      "turkish": "Taksi çağırabilir misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775597"
+    },
+    {
+      "english": "What time is checkout?",
+      "turkish": "Çıkış saati kaç?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775600"
+    },
+    {
+      "english": "I'd like to extend my stay.",
+      "turkish": "Kalış süresini uzatmak istiyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775603"
+    },
+    {
+      "english": "Is there a restaurant here?",
+      "turkish": "Burada restoran var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775606"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "turkish": "Fatura alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775608"
+    },
+    {
+      "english": "The air conditioning works.",
+      "turkish": "Klima çalışıyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775611"
+    },
+    {
+      "english": "It's a bit noisy, unfortunately.",
+      "turkish": "Maalesef biraz gürültülü.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775614"
+    },
+    {
+      "english": "I lost my room key.",
+      "turkish": "Oda anahtarımı kaybettim.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775617"
+    },
+    {
+      "english": "Is there a swimming pool?",
+      "turkish": "Yüzme havuzu var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775619"
+    },
+    {
+      "english": "I need a wake-up call.",
+      "turkish": "Sabah uyandırma servisi istiyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775622"
+    },
+    {
+      "english": "Could you charge this to my room?",
+      "turkish": "Bunu odama yazabilir misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775625"
+    },
+    {
+      "english": "The bathroom needs cleaning.",
+      "turkish": "Banyo temizlenmeli.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775627"
+    },
+    {
+      "english": "What time does the bar close?",
+      "turkish": "Bar kaçta kapanıyor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775630"
+    },
+    {
+      "english": "I'm checking out now.",
+      "turkish": "Şimdi çıkış yapıyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775651"
+    },
+    {
+      "english": "Everything was great, thanks.",
+      "turkish": "Her şey harikaydı, teşekkürler.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775657"
+    },
+    {
+      "english": "See you next time!",
+      "turkish": "Bir dahaki sefere görüşürüz!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775660"
+    },
+    {
+      "english": "What's the best room available?",
+      "turkish": "En uygun oda hangisi acaba?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775663"
+    },
+    {
+      "english": "Could you recommend a good hotel?",
+      "turkish": "İyi bir otel tavsiye eder misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775666"
+    },
+    {
+      "english": "Is there a balcony with a view?",
+      "turkish": "Manzaralı bir balkon var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775669"
+    },
+    {
+      "english": "Can I get a room with two beds?",
+      "turkish": "İki yataklı oda alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775672"
+    },
+    {
+      "english": "What time is check-in?",
+      "turkish": "Otele giriş saati kaç?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775675"
+    },
+    {
+      "english": "Do you have quiet rooms?",
+      "turkish": "Sessiz odalarınız var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775678"
+    },
+    {
+      "english": "Can we leave our luggage here?",
+      "turkish": "Eşyalarımızı burada bırakabilir miyiz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775681"
+    },
+    {
+      "english": "What's the Wi-Fi speed like?",
+      "turkish": "Wi-Fi hızı nasıl?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775684"
+    },
+    {
+      "english": "Is there a shuttle service?",
+      "turkish": "Servis hizmeti var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775687"
+    },
+    {
+      "english": "Could you help me with directions?",
+      "turkish": "Bana yol tarifi konusunda yardım eder misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775690"
+    },
+    {
+      "english": "Are pets allowed here?",
+      "turkish": "Burada evcil hayvan kabul ediliyor mu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775693"
+    },
+    {
+      "english": "What's the cancellation policy?",
+      "turkish": "İptal koşulları nelerdir?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775696"
+    },
+    {
+      "english": "Can I pay with a credit card?",
+      "turkish": "Kredi kartıyla ödeme yapabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775701"
+    },
+    {
+      "english": "Is there a late check-out option?",
+      "turkish": "Geç çıkış seçeneği var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775706"
+    },
+    {
+      "english": "How far is the city center?",
+      "turkish": "Şehir merkezine ne kadar uzaklıkta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775709"
+    },
+    {
+      "english": "Can I have an extra blanket?",
+      "turkish": "Ekstra bir battaniye alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775712"
+    },
+    {
+      "english": "Is there a gym in the hotel?",
+      "turkish": "Otelde spor salonu var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775714"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "turkish": "Oraya gitmenin en iyi yolu nedir?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775717"
+    },
+    {
+      "english": "Could you book a tour for me?",
+      "turkish": "Benim için bir tur ayarlayabilir misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775720"
+    },
+    {
+      "english": "Is there a non-smoking floor?",
+      "turkish": "Sigara içilmeyen kat var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775723"
+    },
+    {
+      "english": "Where can I find a pharmacy?",
+      "turkish": "Eczaneyi nerede bulabilirim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775725"
+    },
+    {
+      "english": "Can I get a map of the area?",
+      "turkish": "Bölgenin haritasını alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775728"
+    },
+    {
+      "english": "Is the heating working properly?",
+      "turkish": "Isıtma düzgün çalışıyor mu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775731"
+    },
+    {
+      "english": "Can you recommend a local restaurant?",
+      "turkish": "Yerel bir restoran tavsiye eder misiniz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775734"
+    },
+    {
+      "english": "Is there a lift for luggage?",
+      "turkish": "Bagajlar için asansör var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775736"
+    },
+    {
+      "english": "What are the reception hours?",
+      "turkish": "Resepsiyon saatleri nedir?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775741"
+    },
+    {
+      "english": "Can I borrow a hair dryer?",
+      "turkish": "Saç kurutma makinesi ödünç alabilir miyim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775743"
+    },
+    {
+      "english": "Is it safe to walk around at night?",
+      "turkish": "Geceleri etrafta yürümek güvenli mi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775746"
+    },
+    {
+      "english": "Do you have any brochures?",
+      "turkish": "Herhangi bir broşürünüz var mı?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775748"
+    },
+    {
+      "english": "Could you wake me up at 7 AM?",
+      "turkish": "Beni sabah 7'de uyandırır mısınız?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775751"
+    },
+    {
+      "english": "You can do this, believe yourself.",
+      "turkish": "Yapabilirsin, kendine inan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775754"
+    },
+    {
+      "english": "Every step forward is progress.",
+      "turkish": "Her ileri adım ilerlemedir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775757"
+    },
+    {
+      "english": "Small efforts, big results.",
+      "turkish": "Küçük çabalar, büyük sonuçlar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775762"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "turkish": "Pes etme, denemeye devam et.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775765"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "turkish": "Harika gidiyorsun, devam et!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775768"
+    },
+    {
+      "english": "Learning takes time, be patient.",
+      "turkish": "Öğrenmek zaman alır, sabırlı ol.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775771"
+    },
+    {
+      "english": "Mistakes are learning opportunities.",
+      "turkish": "Hatalar öğrenme fırsatlarıdır.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775774"
+    },
+    {
+      "english": "Think positive, feel positive.",
+      "turkish": "Pozitif düşün, pozitif hisset.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775777"
+    },
+    {
+      "english": "This is a good start.",
+      "turkish": "Bu iyi bir başlangıç.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775779"
+    },
+    {
+      "english": "You're getting better every day.",
+      "turkish": "Her gün daha iyi oluyorsun.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775782"
+    },
+    {
+      "english": "Embrace the challenge, you'll succeed.",
+      "turkish": "Meydan okumayı kucakla, başaracaksın.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775786"
+    },
+    {
+      "english": "Focus on your goals.",
+      "turkish": "Hedeflerine odaklan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775788"
+    },
+    {
+      "english": "Believe in your potential.",
+      "turkish": "Potansiyeline inan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775792"
+    },
+    {
+      "english": "You can overcome this.",
+      "turkish": "Bunun üstesinden gelebilirsin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775794"
+    },
+    {
+      "english": "Stay motivated, stay strong.",
+      "turkish": "Motivasyonunu yüksek tut, güçlü kal.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775797"
+    },
+    {
+      "english": "What a smart move!",
+      "turkish": "Ne akıllıca bir hareket!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775802"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "turkish": "Çaban takdire şayan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775805"
+    },
+    {
+      "english": "You've made great progress.",
+      "turkish": "Harika bir ilerleme kaydettin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775807"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "turkish": "O olumlu tavrını sürdür.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775810"
+    },
+    {
+      "english": "Learn from every experience.",
+      "turkish": "Her deneyimden ders çıkar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775813"
+    },
+    {
+      "english": "You are capable of more.",
+      "turkish": "Daha fazlasını yapabilirsin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775815"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "turkish": "Yeteneklerinden şüphe etme.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775818"
+    },
+    {
+      "english": "Great job, keep going!",
+      "turkish": "Aferin, devam et!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775821"
+    },
+    {
+      "english": "You're on the right track.",
+      "turkish": "Doğru yoldasın.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775829"
+    },
+    {
+      "english": "A positive mind, a positive life.",
+      "turkish": "Pozitif zihin, pozitif hayat.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775833"
+    },
+    {
+      "english": "Celebrate your successes.",
+      "turkish": "Başarılarını kutla.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775836"
+    },
+    {
+      "english": "You've got this!",
+      "turkish": "Bunu başarabilirsin!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775838"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "turkish": "Limitlerini zorlamaya devam et.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775841"
+    },
+    {
+      "english": "This is a fantastic effort.",
+      "turkish": "Bu harika bir çaba.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775844"
+    },
+    {
+      "english": "You're learning so fast!",
+      "turkish": "Çok hızlı öğreniyorsun!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775847"
+    },
+    {
+      "english": "This view, really touches my soul.",
+      "turkish": "Bu manzara, gerçekten ruhuma dokunuyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775850"
+    },
+    {
+      "english": "I feel so peaceful here, surprisingly.",
+      "turkish": "Şaşırtıcı bir şekilde, burada huzurluyum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775853"
+    },
+    {
+      "english": "Sometimes, quiet moments mean everything.",
+      "turkish": "Bazen, sessiz anlar her şeyi ifade eder.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775856"
+    },
+    {
+      "english": "This hotel, feels like a gentle hug.",
+      "turkish": "Bu otel, nazik bir kucaklama gibi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775859"
+    },
+    {
+      "english": "I'm reflecting, on this whole experience.",
+      "turkish": "Tüm bu deneyimi, düşünüyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775862"
+    },
+    {
+      "english": "The atmosphere here, is truly calming.",
+      "turkish": "Buradaki atmosfer, gerçekten sakinleştirici.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775866"
+    },
+    {
+      "english": "Lost in thought, by this window.",
+      "turkish": "Bu pencere kenarında, dalmışım düşüncelere.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775869"
+    },
+    {
+      "english": "It's the small details, that matter most.",
+      "turkish": "En çok, küçük detaylar önemlidir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775872"
+    },
+    {
+      "english": "Feeling grateful, for this quiet escape.",
+      "turkish": "Bu sakin kaçış için, minnettarım.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775876"
+    },
+    {
+      "english": "This stay, has been a true balm.",
+      "turkish": "Bu konaklama, gerçek bir merhem oldu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775879"
+    },
+    {
+      "english": "My heart feels, surprisingly full.",
+      "turkish": "Kalbim şaşırtıcı derecede, dolu hissediyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775882"
+    },
+    {
+      "english": "I need time, to process this comfort.",
+      "turkish": "Bu rahatlığı, sindirmek için zamana ihtiyacım var.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775885"
+    },
+    {
+      "english": "This tranquility, is deeply felt.",
+      "turkish": "Bu dinginlik, derinden hissediliyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775888"
+    },
+    {
+      "english": "Allowing myself, to just be here.",
+      "turkish": "Kendime, sadece burada olmaya izin veriyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775890"
+    },
+    {
+      "english": "Such simple joys, are often overlooked.",
+      "turkish": "Böyle basit neşeler, çoğu zaman göz ardı edilir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775895"
+    },
+    {
+      "english": "Finding solace, in this quiet room.",
+      "turkish": "Bu sessiz odada, teselli buluyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775898"
+    },
+    {
+      "english": "This journey, has taught me patience.",
+      "turkish": "Bu yolculuk, bana sabrı öğretti.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775901"
+    },
+    {
+      "english": "I'm letting go, of all the stress.",
+      "turkish": "Tüm stresi, serbest bırakıyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775906"
+    },
+    {
+      "english": "This place, feels like a gentle reset.",
+      "turkish": "Burası, nazik bir sıfırlama gibi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775909"
+    },
+    {
+      "english": "A moment of pure, quiet reflection.",
+      "turkish": "Saf, sessiz bir tefekkür anı.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775912"
+    },
+    {
+      "english": "Cherishing this, much-needed calm.",
+      "turkish": "Bu çok ihtiyaç duyulan sakinliği, özlüyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775915"
+    },
+    {
+      "english": "My thoughts wander, in this peaceful setting.",
+      "turkish": "Düşüncelerim, bu huzurlu ortamda dolaşıyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775918"
+    },
+    {
+      "english": "It's nice, to simply exist here.",
+      "turkish": "Burada sadece var olmak, güzel.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775922"
+    },
+    {
+      "english": "This feeling, is truly grounding.",
+      "turkish": "Bu his, gerçekten topraklayıcı.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775924"
+    },
+    {
+      "english": "I'm embracing, this slow pace.",
+      "turkish": "Bu yavaş tempoyu, kucaklıyorum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775927"
+    },
+    {
+      "english": "Deep breaths, in this serene air.",
+      "turkish": "Derin nefesler, bu dingin havada.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775930"
+    },
+    {
+      "english": "This escape, feels deeply restorative.",
+      "turkish": "Bu kaçış, derinden dinlendirici hissettiriyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775933"
+    },
+    {
+      "english": "Finding beauty, in the ordinary.",
+      "turkish": "Sıradanlıkta, güzellik bulmak.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775938"
+    },
+    {
+      "english": "My inner voice, speaks clearly now.",
+      "turkish": "İç sesim, şimdi net konuşuyor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775941"
+    },
+    {
+      "english": "This peace, is a precious gift.",
+      "turkish": "Bu huzur, değerli bir armağan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775943"
+    },
+    {
+      "english": "The air conditioning isn't working, sorry.",
+      "turkish": "Klima çalışmıyor, kusura bakmayın.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-20T08:05:59.775947"
     }
   ],
-  "last_updated": "2026-10-19T08:21:58.263948"
+  "last_updated": "2026-10-20T08:05:59.775949"
 }
