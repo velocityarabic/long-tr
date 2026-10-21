@@ -2879,7 +2879,727 @@
       "turkish": "Klima çalışmıyor, kusura bakmayın.",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-10-20T08:05:59.775947"
+    },
+    {
+      "english": "Patience, young grasshopper.",
+      "turkish": "Sabırlı ol, çırak.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316074"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "turkish": "Daha çok dinle, az konuş.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316089"
+    },
+    {
+      "english": "The early bird, catches the worm.",
+      "turkish": "Erken kalkan yol alır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316093"
+    },
+    {
+      "english": "Don't count your chickens, before they hatch.",
+      "turkish": "Dereyi görmeden, paçayı sıvama.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316096"
+    },
+    {
+      "english": "Think before you speak.",
+      "turkish": "Konuşmadan önce düşün.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316098"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "turkish": "Her işte, bir hayır vardır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316101"
+    },
+    {
+      "english": "Actions speak, louder than words.",
+      "turkish": "Laf değil, icraat önemli.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316104"
+    },
+    {
+      "english": "Look before you leap.",
+      "turkish": "Taşın gediğine, oturtmak lazım.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316110"
+    },
+    {
+      "english": "Wisdom comes with age.",
+      "turkish": "Akıl yaşta değil, baştadır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316117"
+    },
+    {
+      "english": "Learn from your mistakes.",
+      "turkish": "Hatalardan ders çıkar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316120"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "turkish": "Aheste hareket, kubbe yıkar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316123"
+    },
+    {
+      "english": "A penny saved, is a penny earned.",
+      "turkish": "Tasarruf, zirvedir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316213"
+    },
+    {
+      "english": "The journey of a thousand miles, begins with one step.",
+      "turkish": "Her şey, küçük başlar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316217"
+    },
+    {
+      "english": "Don't put all your eggs, in one basket.",
+      "turkish": "Bütün yumurtaları, aynı sepete koyma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316220"
+    },
+    {
+      "english": "When in Rome, do as the Romans do.",
+      "turkish": "Nereye gidersen, öyle yap.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316223"
+    },
+    {
+      "english": "Better late, than never.",
+      "turkish": "Geç olsun, güç olmasın.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316225"
+    },
+    {
+      "english": "Practice makes perfect.",
+      "turkish": "İşleyen demir, pas tutmaz.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316227"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "turkish": "Dost kara günde, belli olur.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316230"
+    },
+    {
+      "english": "Look for the good, in everyone.",
+      "turkish": "Her insanda, iyilik ara.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316233"
+    },
+    {
+      "english": "Honesty is the best policy.",
+      "turkish": "Doğruluk, en iyi yoldur.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316235"
+    },
+    {
+      "english": "Make hay, while the sun shines.",
+      "turkish": "Fırsatı, iyi değerlendir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316237"
+    },
+    {
+      "english": "It's never too late, to learn.",
+      "turkish": "Öğrenmenin yaşı, yoktur.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316240"
+    },
+    {
+      "english": "Silence is golden.",
+      "turkish": "Sessizlik, altındır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316242"
+    },
+    {
+      "english": "Don't judge a book, by its cover.",
+      "turkish": "Dış görünüşe, aldanma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316244"
+    },
+    {
+      "english": "What goes around, comes around.",
+      "turkish": "Ne ekersen, onu biçersin.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316246"
+    },
+    {
+      "english": "The truth will set you free.",
+      "turkish": "Gerçek, her zaman kazanır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316248"
+    },
+    {
+      "english": "Knowledge is power.",
+      "turkish": "Bilgi, güçtür.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316250"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "turkish": "Değişim sen ol.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316253"
+    },
+    {
+      "english": "Tomorrow is another day.",
+      "turkish": "Yarın, yeni bir gün.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316255"
+    },
+    {
+      "english": "Keep your friends close, and your enemies closer.",
+      "turkish": "Düşmanını, yakın tut.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316257"
+    },
+    {
+      "english": "Can you give, advice?",
+      "turkish": "Akıl verebilir misin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316260"
+    },
+    {
+      "english": "What is your, opinion?",
+      "turkish": "Senin fikrin nedir?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316262"
+    },
+    {
+      "english": "How should I, approach this?",
+      "turkish": "Buna nasıl yaklaşmalıyım?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316265"
+    },
+    {
+      "english": "What if, I fail?",
+      "turkish": "Ya başarısız olursam?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316267"
+    },
+    {
+      "english": "Is this, the right way?",
+      "turkish": "Bu doğru yol mu?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316270"
+    },
+    {
+      "english": "What lessons, have you learned?",
+      "turkish": "Ne dersler, çıkardın?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316272"
+    },
+    {
+      "english": "Can we discuss, this matter?",
+      "turkish": "Bu konuyu, konuşabilir miyiz?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316275"
+    },
+    {
+      "english": "What is, the deeper meaning?",
+      "turkish": "Daha derin anlamı ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316279"
+    },
+    {
+      "english": "Tell me more, please.",
+      "turkish": "Bana daha fazla anlat.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316282"
+    },
+    {
+      "english": "What is your, perspective?",
+      "turkish": "Senin bakış açın ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316284"
+    },
+    {
+      "english": "Are you sure, about that?",
+      "turkish": "Bundan emin misin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316288"
+    },
+    {
+      "english": "What is the, best solution?",
+      "turkish": "En iyi çözüm ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316291"
+    },
+    {
+      "english": "How do you, handle challenges?",
+      "turkish": "Zorluklarla nasıl başa çıkarsın?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316293"
+    },
+    {
+      "english": "What do you, recommend?",
+      "turkish": "Ne tavsiye edersin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316296"
+    },
+    {
+      "english": "Should I consider, other options?",
+      "turkish": "Başka seçenekleri de düşünmeli miyim?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316299"
+    },
+    {
+      "english": "What have you, observed?",
+      "turkish": "Ne gözlemledin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316301"
+    },
+    {
+      "english": "Can you explain, this point?",
+      "turkish": "Bu noktayı açıklayabilir misin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316303"
+    },
+    {
+      "english": "What is the, outcome?",
+      "turkish": "Sonuç ne olacak?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316306"
+    },
+    {
+      "english": "What wisdom, do you share?",
+      "turkish": "Hangi bilgeliği, paylaşıyorsun?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316308"
+    },
+    {
+      "english": "Is there, another way?",
+      "turkish": "Başka bir yolu var mı?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316310"
+    },
+    {
+      "english": "What's your, take on this?",
+      "turkish": "Bu konudaki görüşün ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316313"
+    },
+    {
+      "english": "Did you find, a solution?",
+      "turkish": "Bir çözüm buldun mu?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316315"
+    },
+    {
+      "english": "What should I, avoid?",
+      "turkish": "Nelerden kaçınmalıyım?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316318"
+    },
+    {
+      "english": "Can you guide, me?",
+      "turkish": "Bana yol gösterebilir misin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316320"
+    },
+    {
+      "english": "What is the, real reason?",
+      "turkish": "Gerçek sebep ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316322"
+    },
+    {
+      "english": "How did you, learn this?",
+      "turkish": "Bunu nasıl öğrendin?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316324"
+    },
+    {
+      "english": "What is your, suggestion?",
+      "turkish": "Önerin nedir?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316326"
+    },
+    {
+      "english": "Do you agree, with me?",
+      "turkish": "Bana katılıyor musun?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316328"
+    },
+    {
+      "english": "What else, should I know?",
+      "turkish": "Başka ne bilmeliyim?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316330"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "turkish": "Kendine, her zaman inan.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316333"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "turkish": "Pozitif düşünceler, iyi şeyler çeker.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316336"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "turkish": "Sandığından, daha güçlusün.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316338"
+    },
+    {
+      "english": "Every day, is a new beginning.",
+      "turkish": "Her gün, yeni bir başlangıç.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316341"
+    },
+    {
+      "english": "Your effort, is valuable.",
+      "turkish": "Çaban, çok değerli.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316344"
+    },
+    {
+      "english": "Believe, you can achieve it.",
+      "turkish": "Başarabileceğine, inan.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316347"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "turkish": "Mükemmelliğe değil, ilerlemeye odaklan.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316349"
+    },
+    {
+      "english": "Trust the process, little by little.",
+      "turkish": "Sürece güven, azar azar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316352"
+    },
+    {
+      "english": "Your hard work, will pay off.",
+      "turkish": "Emeklerin, karşılığını bulacak.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316354"
+    },
+    {
+      "english": "Never stop, learning.",
+      "turkish": "Öğrenmeyi, asla bırakma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316356"
+    },
+    {
+      "english": "Be proud, of your journey.",
+      "turkish": "Yolculuğunla, gurur duy.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316358"
+    },
+    {
+      "english": "Every small step, counts.",
+      "turkish": "Her küçük adım, değerlidir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316361"
+    },
+    {
+      "english": "Stay hopeful, stay strong.",
+      "turkish": "Umutlu kal, güçlü kal.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316364"
+    },
+    {
+      "english": "It's okay, to be a beginner.",
+      "turkish": "Başlangıç olmak, sorun değil.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316367"
+    },
+    {
+      "english": "Your attitude, determines your altitude.",
+      "turkish": "Tutumun, yükselmeni belirler.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316369"
+    },
+    {
+      "english": "Celebrate, your victories.",
+      "turkish": "Zaferlerini, kutla.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316372"
+    },
+    {
+      "english": "Inner peace, is true wealth.",
+      "turkish": "İç huzur, gerçek zenginliktir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316374"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "turkish": "Devam et, durma.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316376"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "turkish": "Olduğun gibi, yeterlisin.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316379"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "turkish": "Hatalardan ders çıkar, büyü.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316381"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "turkish": "İyilik, hiçbir şey istemez.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316383"
+    },
+    {
+      "english": "You are doing great, really.",
+      "turkish": "Harika gidiyorsun, gerçekten.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316385"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "turkish": "Meydan okumayı kucakla, geliş.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316388"
+    },
+    {
+      "english": "Find joy, in the little things.",
+      "turkish": "Küçük şeylerde, neşe bul.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316390"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "turkish": "Potansiyelin, sınırsız.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316392"
+    },
+    {
+      "english": "Feelings, are guides, not chains.",
+      "turkish": "Duygular, zincir değil, yol göstericidir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316394"
+    },
+    {
+      "english": "True strength, lies within.",
+      "turkish": "Gerçek güç, içeride yatar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316397"
+    },
+    {
+      "english": "Patience, brings understanding.",
+      "turkish": "Sabır, anlayışı getirir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316399"
+    },
+    {
+      "english": "Reflect often, on your path.",
+      "turkish": "Yolunu, sık sık düşün.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316401"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "turkish": "Empati, hepimizi bağlar.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316403"
+    },
+    {
+      "english": "Accept what is, let go.",
+      "turkish": "Olanı kabul et, bırak gitsin.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316407"
+    },
+    {
+      "english": "Your heart, knows the way.",
+      "turkish": "Kalbin, yolu bilir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316409"
+    },
+    {
+      "english": "Inner peace, is priceless.",
+      "turkish": "İç huzuru, paha biçilmez.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316411"
+    },
+    {
+      "english": "Be present, in this moment.",
+      "turkish": "Şu anda, mevcud ol.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316413"
+    },
+    {
+      "english": "Vulnerability, is a superpower.",
+      "turkish": "Kırılganlık, bir süper güçtür.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316416"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "turkish": "Önce, kendini affet.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316418"
+    },
+    {
+      "english": "Gratitude, changes perspective.",
+      "turkish": "Minnettarlık, bakış açısını değiştirir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316420"
+    },
+    {
+      "english": "Life’s lessons, are constant.",
+      "turkish": "Hayatın dersleri, süreklidir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316425"
+    },
+    {
+      "english": "Self-awareness, is key.",
+      "turkish": "Öz farkındalık, anahtardır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316428"
+    },
+    {
+      "english": "Seek quiet, moments daily.",
+      "turkish": "Her gün, sakin anlar ara.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316430"
+    },
+    {
+      "english": "Your intuition, is wise.",
+      "turkish": "Sezilerin, bilgece.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316432"
+    },
+    {
+      "english": "Wisdom grows, with experience.",
+      "turkish": "Bilgelik, tecrübeyle büyür.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316435"
+    },
+    {
+      "english": "Silence, can be profound.",
+      "turkish": "Sessizlik, derin olabilir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316437"
+    },
+    {
+      "english": "Speak your truth, gently.",
+      "turkish": "Gerçeğini, nazikçe söyle.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316439"
+    },
+    {
+      "english": "Let your heart, guide actions.",
+      "turkish": "Kalbin, eylemleri yönetsin.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316442"
+    },
+    {
+      "english": "Understand, before judging.",
+      "turkish": "Yargılamadan, önce anla.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316444"
+    },
+    {
+      "english": "Find peace, in imperfection.",
+      "turkish": "Kusurlulukta, huzur bul.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316447"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "turkish": "Sakin zihin, net görür.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316449"
+    },
+    {
+      "english": "Sincerity, builds trust.",
+      "turkish": "Samimiyet, güven inşa eder.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316453"
+    },
+    {
+      "english": "Reflect on, what matters.",
+      "turkish": "Neyin önemli, olduğunu düşün.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316455"
+    },
+    {
+      "english": "Emotional honesty, is freedom.",
+      "turkish": "Duygusal dürüstlük, özgürlüktür.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316457"
+    },
+    {
+      "english": "Wisdom unfolds, slowly.",
+      "turkish": "Bilgelik, yavaşça açılır.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316459"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "turkish": "Daha çok dinle, az konuş.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316462"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "turkish": "Yardım iste, akıllıca.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316464"
+    },
+    {
+      "english": "Don't rush, be patient.",
+      "turkish": "Acele etme, sabret.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316468"
+    },
+    {
+      "english": "Observe everything, learn.",
+      "turkish": "Her şeyi gözlemle, öğren.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316471"
+    },
+    {
+      "english": "A small good deed, matters.",
+      "turkish": "Küçük bir iyilik, değerlidir.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316473"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "turkish": "Zamanını iyi yönet.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316476"
+    },
+    {
+      "english": "Think before speaking, always.",
+      "turkish": "Konuşmadan önce düşün, hep.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316478"
+    },
+    {
+      "english": "Accept what you can't change.",
+      "turkish": "Değiştiremeyeceğini kabul et.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316480"
+    },
+    {
+      "english": "Stay calm, in difficult times.",
+      "turkish": "Sakin kal, zor zamanlarda.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:12:13.316482"
     }
   ],
-  "last_updated": "2026-10-20T08:05:59.775949"
+  "last_updated": "2026-10-21T08:12:13.316484"
 }
