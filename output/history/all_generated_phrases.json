@@ -3599,7 +3599,727 @@
       "turkish": "Sakin kal, zor zamanlarda.",
       "category": "Wisdom",
       "generated_at": "2026-10-21T08:12:13.316482"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "turkish": "Pes etme, tekrar dene.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373638"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "turkish": "Her adım önemli, ilerle.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373652"
+    },
+    {
+      "english": "Learn one word, daily.",
+      "turkish": "Günde bir kelime öğren.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373656"
+    },
+    {
+      "english": "Small progress, big success.",
+      "turkish": "Küçük ilerleme, büyük başarı.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373659"
+    },
+    {
+      "english": "You've got this, keep pushing.",
+      "turkish": "Bu işi halledersin, zorla.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373662"
+    },
+    {
+      "english": "It's okay, to be slow.",
+      "turkish": "Yavaş olmak sorun değil.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373666"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "turkish": "Hedefine odaklan, kal.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373669"
+    },
+    {
+      "english": "You're stronger, than you think.",
+      "turkish": "Sandığından daha güçlüsün.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373675"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "turkish": "Her gün biraz öğren.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373679"
+    },
+    {
+      "english": "Embrace the challenge, learn more.",
+      "turkish": "Zorluğu kucakla, daha öğren.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373682"
+    },
+    {
+      "english": "Just try, it's not hard.",
+      "turkish": "Sadece dene, zor değil.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373685"
+    },
+    {
+      "english": "You're making progress, see it.",
+      "turkish": "İlerleme kaydediyorsun, gör.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373690"
+    },
+    {
+      "english": "The journey, is the reward.",
+      "turkish": "Yolculuk, ödülün kendisidir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373693"
+    },
+    {
+      "english": "Every day, a new lesson.",
+      "turkish": "Her gün, yeni bir ders.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373696"
+    },
+    {
+      "english": "You are capable, of much.",
+      "turkish": "Çok şeye muktedirsın.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373699"
+    },
+    {
+      "english": "Don't fear, speaking Turkish.",
+      "turkish": "Türkçe konuşmaktan korkma.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373702"
+    },
+    {
+      "english": "Tiny steps, lead anywhere.",
+      "turkish": "Küçük adımlar, her yere götürür.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373704"
+    },
+    {
+      "english": "Your persistence, pays off.",
+      "turkish": "Azmin karşılığını alırsın.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373707"
+    },
+    {
+      "english": "You're learning fast, awesome!",
+      "turkish": "Hızlı öğreniyorsun, harika!",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373710"
+    },
+    {
+      "english": "Keep that passion, alive.",
+      "turkish": "O tutkuyu canlı tut.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373713"
+    },
+    {
+      "english": "You're building, your future.",
+      "turkish": "Geleceğini inşa ediyorsun.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373716"
+    },
+    {
+      "english": "Just begin, the rest follows.",
+      "turkish": "Başla, gerisi gelir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373718"
+    },
+    {
+      "english": "What helps you, stay motivated?",
+      "turkish": "Seni ne motive eder?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373721"
+    },
+    {
+      "english": "How do you, overcome challenges?",
+      "turkish": "Zorlukların üstesinden nasıl gelirsin?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373724"
+    },
+    {
+      "english": "Can you share, a success tip?",
+      "turkish": "Bir başarı ipucu, paylaşır mısın?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373729"
+    },
+    {
+      "english": "What's your favorite, learning method?",
+      "turkish": "En sevdiğin öğrenme yöntemi ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373734"
+    },
+    {
+      "english": "Do you practice, daily?",
+      "turkish": "Her gün pratik yapıyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373737"
+    },
+    {
+      "english": "What keeps you, going?",
+      "turkish": "Seni devam ettiren ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373740"
+    },
+    {
+      "english": "Are you enjoying, the process?",
+      "turkish": "Süreçten keyif alıyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373743"
+    },
+    {
+      "english": "What inspires, your learning?",
+      "turkish": "Öğrenmeni ne ilham veriyor?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373746"
+    },
+    {
+      "english": "How do you, review vocabulary?",
+      "turkish": "Kelime tekrarını nasıl yapıyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373748"
+    },
+    {
+      "english": "What's your goal, for this week?",
+      "turkish": "Bu hafta için hedefin ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373752"
+    },
+    {
+      "english": "Do you find, it challenging?",
+      "turkish": "Zorlayıcı buluyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373755"
+    },
+    {
+      "english": "What helps you, remember?",
+      "turkish": "Hatırlamana ne yardımcı oluyor?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373757"
+    },
+    {
+      "english": "How do you, practice speaking?",
+      "turkish": "Konuşma pratiğini nasıl yapıyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373760"
+    },
+    {
+      "english": "What motivates, you most?",
+      "turkish": "Seni en çok ne motive ediyor?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373763"
+    },
+    {
+      "english": "Do you set, learning goals?",
+      "turkish": "Öğrenme hedefleri belirliyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373766"
+    },
+    {
+      "english": "What's your secret, to progress?",
+      "turkish": "İlerlemenin sırrı ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373769"
+    },
+    {
+      "english": "How do you, stay consistent?",
+      "turkish": "Nasıl tutarlı kalıyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373771"
+    },
+    {
+      "english": "What mistakes, did you make?",
+      "turkish": "Ne gibi hatalar yaptın?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373774"
+    },
+    {
+      "english": "Do you ask, for help?",
+      "turkish": "Yardım istiyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373777"
+    },
+    {
+      "english": "How do you, celebrate wins?",
+      "turkish": "Başarılarını nasıl kutlarsın?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373779"
+    },
+    {
+      "english": "What makes learning, fun?",
+      "turkish": "Öğrenmeyi ne eğlenceli kılar?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373782"
+    },
+    {
+      "english": "Do you learn, with others?",
+      "turkish": "Başkalarıyla mı öğreniyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373791"
+    },
+    {
+      "english": "What's your learning, mantra?",
+      "turkish": "Öğrenme mantran ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373794"
+    },
+    {
+      "english": "How do you, manage time?",
+      "turkish": "Zamanı nasıl yönetiyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373797"
+    },
+    {
+      "english": "What are you, learning today?",
+      "turkish": "Bugün ne öğreniyorsun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373799"
+    },
+    {
+      "english": "Do you believe, in yourself?",
+      "turkish": "Kendine inanıyor musun?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373802"
+    },
+    {
+      "english": "What's your motivation, source?",
+      "turkish": "Motivasyon kaynağın ne?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373805"
+    },
+    {
+      "english": "Can we practice, together?",
+      "turkish": "Birlikte pratik yapabilir miyiz?",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373807"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "turkish": "Devam et, pes etme.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373813"
+    },
+    {
+      "english": "This is your moment, shine.",
+      "turkish": "Bu senin anın, parlamaya bak.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373815"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "turkish": "Harika gidiyorsun, gerçekten.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373818"
+    },
+    {
+      "english": "A little more, and you'll see.",
+      "turkish": "Biraz daha, ve göreceksin.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373822"
+    },
+    {
+      "english": "Your dedication, is showing.",
+      "turkish": "Adanmışlığın, kendini gösteriyor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373824"
+    },
+    {
+      "english": "Positive thoughts, win the day.",
+      "turkish": "Pozitif düşünceler, günü kazandırır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373827"
+    },
+    {
+      "english": "Every attempt, counts for something.",
+      "turkish": "Her deneme, bir şeye yarar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373830"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "turkish": "Odaklan, güçlü kal.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373833"
+    },
+    {
+      "english": "This is a marathon, not sprint.",
+      "turkish": "Bu bir maraton, sprint değil.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373836"
+    },
+    {
+      "english": "Your effort, creates the path.",
+      "turkish": "Çaban, yolu yaratır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373839"
+    },
+    {
+      "english": "Feel proud, of your work.",
+      "turkish": "Gurur duy, işinle.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373841"
+    },
+    {
+      "english": "Little wins, add up big.",
+      "turkish": "Küçük zaferler, büyük toplam yapar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373844"
+    },
+    {
+      "english": "Keep that fire, burning bright.",
+      "turkish": "O ateşi, canlı tut.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373847"
+    },
+    {
+      "english": "Your progress, is visible.",
+      "turkish": "İlgin, gözle görülür.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373850"
+    },
+    {
+      "english": "You are writing, your success story.",
+      "turkish": "Kendi başarı hikayeni yazıyorsun.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373853"
+    },
+    {
+      "english": "Each day, is a chance.",
+      "turkish": "Her gün, bir şanstır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373856"
+    },
+    {
+      "english": "You are stronger, than you realize.",
+      "turkish": "Farkındalığından daha güçlüsün.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373858"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "turkish": "Öğrenme eğrisini kucakla.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373861"
+    },
+    {
+      "english": "Your determination, is key.",
+      "turkish": "Azmin, anahtardır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373864"
+    },
+    {
+      "english": "Think positive, achieve more.",
+      "turkish": "Pozitif düşün, daha çok başar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373866"
+    },
+    {
+      "english": "You are growing, every second.",
+      "turkish": "Her saniye, büyüyorsun.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373869"
+    },
+    {
+      "english": "This is achievable, for you.",
+      "turkish": "Bu senin için, başarılabilir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373871"
+    },
+    {
+      "english": "Your spirit, is inspiring.",
+      "turkish": "Ruhun, ilham verici.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373874"
+    },
+    {
+      "english": "Dream big, work hard.",
+      "turkish": "Büyük hayal kur, çok çalış.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373879"
+    },
+    {
+      "english": "Every day, a new step.",
+      "turkish": "Her gün, yeni bir adım.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373882"
+    },
+    {
+      "english": "Don't stop, until you're proud.",
+      "turkish": "Gurur duyana kadar, durma.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373887"
+    },
+    {
+      "english": "Believe you can, you will.",
+      "turkish": "Yapabilirsin, başaracaksın.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373890"
+    },
+    {
+      "english": "Your effort, is your future.",
+      "turkish": "Emeğin, senin geleceğin.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373894"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "turkish": "İleriye doğru it, hep.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373897"
+    },
+    {
+      "english": "Today's work, tomorrow's success.",
+      "turkish": "Bugünün işi, yarının başarısı.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373900"
+    },
+    {
+      "english": "Master the language, unlock your world.",
+      "turkish": "Dile hakim ol, dünyanı aç.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373903"
+    },
+    {
+      "english": "Challenge yourself, find your best.",
+      "turkish": "Kendine meydan oku, en iyini bul.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373906"
+    },
+    {
+      "english": "Don't let fear, hold you back.",
+      "turkish": "Korku seni engellemesin.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373909"
+    },
+    {
+      "english": "One step at a time.",
+      "turkish": "Her seferinde bir adım.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373912"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "turkish": "Hayallerinden asla vazgeçme.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373914"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "turkish": "Senin yolculuğun, senin hızın.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373917"
+    },
+    {
+      "english": "Embrace the struggle, it makes you.",
+      "turkish": "Zorlukları kucakla, seni onlar yapar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373920"
+    },
+    {
+      "english": "Practice makes fluent.",
+      "turkish": "Pratik akıcılık kazandırır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373923"
+    },
+    {
+      "english": "Stay curious, keep learning.",
+      "turkish": "Meraklı kal, öğrenmeye devam et.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373925"
+    },
+    {
+      "english": "Don't compare, just compete.",
+      "turkish": "Kıyaslama, sadece yarış.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373930"
+    },
+    {
+      "english": "Your passion, your power.",
+      "turkish": "Tutkun, senin gücün.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373933"
+    },
+    {
+      "english": "Learn one word, every day.",
+      "turkish": "Her gün, bir kelime öğren.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373936"
+    },
+    {
+      "english": "The reward is worth the effort.",
+      "turkish": "Ödül, çabaya değer.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373938"
+    },
+    {
+      "english": "Push your limits, see what happens.",
+      "turkish": "Sınırlarını zorla, ne olacağını gör.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373941"
+    },
+    {
+      "english": "Consistency is key.",
+      "turkish": "İstikrar anahtardır.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373943"
+    },
+    {
+      "english": "Let your voice be heard.",
+      "turkish": "Sesinin duyulmasına izin ver.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373946"
+    },
+    {
+      "english": "Every mistake, a lesson learned.",
+      "turkish": "Her hata, öğrenilen bir ders.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373949"
+    },
+    {
+      "english": "Keep going, the finish line awaits.",
+      "turkish": "Devam et, bitiş çizgisi bekliyor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373951"
+    },
+    {
+      "english": "Feel the calm, within.",
+      "turkish": "İçindeki sakinliği hisset.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373954"
+    },
+    {
+      "english": "This moment, matters most.",
+      "turkish": "Şu an, en çok o önemli.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373957"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "turkish": "Sezgilerine güven.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373960"
+    },
+    {
+      "english": "Sincerity, shines through.",
+      "turkish": "Samimiyet, parlar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373962"
+    },
+    {
+      "english": "Reflect, on your journey.",
+      "turkish": "Yolculuğunu düşün.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373965"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "turkish": "Sabır, ödül getirir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373968"
+    },
+    {
+      "english": "Let your heart, speak.",
+      "turkish": "Kalbin konuşsun.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373970"
+    },
+    {
+      "english": "Accept, imperfections.",
+      "turkish": "Kusurları kabul et.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373973"
+    },
+    {
+      "english": "Feel the growth, inside.",
+      "turkish": "İçindeki büyümeyi hisset.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373980"
+    },
+    {
+      "english": "Honesty, builds trust.",
+      "turkish": "Dürüstlük, güven inşa eder.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373983"
+    },
+    {
+      "english": "Breathe, deeply, now.",
+      "turkish": "Derin nefes al, şimdi.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373985"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "turkish": "Gerçek güç, içten gelir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373988"
+    },
+    {
+      "english": "Embrace vulnerability, bravely.",
+      "turkish": "Kırılganlığı, cesurca kucakla.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373991"
+    },
+    {
+      "english": "Let go, of what's past.",
+      "turkish": "Geçmişi bırak gitsin.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373994"
+    },
+    {
+      "english": "Find peace, in silence.",
+      "turkish": "Sessizlikte huzur bul.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373997"
+    },
+    {
+      "english": "Your feelings, are valid.",
+      "turkish": "Duyguların geçerli.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.373999"
+    },
+    {
+      "english": "This is a learning, process.",
+      "turkish": "Bu bir öğrenme, süreci.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374002"
+    },
+    {
+      "english": "Listen to, your heart.",
+      "turkish": "Kalbini dinle.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374004"
+    },
+    {
+      "english": "It's okay, to feel.",
+      "turkish": "Hissetmek sorun değil.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374007"
+    },
+    {
+      "english": "Authenticity, is beautiful.",
+      "turkish": "Doğallık, güzeldir.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374010"
+    },
+    {
+      "english": "Connect, with your soul.",
+      "turkish": "Ruhunla bağlantı kur.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374013"
+    },
+    {
+      "english": "Let gratitude, guide you.",
+      "turkish": "Minnettarlık, sana yol göstersin.",
+      "category": "Motivation",
+      "generated_at": "2026-10-22T08:12:32.374015"
     }
   ],
-  "last_updated": "2026-10-21T08:12:13.316484"
+  "last_updated": "2026-10-22T08:12:32.374017"
 }
