@@ -4319,7 +4319,727 @@
       "turkish": "Minnettarlık, sana yol göstersin.",
       "category": "Motivation",
       "generated_at": "2026-10-22T08:12:32.374015"
+    },
+    {
+      "english": "What's up, man?",
+      "turkish": "N'aber kanka?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388554"
+    },
+    {
+      "english": "Got it, I understand.",
+      "turkish": "Anladım, tamamdır.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388568"
+    },
+    {
+      "english": "No way, really?",
+      "turkish": "Hadi canım, ciddi misin?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388570"
+    },
+    {
+      "english": "Just chilling, nothing much.",
+      "turkish": "Takılıyorum, pek bir şey yok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388572"
+    },
+    {
+      "english": "Let's go, come on!",
+      "turkish": "Hadi gidelim, çabuk!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388574"
+    },
+    {
+      "english": "It's all good, don't worry.",
+      "turkish": "Sorun değil, kafana takma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388576"
+    },
+    {
+      "english": "What a surprise!",
+      "turkish": "Ne tesadüf ama!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388578"
+    },
+    {
+      "english": "My bad, sorry about that.",
+      "turkish": "Benim hatam, kusura bakma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388582"
+    },
+    {
+      "english": "Can I have a minute?",
+      "turkish": "Bir saniyen var mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388584"
+    },
+    {
+      "english": "Seriously? That's awesome!",
+      "turkish": "Cidden mi? Harika!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388586"
+    },
+    {
+      "english": "I'm so bored, help!",
+      "turkish": "Çok sıkıldım, yardım!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388588"
+    },
+    {
+      "english": "Just sayin', you know?",
+      "turkish": "Sadece söylüyorum, anladın mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388590"
+    },
+    {
+      "english": "Hang in there, it'll pass.",
+      "turkish": "Dayan bakalım, geçer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388592"
+    },
+    {
+      "english": "What's the plan?",
+      "turkish": "Plan ne, ne yapıyoruz?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388594"
+    },
+    {
+      "english": "You're kidding me!",
+      "turkish": "Şaka yapıyorsun!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388596"
+    },
+    {
+      "english": "Let's grab a bite.",
+      "turkish": "Bir şeyler atıştıralım.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388597"
+    },
+    {
+      "english": "I'm starving, so hungry.",
+      "turkish": "Açlıktan ölüyorum resmen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388599"
+    },
+    {
+      "english": "Give me a break!",
+      "turkish": "Beni rahat bırak!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388600"
+    },
+    {
+      "english": "No problem at all.",
+      "turkish": "Hiç sorun değil.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388602"
+    },
+    {
+      "english": "That's hilarious!",
+      "turkish": "Çok komik ya!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388603"
+    },
+    {
+      "english": "I'm exhausted, totally wiped.",
+      "turkish": "Yorgunluktan öldüm resmen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388605"
+    },
+    {
+      "english": "You're the best, thanks!",
+      "turkish": "Süpersin, sağ ol!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388607"
+    },
+    {
+      "english": "What a mess!",
+      "turkish": "Tam bir rezalet!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388608"
+    },
+    {
+      "english": "Take care, bye!",
+      "turkish": "Kendine iyi bak, hoşça kal!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388610"
+    },
+    {
+      "english": "I'm broke, no money.",
+      "turkish": "Meteliğe kurşun sıkıyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388612"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "turkish": "Yakında takılalım.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388613"
+    },
+    {
+      "english": "You got this, believe!",
+      "turkish": "Yaparsın, inan!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388615"
+    },
+    {
+      "english": "That's nuts, unbelievable!",
+      "turkish": "Deli misin, inanılmaz!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388617"
+    },
+    {
+      "english": "I need a break, seriously.",
+      "turkish": "Biraz ara vermem lazım, cidden.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388618"
+    },
+    {
+      "english": "It is what it is.",
+      "turkish": "Ne yapalım, durum bu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388621"
+    },
+    {
+      "english": "What are you up to, friend?",
+      "turkish": "Ne yapıyorsun kanka?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388623"
+    },
+    {
+      "english": "How's it going, buddy?",
+      "turkish": "Nasılsın aga?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388625"
+    },
+    {
+      "english": "Anything new, tell me?",
+      "turkish": "Yeni bir şey var mı, anlat?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388627"
+    },
+    {
+      "english": "What's the latest, man?",
+      "turkish": "Son durum ne, reis?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388629"
+    },
+    {
+      "english": "Can you help me out here?",
+      "turkish": "Bana bir el atar mısın?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388631"
+    },
+    {
+      "english": "Should I do this, or that?",
+      "turkish": "Şunu mu yapsam, bunu mu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388632"
+    },
+    {
+      "english": "Any advice for me, please?",
+      "turkish": "Bana bir tavsiye verir misin?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388634"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "turkish": "Bu konuda fikrin ne?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388636"
+    },
+    {
+      "english": "Are you free this evening?",
+      "turkish": "Bu akşam müsait misin?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388638"
+    },
+    {
+      "english": "Want to catch up sometime?",
+      "turkish": "Bir ara görüşelim mi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388640"
+    },
+    {
+      "english": "What are we doing later?",
+      "turkish": "Sonra ne yapıyoruz?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388642"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "turkish": "Sende her şey yolunda mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388645"
+    },
+    {
+      "english": "Did you hear the news?",
+      "turkish": "Haberi duydun mu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388646"
+    },
+    {
+      "english": "What happened there, really?",
+      "turkish": "Orada ne oldu, cidden?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388648"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "turkish": "Tekrar eder misin, lütfen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388649"
+    },
+    {
+      "english": "What does that mean, exactly?",
+      "turkish": "Tam olarak ne demek o?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388651"
+    },
+    {
+      "english": "How do you say this word?",
+      "turkish": "Bu kelimeyi nasıl söylersin?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388652"
+    },
+    {
+      "english": "Do you speak English well?",
+      "turkish": "İngilizceyi iyi konuşuyor musun?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388654"
+    },
+    {
+      "english": "Can I ask you something?",
+      "turkish": "Sana bir şey sorabilir miyim?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388655"
+    },
+    {
+      "english": "What's the best way to do this?",
+      "turkish": "Bunu yapmanın en iyi yolu ne?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388657"
+    },
+    {
+      "english": "Where should I go next?",
+      "turkish": "Şimdi nereye gitmeliyim?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388658"
+    },
+    {
+      "english": "What if something goes wrong?",
+      "turkish": "Ya ters giderse bir şey?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388660"
+    },
+    {
+      "english": "What's bothering you, friend?",
+      "turkish": "Neyin var senin, canım?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388661"
+    },
+    {
+      "english": "How can I help you today?",
+      "turkish": "Bugün sana nasıl yardımcı olabilirim?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388663"
+    },
+    {
+      "english": "Do you need anything else?",
+      "turkish": "Başka bir şeye ihtiyacın var mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388665"
+    },
+    {
+      "english": "What's on your mind, tell me?",
+      "turkish": "Aklında ne var, söyle bakayım?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388667"
+    },
+    {
+      "english": "Is this okay for you?",
+      "turkish": "Bu senin için uygun mu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388668"
+    },
+    {
+      "english": "You nailed it, awesome!",
+      "turkish": "Harikasın, süpersin!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388670"
+    },
+    {
+      "english": "Keep pushing, don't stop now.",
+      "turkish": "Devam et, şimdi durma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388672"
+    },
+    {
+      "english": "That's a great idea, really.",
+      "turkish": "Bu harika bir fikir, gerçekten.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388674"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "turkish": "Başarabilirsin, kendine inan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388676"
+    },
+    {
+      "english": "Stay positive, always think good.",
+      "turkish": "Pozitif kal, hep iyi düşün.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388678"
+    },
+    {
+      "english": "Well done, I'm proud of you.",
+      "turkish": "Aferin, seninle gurur duyuyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388680"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "turkish": "Asla pes etme, denemeye devam.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388682"
+    },
+    {
+      "english": "That's the spirit, you can do it.",
+      "turkish": "İşte bu ruh, başarabilirsin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388683"
+    },
+    {
+      "english": "Hang in there, almost there.",
+      "turkish": "Dayan biraz, az kaldı.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388685"
+    },
+    {
+      "english": "Focus on your goal, you'll reach it.",
+      "turkish": "Hedefine odaklan, ulaşacaksın.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388687"
+    },
+    {
+      "english": "That's amazing, you really did it!",
+      "turkish": "Bu harika, başardın gerçekten!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388689"
+    },
+    {
+      "english": "Don't doubt yourself, you're capable.",
+      "turkish": "Kendinden şüphe etme, yapabilirsin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388692"
+    },
+    {
+      "english": "Just keep going, step by step.",
+      "turkish": "Sadece ilerlemeye devam, adım adım.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388694"
+    },
+    {
+      "english": "That's a brilliant move, wow.",
+      "turkish": "Bu zekice bir hamle, vay.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388696"
+    },
+    {
+      "english": "You're making progress, slowly but surely.",
+      "turkish": "İlerleme kaydediyorsun, yavaş ama emin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388698"
+    },
+    {
+      "english": "Keep that energy, you're unstoppable.",
+      "turkish": "Bu enerjini koru, durdurulamazsın.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388700"
+    },
+    {
+      "english": "You have what it takes, totally.",
+      "turkish": "Gereken her şeye sahipsin, kesinlikle.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388701"
+    },
+    {
+      "english": "Chin up, brighter days ahead.",
+      "turkish": "Başını dik tut, daha iyi günler gelecek.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388703"
+    },
+    {
+      "english": "You're a natural at this, seriously.",
+      "turkish": "Bu işte doğalsın, cidden.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388705"
+    },
+    {
+      "english": "That's the way, keep it simple.",
+      "turkish": "İşte böyle, basit tut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388707"
+    },
+    {
+      "english": "You're shining, keep glowing.",
+      "turkish": "Parlıyorsun, parlamaya devam et.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388708"
+    },
+    {
+      "english": "Focus helps, you'll get there.",
+      "turkish": "Odaklanmak yardımcı olur, oraya varırsın.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388710"
+    },
+    {
+      "english": "You're so close, don't quit now.",
+      "turkish": "Çok yaklaştın, şimdi bırakma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388712"
+    },
+    {
+      "english": "That's a win, celebrate it.",
+      "turkish": "Bu bir zafer, kutla.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388713"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "turkish": "Zorlukları kucakla, güçlen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388715"
+    },
+    {
+      "english": "Honestly, I'm tired.",
+      "turkish": "Açıkçası, yoruldum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388717"
+    },
+    {
+      "english": "This weighs on my mind.",
+      "turkish": "Bu aklımı kurcalıyor.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388718"
+    },
+    {
+      "english": "Let it go, truly.",
+      "turkish": "Boş ver gitsin, gerçekten.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388720"
+    },
+    {
+      "english": "I'm just reflecting now.",
+      "turkish": "Şu an sadece düşünüyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388721"
+    },
+    {
+      "english": "Patience is key, you know.",
+      "turkish": "Sabır esastır, bilirsin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388723"
+    },
+    {
+      "english": "Deep breaths, calm down.",
+      "turkish": "Derin nefes al, sakinleş.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388725"
+    },
+    {
+      "english": "It's complicated, really.",
+      "turkish": "Karmaşık, gerçekten.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388727"
+    },
+    {
+      "english": "I feel a bit lost.",
+      "turkish": "Biraz kaybolmuş hissediyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388728"
+    },
+    {
+      "english": "Give it time, my friend.",
+      "turkish": "Zaman ver, dostum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388730"
+    },
+    {
+      "english": "My heart feels heavy.",
+      "turkish": "Kalbim ağırlaştı.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388731"
+    },
+    {
+      "english": "Think it through slowly.",
+      "turkish": "Acele etmeden düşün.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388733"
+    },
+    {
+      "english": "This situation is tough.",
+      "turkish": "Bu durum zor.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388735"
+    },
+    {
+      "english": "I'm trying to understand.",
+      "turkish": "Anlamaya çalışıyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388737"
+    },
+    {
+      "english": "It's a tough pill to swallow.",
+      "turkish": "Yutması zor bir lokma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388739"
+    },
+    {
+      "english": "What's true for me?",
+      "turkish": "Benim için gerçek ne?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388741"
+    },
+    {
+      "english": "I'm processing feelings.",
+      "turkish": "Duygularımı işliyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388743"
+    },
+    {
+      "english": "Just need to breathe.",
+      "turkish": "Sadece nefes almam gerek.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388744"
+    },
+    {
+      "english": "Let's be honest here.",
+      "turkish": "Dürüst olalım burada.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388746"
+    },
+    {
+      "english": "This requires reflection.",
+      "turkish": "Bu, düşünmeyi gerektirir.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388748"
+    },
+    {
+      "english": "I'm finding my way.",
+      "turkish": "Yolumu buluyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388750"
+    },
+    {
+      "english": "It's a learning process.",
+      "turkish": "Bu bir öğrenme süreci.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388751"
+    },
+    {
+      "english": "Don't rush the healing.",
+      "turkish": "İyileşmeyi aceleye getirme.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388752"
+    },
+    {
+      "english": "My inner voice speaks.",
+      "turkish": "İç sesim konuşuyor.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388754"
+    },
+    {
+      "english": "This feels right, somehow.",
+      "turkish": "Bu bir şekilde doğru hissettiriyor.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388756"
+    },
+    {
+      "english": "I'm contemplating deeply.",
+      "turkish": "Derinlemesine düşünüyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388757"
+    },
+    {
+      "english": "Let's face the truth.",
+      "turkish": "Gerçekle yüzleşelim.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388759"
+    },
+    {
+      "english": "This is personal, you see.",
+      "turkish": "Bu kişisel, anladın mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388760"
+    },
+    {
+      "english": "I'm just being real.",
+      "turkish": "Sadece dürüst oluyorum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388762"
+    },
+    {
+      "english": "It takes time to grow.",
+      "turkish": "Büyümek zaman alır.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388763"
+    },
+    {
+      "english": "Let's grab a quick bite, yeah?",
+      "turkish": "Hızlıca bir şeyler atıştıralım mı?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388765"
+    },
+    {
+      "english": "What's the plan for tonight, dude?",
+      "turkish": "Bu akşam ne planladın kanka?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388766"
+    },
+    {
+      "english": "No worries, it happens, you know.",
+      "turkish": "Dert etme, olur böyle şeyler.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388768"
+    },
+    {
+      "english": "Can you believe this weather, seriously?",
+      "turkish": "Bu havaya inanamıyorum, cidden.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388770"
+    },
+    {
+      "english": "Let's just wing it, I guess.",
+      "turkish": "Boşver, akışına bırakalım.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388772"
+    },
+    {
+      "english": "This traffic is killing me, man.",
+      "turkish": "Bu trafik mahvetti beni ya.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388773"
+    },
+    {
+      "english": "Just chill, take it easy.",
+      "turkish": "Sakin ol, rahatına bak.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388775"
+    },
+    {
+      "english": "Did you catch that, quickly?",
+      "turkish": "Anladın mı olayı, çabuk?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388776"
+    },
+    {
+      "english": "This is super useful, thanks!",
+      "turkish": "Bu çok işe yaradı, sağ ol!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-23T08:10:17.388778"
     }
   ],
-  "last_updated": "2026-10-22T08:12:32.374017"
+  "last_updated": "2026-10-23T08:10:17.388779"
 }
