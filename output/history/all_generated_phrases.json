@@ -5759,7 +5759,727 @@
       "turkish": "Gelişimini belgelemelisin, faydalı olur.",
       "category": "Creativity",
       "generated_at": "2026-10-24T07:51:46.171065"
+    },
+    {
+      "english": "Hello, do you have a table for two?",
+      "turkish": "Merhaba, iki kişilik masa var mı?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590324"
+    },
+    {
+      "english": "We'd like to order now, please.",
+      "turkish": "Sipariş vermek istiyoruz, lütfen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590338"
+    },
+    {
+      "english": "Could I see the menu, please?",
+      "turkish": "Menüyü görebilir miyim, lütfen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590341"
+    },
+    {
+      "english": "I'll have the soup, please.",
+      "turkish": "Çorbayı alayım, lütfen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590344"
+    },
+    {
+      "english": "Is this spicy, by chance?",
+      "turkish": "Bu acı mı, acaba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590346"
+    },
+    {
+      "english": "Can I get some water, please?",
+      "turkish": "Biraz su alabilir miyim, lütfen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590348"
+    },
+    {
+      "english": "This is delicious, thank you.",
+      "turkish": "Çok lezzetli, teşekkürler.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590351"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "turkish": "Afedersiniz, garson!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590356"
+    },
+    {
+      "english": "We're ready for the bill.",
+      "turkish": "Hesap için hazırız.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590359"
+    },
+    {
+      "english": "Can we pay separately?",
+      "turkish": "Ayrı ayrı ödeyebilir miyiz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590362"
+    },
+    {
+      "english": "Do you take credit cards?",
+      "turkish": "Kredi kartı geçiyor mu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590364"
+    },
+    {
+      "english": "The food was excellent.",
+      "turkish": "Yemek harikaydı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590366"
+    },
+    {
+      "english": "Could we get the check, please?",
+      "turkish": "Hesabı alabilir miyiz, lütfen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590368"
+    },
+    {
+      "english": "We are still deciding.",
+      "turkish": "Hala karar veriyoruz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590375"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "turkish": "Sadece bakıyoruz, teşekkürler.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590378"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "turkish": "Hesabı alabilir miyim, lütfen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590380"
+    },
+    {
+      "english": "What's the special today?",
+      "turkish": "Bugünün spesiyali nedir?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590382"
+    },
+    {
+      "english": "This looks amazing!",
+      "turkish": "Bu harika görünüyor!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590384"
+    },
+    {
+      "english": "I'm a vegetarian, by the way.",
+      "turkish": "Ben vejetaryenim, bu arada.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590387"
+    },
+    {
+      "english": "Does this contain nuts?",
+      "turkish": "Bunda fındık var mı?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590389"
+    },
+    {
+      "english": "Can I have it to go?",
+      "turkish": "Bunu paket yapabilir misiniz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590391"
+    },
+    {
+      "english": "It's too salty for me.",
+      "turkish": "Bana çok tuzlu geldi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590393"
+    },
+    {
+      "english": "I'd like some coffee, please.",
+      "turkish": "Bir kahve alayım, lütfen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590396"
+    },
+    {
+      "english": "Everything was perfect, thanks.",
+      "turkish": "Her şey mükemmeldi, teşekkürler.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590399"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "turkish": "Yakında tuvalet var mı?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590401"
+    },
+    {
+      "english": "We need a few more minutes.",
+      "turkish": "Birkaç dakika daha lazım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590403"
+    },
+    {
+      "english": "Can I get the dessert menu?",
+      "turkish": "Tatlı menüsünü alabilir miyim?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590405"
+    },
+    {
+      "english": "This is not what I ordered.",
+      "turkish": "Bu sipariş ettiğim değil.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590407"
+    },
+    {
+      "english": "Enjoy your meal!",
+      "turkish": "Afiyet olsun!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590409"
+    },
+    {
+      "english": "What's good here today?",
+      "turkish": "Bugün burada ne iyi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590411"
+    },
+    {
+      "english": "Anything else for you both?",
+      "turkish": "Başka bir şey ister misiniz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590413"
+    },
+    {
+      "english": "How would you like your steak?",
+      "turkish": "Bifteği nasıl alırdınız?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590415"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "turkish": "Bu yöresel bir lezzet mi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590417"
+    },
+    {
+      "english": "Can we sit outside, perhaps?",
+      "turkish": "Dışarıda oturabilir miyiz, acaba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590420"
+    },
+    {
+      "english": "I'm allergic to shellfish.",
+      "turkish": "Deniz ürünlerine alerjim var.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590422"
+    },
+    {
+      "english": "Could you explain this dish?",
+      "turkish": "Bu yemeği açıklayabilir misiniz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590425"
+    },
+    {
+      "english": "Is it possible to share?",
+      "turkish": "Paylaşmak mümkün mü?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590427"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "turkish": "Vejetaryen seçenekleriniz var mı?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590429"
+    },
+    {
+      "english": "We're still deciding, thank you.",
+      "turkish": "Hâlâ karar veriyoruz, teşekkürler.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590432"
+    },
+    {
+      "english": "Can I have a recommendation?",
+      "turkish": "Bir tavsiye alabilir miyim?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590435"
+    },
+    {
+      "english": "What's the soup of the day?",
+      "turkish": "Günün çorbası nedir?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590437"
+    },
+    {
+      "english": "Is this meal very filling?",
+      "turkish": "Bu yemek çok doyurucu mu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590439"
+    },
+    {
+      "english": "Can we get some bread, please?",
+      "turkish": "Biraz ekmek alabilir miyiz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590441"
+    },
+    {
+      "english": "How is this prepared?",
+      "turkish": "Bu nasıl hazırlanıyor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590443"
+    },
+    {
+      "english": "We'd like to start with salad.",
+      "turkish": "Salata ile başlamak istiyoruz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590445"
+    },
+    {
+      "english": "What comes with the chicken?",
+      "turkish": "Tavukla ne geliyor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590447"
+    },
+    {
+      "english": "Can I substitute the side dish?",
+      "turkish": "Yan lezzeti değiştirebilir miyim?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590449"
+    },
+    {
+      "english": "Is the fish fresh today?",
+      "turkish": "Balık bugün taze mi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590452"
+    },
+    {
+      "english": "We're in no rush.",
+      "turkish": "Acelemiz yok.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590454"
+    },
+    {
+      "english": "What are the dessert options?",
+      "turkish": "Tatlı seçenekleri neler?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590456"
+    },
+    {
+      "english": "Could we have some more sauce?",
+      "turkish": "Biraz daha sos alabilir miyiz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590468"
+    },
+    {
+      "english": "Is this dish popular?",
+      "turkish": "Bu yemek popüler mi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590471"
+    },
+    {
+      "english": "We need a bit more time.",
+      "turkish": "Biraz daha zamana ihtiyacımız var.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590473"
+    },
+    {
+      "english": "How do you cook this?",
+      "turkish": "Bunu nasıl pişiriyorsunuz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590475"
+    },
+    {
+      "english": "Can I get my order to go?",
+      "turkish": "Siparişimi paket alabilir miyim?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590478"
+    },
+    {
+      "english": "What would you suggest for dinner?",
+      "turkish": "Akşam yemeği için ne önerirsiniz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590480"
+    },
+    {
+      "english": "Do you have Wi-Fi here?",
+      "turkish": "Burada Wi-Fi var mı?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590482"
+    },
+    {
+      "english": "Every attempt, a step forward.",
+      "turkish": "Her deneme, ileri bir adım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590485"
+    },
+    {
+      "english": "Don't be afraid, just speak.",
+      "turkish": "Korkma, sadece konuş.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590487"
+    },
+    {
+      "english": "This journey is worth it.",
+      "turkish": "Bu yolculuğa değiyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590490"
+    },
+    {
+      "english": "You're getting better, honestly.",
+      "turkish": "Dürüst ol, daha iyi oluyorsun.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590492"
+    },
+    {
+      "english": "Positive thoughts, tasty food.",
+      "turkish": "Pozitif düşünceler, lezzetli yemek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590495"
+    },
+    {
+      "english": "A little courage goes far.",
+      "turkish": "Biraz cesaret, çok yol alır.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590497"
+    },
+    {
+      "english": "Your progress is noticeable.",
+      "turkish": "İlerlemen gözle görülür.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590499"
+    },
+    {
+      "english": "Embrace the challenge, enjoy the food.",
+      "turkish": "Meydan okumayı kucakla, yemeğin tadını çıkar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590502"
+    },
+    {
+      "english": "My eyes are bigger than my stomach.",
+      "turkish": "Gözüm, midemden daha aç.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590504"
+    },
+    {
+      "english": "Let's just go with the flow.",
+      "turkish": "Akışına bırakalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590507"
+    },
+    {
+      "english": "It's all Greek to me.",
+      "turkish": "Bana,  her şey  yabancı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590510"
+    },
+    {
+      "english": "We eat like birds, but pay like whales.",
+      "turkish": "Kuş kadar yeriz, deve kadar öderiz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590512"
+    },
+    {
+      "english": "Let's not put all our eggs in one basket.",
+      "turkish": "Tüm yumurtaları, aynı sepete koymayalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590515"
+    },
+    {
+      "english": "It’s just a drop in the ocean.",
+      "turkish": "Bu, denizde bir damla.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590518"
+    },
+    {
+      "english": "It’s not rocket science, is it?",
+      "turkish": "Roket bilimi değil ya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590524"
+    },
+    {
+      "english": "Let’s not reinvent the wheel.",
+      "turkish": "Tekerleği yeniden icat etmeyelim.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590526"
+    },
+    {
+      "english": "This is the cherry on top.",
+      "turkish": "Bu, tatlı kaşığı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590529"
+    },
+    {
+      "english": "It's a piece of cake.",
+      "turkish": "Çok kolay,  bir parça kek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590531"
+    },
+    {
+      "english": "Let's not beat around the bush.",
+      "turkish": "Lafı dolandırmayalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590533"
+    },
+    {
+      "english": "This is just the tip of the iceberg.",
+      "turkish": "Bu, buzdağının sadece görünen kısmı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590535"
+    },
+    {
+      "english": "Let's cross that bridge when we come to it.",
+      "turkish": "O köprüden,  o zaman geçeriz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590538"
+    },
+    {
+      "english": "It’s raining cats and dogs!",
+      "turkish": "Bardaktan boşanırcasına yağmur yağıyor!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590540"
+    },
+    {
+      "english": "Let’s get down to business.",
+      "turkish": "İşe koyulalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590543"
+    },
+    {
+      "english": "This is not my cup of tea.",
+      "turkish": "Bu benim tarzım değil.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590545"
+    },
+    {
+      "english": "Let’s kill two birds with one stone.",
+      "turkish": "Bir taşla, iki kuş vuralım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590549"
+    },
+    {
+      "english": "It costs an arm and a leg.",
+      "turkish": "Bir kol ve bacak kadar tutuyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590551"
+    },
+    {
+      "english": "Let's let sleeping dogs lie.",
+      "turkish": "Uyuyan yılanı uyandırmayalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590553"
+    },
+    {
+      "english": "Let’s add insult to injury.",
+      "turkish": "Yaraya tuz basmayalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590556"
+    },
+    {
+      "english": "It’s the best of both worlds.",
+      "turkish": "İki dünyanın,  en iyisi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590559"
+    },
+    {
+      "english": "Let’s burn the midnight oil.",
+      "turkish": "Gece mesaisi yapalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590563"
+    },
+    {
+      "english": "This is water under the bridge.",
+      "turkish": "Bu,  geçmişte kaldı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590566"
+    },
+    {
+      "english": "Let’s make a long story short.",
+      "turkish": "Laflı  uzatmayalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590568"
+    },
+    {
+      "english": "Let’s stick to our guns.",
+      "turkish": "Tavrımızı  sabit tutalım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590571"
+    },
+    {
+      "english": "This is a wild goose chase.",
+      "turkish": "Boşa  kürek çekiyoruz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590573"
+    },
+    {
+      "english": "This tastes, truly authentic.",
+      "turkish": "Bunun tadı, gerçekten otantik.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590576"
+    },
+    {
+      "english": "I'm so glad, we chose this place.",
+      "turkish": "Burayı seçtiğimize, çok memnunum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590578"
+    },
+    {
+      "english": "Every bite, a delightful surprise.",
+      "turkish": "Her lokma, keyifli bir sürpriz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590580"
+    },
+    {
+      "english": "I'm feeling quite content, right now.",
+      "turkish": "Şu an, oldukça memnun hissediyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590583"
+    },
+    {
+      "english": "This atmosphere, is incredibly calming.",
+      "turkish": "Bu atmosfer, inanılmaz sakinleştirici.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590585"
+    },
+    {
+      "english": "Patience, is a virtue, with good food.",
+      "turkish": "Sabır, iyi yemekte, bir erdemdir.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590588"
+    },
+    {
+      "english": "I need to savor this, slowly.",
+      "turkish": "Bunu, yavaşça tatmalıyım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590592"
+    },
+    {
+      "english": "This meal, brings back memories.",
+      "turkish": "Bu yemek, anıları geri getiriyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590594"
+    },
+    {
+      "english": "What a wonderful, dining experience.",
+      "turkish": "Ne harika, bir yemek deneyimi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590596"
+    },
+    {
+      "english": "I feel so relaxed, after this.",
+      "turkish": "Bundan sonra, çok rahatlamış hissediyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590598"
+    },
+    {
+      "english": "This dish, speaks to my soul.",
+      "turkish": "Bu yemek, ruhuma hitap ediyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590601"
+    },
+    {
+      "english": "I'm genuinely happy, to be here.",
+      "turkish": "Burada olduğum için, içtenlikle mutluyum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590603"
+    },
+    {
+      "english": "This requires, thoughtful appreciation.",
+      "turkish": "Bu, düşünceli bir takdir gerektirir.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590605"
+    },
+    {
+      "english": "My heart feels, warm and full.",
+      "turkish": "Kalbim, sıcak ve dolu hissediyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590607"
+    },
+    {
+      "english": "Sharing this, makes it better.",
+      "turkish": "Bunu paylaşmak, onu daha iyi yapar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590609"
+    },
+    {
+      "english": "This is more than just food.",
+      "turkish": "Bu sadece yemekten fazlası.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590611"
+    },
+    {
+      "english": "I'm reflecting, on good times.",
+      "turkish": "İyi zamanları, düşünüyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590614"
+    },
+    {
+      "english": "This taste, is unforgettable.",
+      "turkish": "Bu tat, unutulmaz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590616"
+    },
+    {
+      "english": "I appreciate, this moment deeply.",
+      "turkish": "Bu anı, derinden takdir ediyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590618"
+    },
+    {
+      "english": "It feels like home, here.",
+      "turkish": "Burası ev gibi hissettiriyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590620"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "turkish": "Şefe, iltifatlarımı sunuyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590623"
+    },
+    {
+      "english": "This journey, is incredibly rewarding.",
+      "turkish": "Bu yolculuk, inanılmaz derecede ödüllendirici.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590625"
+    },
+    {
+      "english": "I'm truly grateful, for this meal.",
+      "turkish": "Bu yemek için, gerçekten minnettarım.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590628"
+    },
+    {
+      "english": "This is exactly, what I needed.",
+      "turkish": "Tam olarak, ihtiyacım olan buydu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590630"
+    },
+    {
+      "english": "Such simple, profound flavors.",
+      "turkish": "Böyle basit, derin tatlar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590632"
+    },
+    {
+      "english": "I feel a sense, of belonging.",
+      "turkish": "Bir aidiyet, hissi duyuyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590634"
+    },
+    {
+      "english": "This makes me, feel so peaceful.",
+      "turkish": "Bu beni, çok huzurlu hissettiriyor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590638"
+    },
+    {
+      "english": "A moment of, pure enjoyment.",
+      "turkish": "Saf keyfin, bir anı.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590640"
+    },
+    {
+      "english": "I'm really absorbing, this experience.",
+      "turkish": "Bu deneyimi, gerçekten özümsüyorum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:02:14.590642"
     }
   ],
-  "last_updated": "2026-10-24T07:51:46.171067"
+  "last_updated": "2026-10-25T08:02:14.590644"
 }
