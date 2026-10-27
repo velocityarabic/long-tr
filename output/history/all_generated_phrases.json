@@ -7199,7 +7199,727 @@
       "turkish": "Bugün, sadece dinlenelim.",
       "category": "Love",
       "generated_at": "2026-10-26T08:22:26.787266"
+    },
+    {
+      "english": "What do you do in your free time?",
+      "turkish": "Boş zamanlarında ne yaparsın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383397"
+    },
+    {
+      "english": "I like to read books.",
+      "turkish": "Kitap okumayı severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383408"
+    },
+    {
+      "english": "My hobby is painting.",
+      "turkish": "Hobim resim yapmak.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383411"
+    },
+    {
+      "english": "I enjoy listening to music.",
+      "turkish": "Müzik dinlemekten hoşlanırım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383414"
+    },
+    {
+      "english": "Let's go for a walk.",
+      "turkish": "Hadi yürüyüşe çıkalım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383416"
+    },
+    {
+      "english": "I love watching movies.",
+      "turkish": "Film izlemeye bayılırım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383418"
+    },
+    {
+      "english": "Do you play any sports?",
+      "turkish": "Spor yapar mısın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383420"
+    },
+    {
+      "english": "I play football.",
+      "turkish": "Futbol oynuyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383425"
+    },
+    {
+      "english": "Cooking is my passion.",
+      "turkish": "Yemek yapmak benim tutkum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383427"
+    },
+    {
+      "english": "I like gardening.",
+      "turkish": "Bahçeyle uğraşmayı severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383431"
+    },
+    {
+      "english": "I want to relax.",
+      "turkish": "Dinlenmek istiyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383434"
+    },
+    {
+      "english": "Let's meet up sometime.",
+      "turkish": "Bir ara buluşalım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383436"
+    },
+    {
+      "english": "I enjoy photography.",
+      "turkish": "Fotoğrafçılıkla ilgilenirim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383438"
+    },
+    {
+      "english": "I'm learning Turkish.",
+      "turkish": "Türkçe öğreniyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383440"
+    },
+    {
+      "english": "That sounds fun!",
+      "turkish": "Kulağa eğlenceli geliyor!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383442"
+    },
+    {
+      "english": "I like spending time outdoors.",
+      "turkish": "Dışarıda vakit geçirmeyi severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383444"
+    },
+    {
+      "english": "I play the guitar.",
+      "turkish": "Gitar çalıyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383446"
+    },
+    {
+      "english": "What's your favorite hobby?",
+      "turkish": "En sevdiğin hobi ne?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383448"
+    },
+    {
+      "english": "I like to travel.",
+      "turkish": "Seyahat etmeyi severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383450"
+    },
+    {
+      "english": "Let's do something new.",
+      "turkish": "Yeni bir şeyler yapalım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383452"
+    },
+    {
+      "english": "I enjoy playing video games.",
+      "turkish": "Video oyunları oynamayı severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383454"
+    },
+    {
+      "english": "I'm quite busy lately.",
+      "turkish": "Son zamanlarda oldukça meşgulüm.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383456"
+    },
+    {
+      "english": "I want to learn a new skill.",
+      "turkish": "Yeni bir beceri öğrenmek istiyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383458"
+    },
+    {
+      "english": "I love animals.",
+      "turkish": "Hayvanları çok severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383460"
+    },
+    {
+      "english": "We should hang out more.",
+      "turkish": "Daha sık görüşmeliyiz.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383462"
+    },
+    {
+      "english": "I'm a big fan of cinema.",
+      "turkish": "Sinemanın büyük bir hayranıyım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383464"
+    },
+    {
+      "english": "What do you usually do?",
+      "turkish": "Genellikle ne yaparsın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383466"
+    },
+    {
+      "english": "I'm trying to meditate.",
+      "turkish": "Meditasyon yapmaya çalışıyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383467"
+    },
+    {
+      "english": "Do you have any hobbies?, I'm curious.",
+      "turkish": "Hobilerin var mı?, Merak ettim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383481"
+    },
+    {
+      "english": "Any recommendations?, for a new hobby?",
+      "turkish": "Yeni bir hobi için, tavsiyen var mı?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383483"
+    },
+    {
+      "english": "How do you relax?, after work?",
+      "turkish": "İşten sonra, nasıl kafa dinlersin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383486"
+    },
+    {
+      "english": "Are you free, this Saturday?",
+      "turkish": "Bu cumartesi, boş musun?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383488"
+    },
+    {
+      "english": "What's on your mind?, today?",
+      "turkish": "Bugün, aklında ne var?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383491"
+    },
+    {
+      "english": "Tell me about your interests., please.",
+      "turkish": "İlgi alanlarını, anlatır mısın lütfen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383493"
+    },
+    {
+      "english": "Do you prefer, indoors or outdoors?",
+      "turkish": "Evde mi takılmayı seversin, yoksa dışarıda mı?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383495"
+    },
+    {
+      "english": "What's your favorite, way to unwind?",
+      "turkish": "En sevdiğin, rahatlama yöntemi ne?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383498"
+    },
+    {
+      "english": "Anything exciting, planned for the week?",
+      "turkish": "Bu hafta için, heyecanlı bir planın var mı?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383502"
+    },
+    {
+      "english": "Do you like trying, new things?",
+      "turkish": "Yeni şeyler denemeyi, sever misin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383504"
+    },
+    {
+      "english": "What inspires you?, the most?",
+      "turkish": "Seni en çok, ne motive ediyor?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383506"
+    },
+    {
+      "english": "Fancy a coffee?, sometime soon?",
+      "turkish": "Yakın zamanda, bir kahve içer miyiz?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383510"
+    },
+    {
+      "english": "What are you passionate, about?",
+      "turkish": "Neyin tutkunusun?, sen?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383512"
+    },
+    {
+      "english": "How do you spend, your downtime?",
+      "turkish": "Boş zamanlarını, nasıl değerlendirirsin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383514"
+    },
+    {
+      "english": "Is there anything, you're learning?",
+      "turkish": "Öğrenmekte olduğun, bir şey var mı?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383517"
+    },
+    {
+      "english": "What's your go-to, activity for fun?",
+      "turkish": "Eğlence için, favori aktiviten ne?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383519"
+    },
+    {
+      "english": "Do you enjoy, quiet evenings?",
+      "turkish": "Sakin akşamları, sever misin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383522"
+    },
+    {
+      "english": "What do you do, to de-stress?",
+      "turkish": "Stres atmak için, ne yaparsın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383525"
+    },
+    {
+      "english": "Any plans, this evening?",
+      "turkish": "Bu akşam için, planın var mı?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383528"
+    },
+    {
+      "english": "What’s your idea, of a perfect day?",
+      "turkish": "Mükemmel bir gün, senin için ne demek?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383531"
+    },
+    {
+      "english": "Do you like, to explore?",
+      "turkish": "Keşfetmeyi, sever misin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383533"
+    },
+    {
+      "english": "What's on your, playlist lately?",
+      "turkish": "Son zamanlarda, çalma listende ne var?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383535"
+    },
+    {
+      "english": "Do you prefer, team sports?",
+      "turkish": "Takım sporlarını, mı seversin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383537"
+    },
+    {
+      "english": "What are you excited, to try next?",
+      "turkish": "Sıradaki deneyeceğin, heyecan verici şey ne?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383539"
+    },
+    {
+      "english": "Do you enjoy, creative activities?",
+      "turkish": "Yaratıcı aktiviteleri, sever misin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383541"
+    },
+    {
+      "english": "What helps you, recharge?",
+      "turkish": "Yeniden enerji toplamak için, ne yaparsın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383545"
+    },
+    {
+      "english": "Do you like, spontaneous plans?",
+      "turkish": "Sürpriz planları, sever misin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383547"
+    },
+    {
+      "english": "Keep exploring, it's good for you.",
+      "turkish": "Keşfetmeye devam et, sana iyi gelir.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383549"
+    },
+    {
+      "english": "Don't be afraid, to try new things.",
+      "turkish": "Yeni şeyler denemekten korkma.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383551"
+    },
+    {
+      "english": "Every little step, counts towards progress.",
+      "turkish": "Her küçük adım, ilerlemeye sayılır.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383553"
+    },
+    {
+      "english": "Your creativity, is truly inspiring.",
+      "turkish": "Yaratıcılığın, gerçekten ilham verici.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383556"
+    },
+    {
+      "english": "Embrace challenges, they make you stronger.",
+      "turkish": "Zorlukları kucakla, seni güçlendirir.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383558"
+    },
+    {
+      "english": "This is a fantastic, new pursuit.",
+      "turkish": "Bu harika bir, yeni uğraş.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383560"
+    },
+    {
+      "english": "Finding joy, is the main goal.",
+      "turkish": "Neşe bulmak, asıl amaç.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383562"
+    },
+    {
+      "english": "Your passion shows, in everything.",
+      "turkish": "Tutkun her şeyde, belli oluyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383564"
+    },
+    {
+      "english": "You have a great, positive energy.",
+      "turkish": "Harika, pozitif bir enerjin var.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383566"
+    },
+    {
+      "english": "It's important, to make time for fun.",
+      "turkish": "Eğlenmek için, zaman ayırmak önemli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383569"
+    },
+    {
+      "english": "This hobby suits you, perfectly.",
+      "turkish": "Bu hobi sana, çok yakışıyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383571"
+    },
+    {
+      "english": "Learning is a lifelong, journey.",
+      "turkish": "Öğrenmek ömür boyu, süren bir yolculuk.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383573"
+    },
+    {
+      "english": "You're making, good progress here.",
+      "turkish": "Burada iyi, ilerleme kaydediyorsun.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383575"
+    },
+    {
+      "english": "Focus on the process, not just results.",
+      "turkish": "Sadece sonuca değil, sürece odaklan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383579"
+    },
+    {
+      "english": "What a wonderful, way to spend time.",
+      "turkish": "Zaman geçirmek için, ne harika bir yol.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383581"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "turkish": "Adanmışlığın, takdire şayan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383583"
+    },
+    {
+      "english": "Let your imagination, run wild.",
+      "turkish": "Hayal gücünün, çılgınca akmasına izin ver.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383587"
+    },
+    {
+      "english": "This is a great, skill to develop.",
+      "turkish": "Bu geliştirmek için, harika bir beceri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383589"
+    },
+    {
+      "english": "You are learning, so quickly!",
+      "turkish": "Çok hızlı, öğreniyorsun!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383591"
+    },
+    {
+      "english": "Enjoy the journey, of learning.",
+      "turkish": "Öğrenme yolculuğunun, tadını çıkar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383593"
+    },
+    {
+      "english": "Your enthusiasm, is contagious.",
+      "turkish": "Coşkun, bulaşıcı.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383595"
+    },
+    {
+      "english": "What a fantastic, hobby choice!",
+      "turkish": "Ne harika bir, hobi seçimi!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383597"
+    },
+    {
+      "english": "Keep challenging, yourself creatively.",
+      "turkish": "Kendine yaratıcı olarak, meydan okumaya devam et.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383599"
+    },
+    {
+      "english": "You have a natural, talent for this.",
+      "turkish": "Bu konuda doğal, bir yeteneğin var.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383601"
+    },
+    {
+      "english": "It’s wonderful, to see you happy.",
+      "turkish": "Mutlu olduğunu görmek, harika.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383604"
+    },
+    {
+      "english": "Never stop, chasing your dreams.",
+      "turkish": "Hayallerinin peşini, asla bırakma.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383606"
+    },
+    {
+      "english": "This brings me, inner peace.",
+      "turkish": "Bu bana, iç huzur veriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383608"
+    },
+    {
+      "english": "My mind feels, clearer now.",
+      "turkish": "Zihnim, şimdi daha berrak.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383610"
+    },
+    {
+      "english": "I feel more, grounded doing this.",
+      "turkish": "Bunu yaparken, daha topraklanmış hissediyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383612"
+    },
+    {
+      "english": "It helps me, process my thoughts.",
+      "turkish": "Düşüncelerimi, işlememe yardımcı oluyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383614"
+    },
+    {
+      "english": "I find solace, in these moments.",
+      "turkish": "Bu anlarda, teselli buluyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383616"
+    },
+    {
+      "english": "It requires, real patience.",
+      "turkish": "Gerçek sabır, gerektiriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383618"
+    },
+    {
+      "english": "I'm learning, to be present.",
+      "turkish": "An'da kalmayı, öğreniyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383621"
+    },
+    {
+      "english": "This feels truly, meaningful.",
+      "turkish": "Bu gerçekten, anlamlı hissettiriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383623"
+    },
+    {
+      "english": "It's a quiet, reflection time.",
+      "turkish": "Sessiz bir, düşünme zamanı.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383625"
+    },
+    {
+      "english": "I appreciate, the slow pace.",
+      "turkish": "Yavaş tempoyu, takdir ediyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383627"
+    },
+    {
+      "english": "My soul feels, nourished by this.",
+      "turkish": "Ruhum, bunla besleniyor gibi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383629"
+    },
+    {
+      "english": "I discover, new aspects of myself.",
+      "turkish": "Kendimin, yeni yönlerini keşfediyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383631"
+    },
+    {
+      "english": "This hobby allows, vulnerability.",
+      "turkish": "Bu hobi, kırılganlığa izin veriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383634"
+    },
+    {
+      "english": "It teaches me, self-compassion.",
+      "turkish": "Bana, öz şefkati öğretiyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383636"
+    },
+    {
+      "english": "I reconnect, with my inner self.",
+      "turkish": "İçsel benliğimle, yeniden bağlanıyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383638"
+    },
+    {
+      "english": "This activity, centers me.",
+      "turkish": "Bu aktivite, beni merkezliyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383640"
+    },
+    {
+      "english": "I find calm, in the details.",
+      "turkish": "Detaylarda, sakinlik buluyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383642"
+    },
+    {
+      "english": "It’s a space, for honest thoughts.",
+      "turkish": "Dürüst düşünceler için, bir alan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383645"
+    },
+    {
+      "english": "My perspective, shifts gently.",
+      "turkish": "Bakış açım, nazikçe değişiyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383647"
+    },
+    {
+      "english": "I embrace, imperfection here.",
+      "turkish": "Burada, kusurluluğu kucaklıyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383652"
+    },
+    {
+      "english": "It fosters, gratitude within me.",
+      "turkish": "İçimde, şükran uyandırıyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383654"
+    },
+    {
+      "english": "I feel a sense, of deep contentment.",
+      "turkish": "Derin bir, tatmin duygusu hissediyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383656"
+    },
+    {
+      "english": "This journey, is revealing.",
+      "turkish": "Bu yolculuk, aydınlatıcı.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383658"
+    },
+    {
+      "english": "My intuition, guides me now.",
+      "turkish": "Sezgilerim, bana şimdi yol gösteriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383660"
+    },
+    {
+      "english": "This activity, grounds my spirit.",
+      "turkish": "Bu aktivite, ruhumu sağlamlaştırıyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383663"
+    },
+    {
+      "english": "I feel a connection, to something larger.",
+      "turkish": "Daha büyük, bir şeye bağlı hissediyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383666"
+    },
+    {
+      "english": "It cultivates, mindful awareness.",
+      "turkish": "Bilinçli farkındalık, geliştiriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383668"
+    },
+    {
+      "english": "I find beauty, in simplicity.",
+      "turkish": "Sadelikte, güzellik buluyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383670"
+    },
+    {
+      "english": "This practice, deepens my self-understanding.",
+      "turkish": "Bu pratik, kendimi anlamamı derinleştiriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383673"
+    },
+    {
+      "english": "Let's try a new craft, together.",
+      "turkish": "Yeni bir el sanatı, deneyelim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383675"
+    },
+    {
+      "english": "I enjoy reading, in the park.",
+      "turkish": "Parkta kitap okumayı, severim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383677"
+    },
+    {
+      "english": "This weekend, I'll paint something.",
+      "turkish": "Bu hafta sonu, bir şeyler boyayacağım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383679"
+    },
+    {
+      "english": "Gardening, really relaxes me.",
+      "turkish": "Bahçıvanlık, beni gerçekten rahatlatıyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383681"
+    },
+    {
+      "english": "Do you play, any musical instruments?",
+      "turkish": "Herhangi bir müzik aleti, çalar mısın?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383683"
+    },
+    {
+      "english": "My new hobby is, photography.",
+      "turkish": "Yeni hobim, fotoğrafçılık.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383685"
+    },
+    {
+      "english": "Let's go hiking, this Saturday.",
+      "turkish": "Bu cumartesi, yürüyüşe çıkalım.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383689"
+    },
+    {
+      "english": "I'm learning to knit, for fun.",
+      "turkish": "Eğlenmek için, örgü örmeyi öğreniyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383691"
+    },
+    {
+      "english": "Cooking, is my favorite pastime.",
+      "turkish": "Yemek yapmak, en sevdiğim boş zaman etkinliğim.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383694"
+    },
+    {
+      "english": "We should try, bird watching.",
+      "turkish": "Kuş gözlemciliğini, denemeliyiz.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-27T08:34:15.383695"
     }
   ],
-  "last_updated": "2026-10-26T08:22:26.787268"
+  "last_updated": "2026-10-27T08:34:15.383697"
 }
