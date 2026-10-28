@@ -7919,7 +7919,727 @@
       "turkish": "Kuş gözlemciliğini, denemeliyiz.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-10-27T08:34:15.383695"
+    },
+    {
+      "english": "Hello, how are you?",
+      "turkish": "Merhaba, nasılsın?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486107"
+    },
+    {
+      "english": "Nice to meet you.",
+      "turkish": "Tanıştığımıza memnun oldum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486122"
+    },
+    {
+      "english": "Good morning, sir.",
+      "turkish": "Günaydın, efendim.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486125"
+    },
+    {
+      "english": "Good afternoon, madam.",
+      "turkish": "İyi günler, hanımefendi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486129"
+    },
+    {
+      "english": "Good evening.",
+      "turkish": "İyi akşamlar.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486131"
+    },
+    {
+      "english": "What's your name?",
+      "turkish": "Adın ne?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486134"
+    },
+    {
+      "english": "My name is Alex.",
+      "turkish": "Benim adım Alex.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486137"
+    },
+    {
+      "english": "Where are you from?",
+      "turkish": "Nerelisiniz?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486142"
+    },
+    {
+      "english": "I'm from America.",
+      "turkish": "Ben Amerikalıyım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486146"
+    },
+    {
+      "english": "How old are you?",
+      "turkish": "Kaç yaşındasın?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486149"
+    },
+    {
+      "english": "I'm thirty years old.",
+      "turkish": "Otuz yaşındayım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486152"
+    },
+    {
+      "english": "A little, yes.",
+      "turkish": "Biraz, evet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486154"
+    },
+    {
+      "english": "I don't understand.",
+      "turkish": "Anlamadım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486157"
+    },
+    {
+      "english": "Could you repeat that?",
+      "turkish": "Tekrar eder misiniz?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486159"
+    },
+    {
+      "english": "Sorry, I'm late.",
+      "turkish": "Kusura bakma, geç kaldım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486162"
+    },
+    {
+      "english": "No problem.",
+      "turkish": "Sorun değil.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486164"
+    },
+    {
+      "english": "See you later!",
+      "turkish": "Görüşürüz!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486167"
+    },
+    {
+      "english": "Have a nice day!",
+      "turkish": "İyi günler!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486169"
+    },
+    {
+      "english": "What is this?",
+      "turkish": "Bu ne?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486172"
+    },
+    {
+      "english": "Thank you very much.",
+      "turkish": "Çok teşekkür ederim.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486174"
+    },
+    {
+      "english": "You're welcome.",
+      "turkish": "Rica ederim.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486177"
+    },
+    {
+      "english": "May I sit here?",
+      "turkish": "Buraya oturabilir miyim?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486181"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "turkish": "Sadece bakıyorum, teşekkürler.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486186"
+    },
+    {
+      "english": "How much is this?",
+      "turkish": "Bu ne kadar?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486188"
+    },
+    {
+      "english": "Can I help you?",
+      "turkish": "Yardımcı olabilir miyim?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486191"
+    },
+    {
+      "english": "I'm fine, thank you.",
+      "turkish": "İyiyim, teşekkürler.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486194"
+    },
+    {
+      "english": "So, where do you live around here?",
+      "turkish": "Peki, buralarda nereye ikamet ediyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486199"
+    },
+    {
+      "english": "What brings you to Istanbul?",
+      "turkish": "İstanbul'a seni getiren ne?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486201"
+    },
+    {
+      "english": "Are you here for vacation, or work?",
+      "turkish": "Tatil için mi, yoksa iş için mi buradasın?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486204"
+    },
+    {
+      "english": "What do you do for a living?",
+      "turkish": "Geçimini ne ile sağlıyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486207"
+    },
+    {
+      "english": "Have you tried Turkish coffee yet?",
+      "turkish": "Türk kahvesi denedin mi hiç?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486210"
+    },
+    {
+      "english": "What's your favorite Turkish dish?",
+      "turkish": "En sevdiğin Türk yemeği nedir?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486213"
+    },
+    {
+      "english": "Do you speak any other languages?",
+      "turkish": "Başka dil konuşuyor musun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486216"
+    },
+    {
+      "english": "How long have you been learning Turkish?",
+      "turkish": "Ne zamandır Türkçe öğreniyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486219"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "turkish": "İyi bir restoran tavsiye edebilir misin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486221"
+    },
+    {
+      "english": "Is this your first time in Turkey?",
+      "turkish": "Türkiye'ye ilk gelişin mi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486224"
+    },
+    {
+      "english": "Do you like Turkish music?",
+      "turkish": "Türk müziğini seviyor musun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486227"
+    },
+    {
+      "english": "What are your hobbies, generally?",
+      "turkish": "Hobilerin nelerdir genelde?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486230"
+    },
+    {
+      "english": "Are you traveling alone, or with friends?",
+      "turkish": "Tek başına mı seyahat ediyorsun, yoksa arkadaşlarınla mı?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486233"
+    },
+    {
+      "english": "What do you think of the weather today?",
+      "turkish": "Bugünkü hava hakkında ne düşünüyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486235"
+    },
+    {
+      "english": "Do you need any help with that?",
+      "turkish": "Bu konuda yardıma ihtiyacın var mı?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486238"
+    },
+    {
+      "english": "Where did you learn such good Turkish?",
+      "turkish": "Bu kadar iyi Türkçeyi nereden öğrendin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486241"
+    },
+    {
+      "english": "What's the most interesting thing you've seen?",
+      "turkish": "Gördüğün en ilginç şey neydi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486243"
+    },
+    {
+      "english": "Can I ask you a quick question?",
+      "turkish": "Sana hızlı bir soru sorabilir miyim?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486246"
+    },
+    {
+      "english": "What do you enjoy most about your city?",
+      "turkish": "Şehrinle ilgili en çok neyi seviyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486249"
+    },
+    {
+      "english": "Are you familiar with Turkish culture?",
+      "turkish": "Türk kültürüne aşina mısın?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486251"
+    },
+    {
+      "english": "What's your opinion on Turkish tea?",
+      "turkish": "Türk çayı hakkındaki fikrin nedir?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486254"
+    },
+    {
+      "english": "Do you have any recommendations for locals?",
+      "turkish": "Yerel halk için tavsiyelerin var mı?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486258"
+    },
+    {
+      "english": "What's the best time to visit?",
+      "turkish": "Ziyaret etmek için en iyi zaman ne zamandır?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486261"
+    },
+    {
+      "english": "Is there anything I should avoid?",
+      "turkish": "Kaçınmam gereken bir şey var mı?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486263"
+    },
+    {
+      "english": "Did you find everything okay?",
+      "turkish": "Her şeyi yolunda buldun mu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486266"
+    },
+    {
+      "english": "What's your favorite part of the day?",
+      "turkish": "Günün en sevdiğin kısmı nedir?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486269"
+    },
+    {
+      "english": "Do you want to grab a coffee sometime?",
+      "turkish": "Bir ara kahve içmek ister misin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486271"
+    },
+    {
+      "english": "What are you doing this evening?",
+      "turkish": "Bu akşam ne yapıyorsun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486274"
+    },
+    {
+      "english": "Tell me something interesting about yourself.",
+      "turkish": "Kendin hakkında ilginç bir şey anlat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486282"
+    },
+    {
+      "english": "Your Turkish is improving, wow!",
+      "turkish": "Türkçen gelişiyor, harika!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486285"
+    },
+    {
+      "english": "Don't be shy, try to speak.",
+      "turkish": "Çekinme, konuşmayı dene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486288"
+    },
+    {
+      "english": "Every conversation is a learning chance.",
+      "turkish": "Her sohbet bir öğrenme fırsatı.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486290"
+    },
+    {
+      "english": "Be brave, make new friends.",
+      "turkish": "Cesur ol, yeni arkadaşlar edin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486293"
+    },
+    {
+      "english": "It's okay to make mistakes.",
+      "turkish": "Hata yapmak normaldir.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486296"
+    },
+    {
+      "english": "Positive energy attracts good people.",
+      "turkish": "Pozitif enerji iyi insanları çeker.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486299"
+    },
+    {
+      "english": "Smile, it opens many doors.",
+      "turkish": "Gülümse, pek çok kapı açar.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486301"
+    },
+    {
+      "english": "Be open to new experiences.",
+      "turkish": "Yeni deneyimlere açık ol.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486306"
+    },
+    {
+      "english": "You're making progress every day.",
+      "turkish": "Her gün ilerleme kaydediyorsun.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486309"
+    },
+    {
+      "english": "Confidence is key, you have it.",
+      "turkish": "Özgüven anahtardır, sende var.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486312"
+    },
+    {
+      "english": "Let your curiosity guide you.",
+      "turkish": "Merakın seni yönetsin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486314"
+    },
+    {
+      "english": "You have a wonderful presence.",
+      "turkish": "Harika bir enerjin var.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486317"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "turkish": "Öğrenme sürecini kucakla.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486320"
+    },
+    {
+      "english": "You connect with people easily.",
+      "turkish": "İnsanlarla kolay iletişim kuruyorsun.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486323"
+    },
+    {
+      "english": "Your positive attitude is infectious.",
+      "turkish": "Pozitif tavrın bulaşıcı.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486326"
+    },
+    {
+      "english": "Don't fear judgment, just be you.",
+      "turkish": "Yargılanmaktan korkma, kendin ol.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486329"
+    },
+    {
+      "english": "Every interaction is a gift.",
+      "turkish": "Her etkileşim bir hediyedir.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486332"
+    },
+    {
+      "english": "You're making a good impression.",
+      "turkish": "İyi bir izlenim bırakıyorsun.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486334"
+    },
+    {
+      "english": "Keep that friendly spirit alive.",
+      "turkish": "O dostça ruhu canlı tut.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486337"
+    },
+    {
+      "english": "Learning Turkish is an adventure.",
+      "turkish": "Türkçe öğrenmek bir macera.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486339"
+    },
+    {
+      "english": "You're braver than you think.",
+      "turkish": "Sandığından daha cesursun.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486342"
+    },
+    {
+      "english": "Embrace the awkward moments.",
+      "turkish": "Garip anları kucakla.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486345"
+    },
+    {
+      "english": "Your willingness to learn is inspiring.",
+      "turkish": "Öğrenme isteğin ilham verici.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486347"
+    },
+    {
+      "english": "Talk to everyone you meet.",
+      "turkish": "Tanıştığın herkesle konuş.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486350"
+    },
+    {
+      "english": "You're becoming a social butterfly.",
+      "turkish": "Tam bir sosyetsin artık.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486352"
+    },
+    {
+      "english": "Your communication skills are growing.",
+      "turkish": "İletişim becerilerin gelişiyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486355"
+    },
+    {
+      "english": "I feel comfortable talking to you.",
+      "turkish": "Seninle konuşmak rahat hissettiriyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486357"
+    },
+    {
+      "english": "This connection feels genuine.",
+      "turkish": "Bu bağ, içten geliyor sanki.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486360"
+    },
+    {
+      "english": "I'm patient with learning.",
+      "turkish": "Öğrenme konusunda sabırlıyım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486363"
+    },
+    {
+      "english": "It's nice to be understood.",
+      "turkish": "Anlaşılmak ne güzelmiş.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486366"
+    },
+    {
+      "english": "This conversation means a lot.",
+      "turkish": "Bu sohbet çok değerli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486371"
+    },
+    {
+      "english": "I'm really listening to you.",
+      "turkish": "Seni gerçekten dinliyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486376"
+    },
+    {
+      "english": "I appreciate your honesty.",
+      "turkish": "Dürüstlüğünü takdir ediyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486379"
+    },
+    {
+      "english": "Let's take our time here.",
+      "turkish": "Burada acele etmeyelim.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486381"
+    },
+    {
+      "english": "Your words resonate with me.",
+      "turkish": "Sözlerin bana dokunuyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486384"
+    },
+    {
+      "english": "I feel a genuine warmth.",
+      "turkish": "Gerçek bir sıcaklık hissediyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486388"
+    },
+    {
+      "english": "This feels like a good start.",
+      "turkish": "Bu iyi bir başlangıç hissi veriyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486391"
+    },
+    {
+      "english": "I'm open to what comes next.",
+      "turkish": "Sonrasında ne olacağına açığım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486393"
+    },
+    {
+      "english": "Thank you for sharing.",
+      "turkish": "Paylaştığın için teşekkürler.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486396"
+    },
+    {
+      "english": "This is a moment of reflection.",
+      "turkish": "Bu bir düşünme anı.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486398"
+    },
+    {
+      "english": "I value this interaction.",
+      "turkish": "Bu etkileşimi önemsiyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486401"
+    },
+    {
+      "english": "Let's speak from the heart.",
+      "turkish": "Kalpten konuşalım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486403"
+    },
+    {
+      "english": "This encounter feels meaningful.",
+      "turkish": "Bu karşılaşma anlamlı geliyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486406"
+    },
+    {
+      "english": "I'm processing this slowly.",
+      "turkish": "Bunu yavaşça işliyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486409"
+    },
+    {
+      "english": "Your sincerity is refreshing.",
+      "turkish": "Samimiyetin ferahlatıcı.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486411"
+    },
+    {
+      "english": "I'm feeling hopeful about this.",
+      "turkish": "Bu konuda umutluyum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486414"
+    },
+    {
+      "english": "Let's build trust gradually.",
+      "turkish": "Güveni yavaşça kuralım.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486416"
+    },
+    {
+      "english": "I'm enjoying this calm moment.",
+      "turkish": "Bu sakin anın tadını çıkarıyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486419"
+    },
+    {
+      "english": "This feels truly connecting.",
+      "turkish": "Bu gerçekten bağ kurduruyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486421"
+    },
+    {
+      "english": "I'm reflecting on our chat.",
+      "turkish": "Sohbetimiz üzerine düşünüyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486424"
+    },
+    {
+      "english": "I'm embracing the uncertainty.",
+      "turkish": "Belirsizliği kucaklıyorum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486426"
+    },
+    {
+      "english": "Your kindness is felt.",
+      "turkish": "İyiliğin hissediliyor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486428"
+    },
+    {
+      "english": "This conversation is valuable.",
+      "turkish": "Bu konuşma kıymetli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486431"
+    },
+    {
+      "english": "Let's start with introductions, easy does it.",
+      "turkish": "Tanışmayla başlayalım, yavaş yavaş.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486434"
+    },
+    {
+      "english": "Ask simple questions, like 'how are you?'.",
+      "turkish": "Basit sorular sor, 'nasılsın?' gibi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486438"
+    },
+    {
+      "english": "People appreciate a warm smile, always.",
+      "turkish": "İnsanlar sıcak gülümsemeyi takdir eder, her zaman.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486441"
+    },
+    {
+      "english": "Don't be afraid to try, even if imperfect.",
+      "turkish": "Kusurlu olsa bile, denemekten çekinme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486444"
+    },
+    {
+      "english": "Listen carefully, show you're engaged.",
+      "turkish": "Dikkatlice dinle, ilgili olduğunu göster.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486447"
+    },
+    {
+      "english": "Learn common phrases, they help a lot.",
+      "turkish": "Yaygın ifadeler öğren, çok yardımcı olurlar.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486450"
+    },
+    {
+      "english": "Offer help if someone looks lost.",
+      "turkish": "Kayıp görünen birine yardım teklif et.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486452"
+    },
+    {
+      "english": "Use gestures, they bridge language gaps.",
+      "turkish": "Jestleri kullan, dil boşluklarını kapatırlar.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486455"
+    },
+    {
+      "english": "Introduce yourself clearly, state your name.",
+      "turkish": "Kendini net tanıt, ismini söyle.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486458"
+    },
+    {
+      "english": "Say 'thank you' often, it's polite.",
+      "turkish": "'Teşekkür ederim' sıkça söyle, bu kibar.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486463"
+    },
+    {
+      "english": "Ask for directions, people like to help.",
+      "turkish": "Yol tarifi sor, insanlar yardım etmeyi sever.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486466"
+    },
+    {
+      "english": "Find common interests, build rapport easily.",
+      "turkish": "Ortak ilgi alanları bul, kolayca bağ kur.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-28T09:12:16.486469"
     }
   ],
-  "last_updated": "2026-10-27T08:34:15.383697"
+  "last_updated": "2026-10-28T09:12:16.486471"
 }
