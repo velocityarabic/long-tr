@@ -8639,7 +8639,727 @@
       "turkish": "Ortak ilgi alanları bul, kolayca bağ kur.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-10-28T09:12:16.486469"
+    },
+    {
+      "english": "Just a little more, please.",
+      "turkish": "Biraz daha, lütfen.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745033"
+    },
+    {
+      "english": "Wait a moment, I'm coming.",
+      "turkish": "Bir saniye, geliyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745048"
+    },
+    {
+      "english": "Be patient, it will be okay.",
+      "turkish": "Sabırlı ol, düzelecek.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745062"
+    },
+    {
+      "english": "Don't rush, take your time.",
+      "turkish": "Acele etme, vaktin var.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745065"
+    },
+    {
+      "english": "It takes time, you know.",
+      "turkish": "Zaman alıyor, biliyorsun.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745067"
+    },
+    {
+      "english": "Let's wait and see, okay?",
+      "turkish": "Bekleyip görelim, olur mu?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745070"
+    },
+    {
+      "english": "I'm trying to be patient.",
+      "turkish": "Sabretmeye çalışıyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745072"
+    },
+    {
+      "english": "It's not a race, relax.",
+      "turkish": "Bu bir yarış değil, rahatla.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745076"
+    },
+    {
+      "english": "Give it some time, it'll work.",
+      "turkish": "Biraz zaman tanı, işe yarayacak.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745080"
+    },
+    {
+      "english": "Patience is key, remember.",
+      "turkish": "Sabır anahtardır, unutma.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745082"
+    },
+    {
+      "english": "We just have to wait.",
+      "turkish": "Sadece beklememiz gerekiyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745084"
+    },
+    {
+      "english": "It's getting there, slowly.",
+      "turkish": "Oraya gidiyor, yavaş yavaş.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745088"
+    },
+    {
+      "english": "Could you wait a bit longer?",
+      "turkish": "Biraz daha bekleyebilir misin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745090"
+    },
+    {
+      "english": "Things take time to develop.",
+      "turkish": "Olaylar gelişmek için zaman ister.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745092"
+    },
+    {
+      "english": "Let's be patient, everyone.",
+      "turkish": "Sabırlı olalım, herkes.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745094"
+    },
+    {
+      "english": "Almost ready, just a moment.",
+      "turkish": "Hemen hemen hazır, bir dakika.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745096"
+    },
+    {
+      "english": "Good things come to those who wait.",
+      "turkish": "İyi şeyler sabredenlere gelir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745098"
+    },
+    {
+      "english": "We need more time, unfortunately.",
+      "turkish": "Maalesef daha çok zamana ihtiyacımız var.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745100"
+    },
+    {
+      "english": "Don't get frustrated, please.",
+      "turkish": "Lütfen sinirlenme.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745103"
+    },
+    {
+      "english": "Just breathe, and wait.",
+      "turkish": "Sadece nefes al, ve bekle.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745105"
+    },
+    {
+      "english": "It's a process, not instant.",
+      "turkish": "Bu bir süreç, anlık değil.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745107"
+    },
+    {
+      "english": "Hang in there, it's almost done.",
+      "turkish": "Dayan, az kaldı bitmesine.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745109"
+    },
+    {
+      "english": "Can you hold on a little?",
+      "turkish": "Biraz dayanabilir misin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745111"
+    },
+    {
+      "english": "Let's give it a chance.",
+      "turkish": "Ona bir şans verelim.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745113"
+    },
+    {
+      "english": "Patience pays off eventually.",
+      "turkish": "Sabrın sonunda mükafatı olur.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745115"
+    },
+    {
+      "english": "We must be patient, it's important.",
+      "turkish": "Sabırlı olmalıyız, bu önemli.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745117"
+    },
+    {
+      "english": "It's coming, just be patient.",
+      "turkish": "Geliyor, sadece sabret.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745119"
+    },
+    {
+      "english": "Please, wait a little longer.",
+      "turkish": "Lütfen, biraz daha bekle.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745121"
+    },
+    {
+      "english": "I need a little more time.",
+      "turkish": "Biraz daha zamana ihtiyacım var.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745125"
+    },
+    {
+      "english": "Can you explain that again, slowly?",
+      "turkish": "Biraz daha yavaş anlatır mısın?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745128"
+    },
+    {
+      "english": "How long will this take, roughly?",
+      "turkish": "Bu ne kadar sürer, aşağı yukarı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745130"
+    },
+    {
+      "english": "Is there a faster way, do you know?",
+      "turkish": "Daha hızlı bir yolu var mı, biliyor musun?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745132"
+    },
+    {
+      "english": "Could you please repeat that part?",
+      "turkish": "O kısmı tekrar edebilir misin, lütfen?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745134"
+    },
+    {
+      "english": "Shall we pause here, for a bit?",
+      "turkish": "Burada biraz duralım mı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745136"
+    },
+    {
+      "english": "Can you guide me on this matter?",
+      "turkish": "Bu konuda bana yol gösterebilir misin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745138"
+    },
+    {
+      "english": "What's your suggestion, regarding this?",
+      "turkish": "Bu konuda ne önerirsin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745141"
+    },
+    {
+      "english": "Should we check again, maybe?",
+      "turkish": "Belki tekrar kontrol edelim mi?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745143"
+    },
+    {
+      "english": "Is there anything else, I should know?",
+      "turkish": "Bilmem gereken başka bir şey var mı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745145"
+    },
+    {
+      "english": "Can we discuss this later, perhaps?",
+      "turkish": "Bunu daha sonra konuşabilir miyiz, belki?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745147"
+    },
+    {
+      "english": "What do you recommend, for patience?",
+      "turkish": "Sabır için ne tavsiye edersin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745149"
+    },
+    {
+      "english": "Could you clarify that point, please?",
+      "turkish": "O noktayı açıklayabilir misin, lütfen?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745151"
+    },
+    {
+      "english": "Are we on the right track, do you think?",
+      "turkish": "Doğru yolda mıyız, sence?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745154"
+    },
+    {
+      "english": "When do you expect it to finish?",
+      "turkish": "Ne zaman bitmesini beklersin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745158"
+    },
+    {
+      "english": "Is there a deadline we should know?",
+      "turkish": "Bilmemiz gereken bir son tarih var mı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745161"
+    },
+    {
+      "english": "How can I help speed things up?",
+      "turkish": "İşleri hızlandırmak için nasıl yardım edebilirim?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745163"
+    },
+    {
+      "english": "Do you have any questions for me?",
+      "turkish": "Bana sormak istediğin bir şey var mı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745165"
+    },
+    {
+      "english": "Can we review the plan, together?",
+      "turkish": "Planı birlikte gözden geçirebilir miyiz?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745167"
+    },
+    {
+      "english": "What's your feeling about the progress?",
+      "turkish": "Gelişme hakkındaki hislerin ne?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745169"
+    },
+    {
+      "english": "Should we wait for more information?",
+      "turkish": "Daha fazla bilgi için beklemeli miyiz?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745171"
+    },
+    {
+      "english": "Can you explain the delay, please?",
+      "turkish": "Gecikmeyi açıklayabilir misin, lütfen?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745173"
+    },
+    {
+      "english": "Shall we confirm the details, first?",
+      "turkish": "Önce detayları teyit edelim mi?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745175"
+    },
+    {
+      "english": "Is there a workaround we can use?",
+      "turkish": "Kullanabileceğimiz bir geçici çözüm var mı?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745177"
+    },
+    {
+      "english": "How do you handle waiting, usually?",
+      "turkish": "Beklemeyi genelde nasıl idare edersin?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745179"
+    },
+    {
+      "english": "Can we start over, if needed?",
+      "turkish": "Gerekirse yeniden başlayabilir miyiz?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745181"
+    },
+    {
+      "english": "Keep going, great effort.",
+      "turkish": "Devam et, harika çaba.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745184"
+    },
+    {
+      "english": "You're doing so well.",
+      "turkish": "Çok iyi gidiyorsun.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745186"
+    },
+    {
+      "english": "Slowly, but surely, we'll get there.",
+      "turkish": "Yavaş, ama emin adımlarla, oraya varacağız.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745188"
+    },
+    {
+      "english": "Trust the timing, it's unfolding.",
+      "turkish": "Zamana güven, gelişiyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745190"
+    },
+    {
+      "english": "Each step matters, don't rush.",
+      "turkish": "Her adım önemli, acele etme.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745193"
+    },
+    {
+      "english": "Breathe deep, stay calm.",
+      "turkish": "Derin nefes al, sakin kal.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745195"
+    },
+    {
+      "english": "Good work, keep that focus.",
+      "turkish": "Güzel iş, odaklanmaya devam.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745197"
+    },
+    {
+      "english": "This requires thoughtful waiting.",
+      "turkish": "Bu düşünceli bir bekleyiş gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745199"
+    },
+    {
+      "english": "Let's see how this develops.",
+      "turkish": "Bunun nasıl gelişeceğini görelim.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745201"
+    },
+    {
+      "english": "Your patience is admirable.",
+      "turkish": "Sabrın takdire şayan.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745205"
+    },
+    {
+      "english": "We are progressing, step by step.",
+      "turkish": "İlerliyoruz, adım adım.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745207"
+    },
+    {
+      "english": "Stay positive, it's coming.",
+      "turkish": "Pozitif kal, geliyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745211"
+    },
+    {
+      "english": "This is a learning curve.",
+      "turkish": "Bu bir öğrenme süreci.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745214"
+    },
+    {
+      "english": "Give it the time it needs.",
+      "turkish": "Ona ihtiyacı olan zamanı ver.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745216"
+    },
+    {
+      "english": "Consistency brings results.",
+      "turkish": "Düzenlilik sonuç getirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745218"
+    },
+    {
+      "english": "We'll get there, with patience.",
+      "turkish": "Oraya sabırla varacağız.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745220"
+    },
+    {
+      "english": "Focus on the journey.",
+      "turkish": "Yolculuğa odaklan.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745222"
+    },
+    {
+      "english": "This takes careful consideration.",
+      "turkish": "Bu dikkatli bir değerlendirme gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745224"
+    },
+    {
+      "english": "Everything happens for a reason.",
+      "turkish": "Her şeyin bir sebebi vardır.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745226"
+    },
+    {
+      "english": "Your persistence is inspiring.",
+      "turkish": "Azmin ilham verici.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745228"
+    },
+    {
+      "english": "Patience cultivates strength.",
+      "turkish": "Sabır güç geliştirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745232"
+    },
+    {
+      "english": "We are making progress.",
+      "turkish": "İlerleme kaydediyoruz.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745234"
+    },
+    {
+      "english": "Hold on, it's worth it.",
+      "turkish": "Dayan, buna değer.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745237"
+    },
+    {
+      "english": "This requires a calm mind.",
+      "turkish": "Bu sakin bir zihin gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745239"
+    },
+    {
+      "english": "We're almost there.",
+      "turkish": "Neredeyse oradayız.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745241"
+    },
+    {
+      "english": "Let's manage our expectations.",
+      "turkish": "Beklentilerimizi yönetelim.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745243"
+    },
+    {
+      "english": "Keep believing, it will happen.",
+      "turkish": "İnanmaya devam et, olacak.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745245"
+    },
+    {
+      "english": "Every moment counts.",
+      "turkish": "Her an değerlidir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745246"
+    },
+    {
+      "english": "This feels like a test, doesn't it?",
+      "turkish": "Bu bir sınav gibi, değil mi?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745249"
+    },
+    {
+      "english": "I'm learning a lot, just waiting.",
+      "turkish": "Beklerken çok şey öğreniyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745251"
+    },
+    {
+      "english": "It's hard to be patient, honestly.",
+      "turkish": "Sabırlı olmak zor, dürüst olalım.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745253"
+    },
+    {
+      "english": "My feelings are mixed right now.",
+      "turkish": "Şu an duygularım karışık.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745255"
+    },
+    {
+      "english": "Letting go, is part of it.",
+      "turkish": "Bırakmak, işin bir parçası.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745258"
+    },
+    {
+      "english": "I trust the process, mostly.",
+      "turkish": "Sürece güveniyorum, çoğunlukla.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745260"
+    },
+    {
+      "english": "This quiet time, is powerful.",
+      "turkish": "Bu sessiz zaman, güçlü.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745262"
+    },
+    {
+      "english": "My inner voice, says wait.",
+      "turkish": "İç sesim, beklememi söylüyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745264"
+    },
+    {
+      "english": "I feel a calm, growing inside.",
+      "turkish": "İçimde bir sakinlik büyüyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745268"
+    },
+    {
+      "english": "This journey, needs slow steps.",
+      "turkish": "Bu yolculuk, yavaş adımlar gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745270"
+    },
+    {
+      "english": "Is this a test, of faith?",
+      "turkish": "Bu bir iman testi mi?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745272"
+    },
+    {
+      "english": "My patience, is being tested.",
+      "turkish": "Sabrım sınanıyor resmen.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745274"
+    },
+    {
+      "english": "I'm finding strength, in waiting.",
+      "turkish": "Bekleyişte güç buluyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745276"
+    },
+    {
+      "english": "Letting things unfold, naturally.",
+      "turkish": "Olayların doğal akışına bırakıyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745278"
+    },
+    {
+      "english": "I feel a deep, inner peace.",
+      "turkish": "Derin bir iç huzuru hissediyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745280"
+    },
+    {
+      "english": "This is teaching me, resilience.",
+      "turkish": "Bu bana dayanıklılık öğretiyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745282"
+    },
+    {
+      "english": "My heart is telling me, relax.",
+      "turkish": "Kalbim bana, rahat ol diyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745284"
+    },
+    {
+      "english": "How are you feeling, about this?",
+      "turkish": "Bu konuda ne hissediyorsun?",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745287"
+    },
+    {
+      "english": "I'm choosing peace, over panic.",
+      "turkish": "Panik yerine huzuru seçiyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745289"
+    },
+    {
+      "english": "This requires, a lot of trust.",
+      "turkish": "Bu çok güven gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745291"
+    },
+    {
+      "english": "I'm surrendering, to the moment.",
+      "turkish": "An'a teslim oluyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745293"
+    },
+    {
+      "english": "This waiting, feels intentional.",
+      "turkish": "Bu bekleyiş, kasıtlı hissettiriyor.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745295"
+    },
+    {
+      "english": "I can feel, a shift happening.",
+      "turkish": "Bir değişim olduğunu hissedebiliyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745297"
+    },
+    {
+      "english": "My soul, needs this stillness.",
+      "turkish": "Ruhum bu dinginliğe ihtiyacı var.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745299"
+    },
+    {
+      "english": "It's okay, to not know.",
+      "turkish": "Bilmemek de sorun değil.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745304"
+    },
+    {
+      "english": "I'm breathing through, this phase.",
+      "turkish": "Bu evreyi nefes alarak geçiriyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745306"
+    },
+    {
+      "english": "Trusting the universe's, plan.",
+      "turkish": "Evrenin planına güveniyorum.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745308"
+    },
+    {
+      "english": "Slow down, enjoy the process.",
+      "turkish": "Yavaşla, süreci tadını çıkar.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745310"
+    },
+    {
+      "english": "Take a deep breath, wait a moment.",
+      "turkish": "Derin bir nefes al, bir bekle.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745312"
+    },
+    {
+      "english": "Things will fall into place.",
+      "turkish": "Her şey yerine oturacak.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745314"
+    },
+    {
+      "english": "Let's not rush this decision.",
+      "turkish": "Bu kararı aceleye getirmeyelim.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745316"
+    },
+    {
+      "english": "It's better to wait, for the right time.",
+      "turkish": "Doğru zamanı beklemek daha iyi.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745319"
+    },
+    {
+      "english": "We need more time, to be sure.",
+      "turkish": "Emin olmak için daha çok zamana ihtiyacımız var.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745321"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "turkish": "Kendiliğinden gelişsin.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745323"
+    },
+    {
+      "english": "Don't get discouraged, keep trying.",
+      "turkish": "Cesaretini kırma, denemeye devam et.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745326"
+    },
+    {
+      "english": "This requires, steady effort.",
+      "turkish": "Bu, istikrarlı çaba gerektirir.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745330"
+    },
+    {
+      "english": "Just breathe, and be present.",
+      "turkish": "Sadece nefes al, ve anı yaşa.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745332"
+    },
+    {
+      "english": "We're building something, slowly.",
+      "turkish": "Yavaş yavaş bir şeyler inşa ediyoruz.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T09:24:00.745334"
     }
   ],
-  "last_updated": "2026-10-28T09:12:16.486471"
+  "last_updated": "2026-10-30T09:24:00.745336"
 }
