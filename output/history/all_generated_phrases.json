@@ -9359,7 +9359,727 @@
       "turkish": "Yavaş yavaş bir şeyler inşa ediyoruz.",
       "category": "Patience",
       "generated_at": "2026-10-30T09:24:00.745334"
+    },
+    {
+      "english": "I need a doctor, please.",
+      "turkish": "Doktora gitmem gerekiyor, lütfen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235533"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "turkish": "En yakın eczane nerede?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235546"
+    },
+    {
+      "english": "I don't feel well.",
+      "turkish": "Kendimi iyi hissetmiyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235550"
+    },
+    {
+      "english": "I have a headache.",
+      "turkish": "Başım ağrıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235552"
+    },
+    {
+      "english": "My stomach hurts.",
+      "turkish": "Midem bulanıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235555"
+    },
+    {
+      "english": "I have a fever.",
+      "turkish": "Ateşim var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235558"
+    },
+    {
+      "english": "Do you have medicine for this?",
+      "turkish": "Bunun için ilacınız var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235561"
+    },
+    {
+      "english": "How much is it?",
+      "turkish": "Ne kadar?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235566"
+    },
+    {
+      "english": "Can I pay by card?",
+      "turkish": "Kartla ödeyebilir miyim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235569"
+    },
+    {
+      "english": "I need a prescription.",
+      "turkish": "Reçeteye ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235572"
+    },
+    {
+      "english": "When does the doctor start?",
+      "turkish": "Doktor ne zaman başlıyor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235575"
+    },
+    {
+      "english": "I have an appointment.",
+      "turkish": "Randevum var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235577"
+    },
+    {
+      "english": "What time is my turn?",
+      "turkish": "Sıram ne zaman?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235580"
+    },
+    {
+      "english": "Is there a discount?",
+      "turkish": "İndirim var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235583"
+    },
+    {
+      "english": "I'm allergic to penicillin.",
+      "turkish": "Penisilinin alerjim var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235587"
+    },
+    {
+      "english": "Take this twice a day.",
+      "turkish": "Bunu günde iki kez alın.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235590"
+    },
+    {
+      "english": "I feel dizzy.",
+      "turkish": "Başım dönüyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235592"
+    },
+    {
+      "english": "I have a cough.",
+      "turkish": "Öksürüyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235595"
+    },
+    {
+      "english": "I need pain relief.",
+      "turkish": "Ağrı kesiciye ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235597"
+    },
+    {
+      "english": "Is this for adults?",
+      "turkish": "Bu yetişkinler için mi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235600"
+    },
+    {
+      "english": "When should I take it?",
+      "turkish": "Ne zaman almalıyım?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235602"
+    },
+    {
+      "english": "I have a sore throat.",
+      "turkish": "Boğazım ağrıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235605"
+    },
+    {
+      "english": "I need bandages.",
+      "turkish": "Bantlara ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235607"
+    },
+    {
+      "english": "How many days should I use it?",
+      "turkish": "Kaç gün kullanmalıyım?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235610"
+    },
+    {
+      "english": "I need antiseptic.",
+      "turkish": "Antiseptiğe ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235613"
+    },
+    {
+      "english": "Do you have vitamins?",
+      "turkish": "Vitaminleriniz var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235617"
+    },
+    {
+      "english": "This is urgent.",
+      "turkish": "Bu acil.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235619"
+    },
+    {
+      "english": "I'm feeling better, thanks.",
+      "turkish": "Daha iyiyim, teşekkürler.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235622"
+    },
+    {
+      "english": "Can I have a receipt?",
+      "turkish": "Fatura alabilir miyim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235627"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "turkish": "Uzmana görünmem lazım.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235629"
+    },
+    {
+      "english": "What is this medicine for?",
+      "turkish": "Bu ilaç ne işe yarıyor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235632"
+    },
+    {
+      "english": "Can you recommend something?",
+      "turkish": "Bir şey tavsiye edebilir misiniz?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235635"
+    },
+    {
+      "english": "Is there a side effect?",
+      "turkish": "Yan etkisi var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235638"
+    },
+    {
+      "english": "When is the doctor available?",
+      "turkish": "Doktor ne zaman müsait?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235640"
+    },
+    {
+      "english": "I have a rash, what do you think?",
+      "turkish": "Döküntüm var, ne dersiniz?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235643"
+    },
+    {
+      "english": "Does it need a prescription?",
+      "turkish": "Reçetesi gerekli mi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235646"
+    },
+    {
+      "english": "Can I get it without a prescription?",
+      "turkish": "Reçetesiz alabilir miyim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235648"
+    },
+    {
+      "english": "What are the opening hours?",
+      "turkish": "Açılış saatleri nedir?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235651"
+    },
+    {
+      "english": "I need to change my appointment.",
+      "turkish": "Randevumu değiştirmem lazım.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235653"
+    },
+    {
+      "english": "My arm feels numb.",
+      "turkish": "Kolum uyuşuyor sanki.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235656"
+    },
+    {
+      "english": "I think I broke my finger.",
+      "turkish": "Sanırım parmağımı kırdım.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235659"
+    },
+    {
+      "english": "Could you check this for me?",
+      "turkish": "Bunu benim için kontrol eder misiniz?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235661"
+    },
+    {
+      "english": "What should I do about this?",
+      "turkish": "Bununla ilgili ne yapmalıyım?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235665"
+    },
+    {
+      "english": "Do you sell any bandages?",
+      "turkish": "Herhangi bir sargı bezi satıyor musunuz?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235668"
+    },
+    {
+      "english": "I have an earache.",
+      "turkish": "Kulağım ağrıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235671"
+    },
+    {
+      "english": "Is this suitable for sensitive skin?",
+      "turkish": "Bu hassas cilt için uygun mu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235674"
+    },
+    {
+      "english": "I need a cough syrup.",
+      "turkish": "Öksürük şurubuna ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235676"
+    },
+    {
+      "english": "Can I book an appointment for tomorrow?",
+      "turkish": "Yarın için randevu alabilir miyim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235679"
+    },
+    {
+      "english": "What is your consultation fee?",
+      "turkish": "Muayene ücretiniz nedir?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235681"
+    },
+    {
+      "english": "I feel weak, tired.",
+      "turkish": "Kendimi halsiz, yorgun hissediyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235684"
+    },
+    {
+      "english": "How long does this last?",
+      "turkish": "Bu ne kadar süreyle kullanılır?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235686"
+    },
+    {
+      "english": "Do you have any throat lozenges?",
+      "turkish": "Boğaz pastiliniz var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235689"
+    },
+    {
+      "english": "I need to get my blood pressure checked.",
+      "turkish": "Tansiyonumu ölçtürmem gerek.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235691"
+    },
+    {
+      "english": "Is there any urgent care nearby?",
+      "turkish": "Yakında acil servis var mı?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235694"
+    },
+    {
+      "english": "My back is really hurting.",
+      "turkish": "Sırtım gerçekten ağrıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235696"
+    },
+    {
+      "english": "Can I get a discount for cash?",
+      "turkish": "Nakit ödeme yaparsam indirim olur mu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235699"
+    },
+    {
+      "english": "I have a small cut.",
+      "turkish": "Küçük bir kesiğim var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235701"
+    },
+    {
+      "english": "When can I expect results?",
+      "turkish": "Sonuçları ne zaman alabilirim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235704"
+    },
+    {
+      "english": "Believe in your healing process.",
+      "turkish": "İyileşme sürecine inan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235708"
+    },
+    {
+      "english": "Patience is key right now.",
+      "turkish": "Şu an sabır çok önemli.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235711"
+    },
+    {
+      "english": "Focus on positive outcomes.",
+      "turkish": "Olumlu sonuçlara odaklan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235715"
+    },
+    {
+      "english": "This is a temporary challenge.",
+      "turkish": "Bu geçici bir durum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235718"
+    },
+    {
+      "english": "Listen to your body's needs.",
+      "turkish": "Vücudunun ihtiyaçlarını dinle.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235721"
+    },
+    {
+      "english": "You are taking good care of yourself.",
+      "turkish": "Kendine iyi bakıyorsun.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235723"
+    },
+    {
+      "english": "Small changes make a big difference.",
+      "turkish": "Küçük değişiklikler, büyük fark yaratır.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235726"
+    },
+    {
+      "english": "You've got this, stay positive.",
+      "turkish": "Bunu başaracaksın, pozitif kal.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235729"
+    },
+    {
+      "english": "Rest is also part of healing.",
+      "turkish": "Dinlenmek de iyileşmenin bir parçası.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235731"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "turkish": "Çaban takdire şayan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235734"
+    },
+    {
+      "english": "You are on the right path.",
+      "turkish": "Doğru yoldasın.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235736"
+    },
+    {
+      "english": "Don't give up, you're improving.",
+      "turkish": "Pes etme, iyileşiyorsun.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235740"
+    },
+    {
+      "english": "Trust the medical advice.",
+      "turkish": "Tıbbi tavsiyelere güven.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235744"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "turkish": "Her gün yeni bir şans.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235747"
+    },
+    {
+      "english": "Take it one day at a time.",
+      "turkish": "Günü gününe bak.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235749"
+    },
+    {
+      "english": "You are doing your best.",
+      "turkish": "Elinden geleni yapıyorsun.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235752"
+    },
+    {
+      "english": "This feeling won't last forever.",
+      "turkish": "Bu his sonsuza dek sürmez.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235755"
+    },
+    {
+      "english": "You are in good hands here.",
+      "turkish": "Burada emin ellerdesin.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235757"
+    },
+    {
+      "english": "Keep up the good work.",
+      "turkish": "İyi iş çıkarmaya devam et.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235759"
+    },
+    {
+      "english": "Your health is a priority.",
+      "turkish": "Sağlığın öncelikli olmalı.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235762"
+    },
+    {
+      "english": "You are resilient and strong.",
+      "turkish": "Dayanıklısın ve güçlüsün.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235764"
+    },
+    {
+      "english": "Focus on recovery, not worry.",
+      "turkish": "Endişe değil, iyileşmeye odaklan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235767"
+    },
+    {
+      "english": "You are doing remarkably well.",
+      "turkish": "Şaşırtıcı derecede iyisin.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235770"
+    },
+    {
+      "english": "Take deep breaths, relax.",
+      "turkish": "Derin nefes al, rahatla.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235772"
+    },
+    {
+      "english": "This is manageable, you'll see.",
+      "turkish": "Bu yönetilebilir, göreceksin.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235775"
+    },
+    {
+      "english": "You are making excellent progress.",
+      "turkish": "Mükemmel ilerleme kaydediyorsun.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235778"
+    },
+    {
+      "english": "Stay hopeful, brighter days ahead.",
+      "turkish": "Umutlu kal, daha iyi günler gelecek.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235780"
+    },
+    {
+      "english": "I'm worried, honestly, about this.",
+      "turkish": "Açıkçası, bunun için endişeliyim.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235783"
+    },
+    {
+      "english": "This feeling, it's quite strange.",
+      "turkish": "Bu his, oldukça garip.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235786"
+    },
+    {
+      "english": "I hope, this is not serious.",
+      "turkish": "Umarım, bu ciddi değildir.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235789"
+    },
+    {
+      "english": "My emotions, are all over the place.",
+      "turkish": "Duygularım, alt üst oldu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235792"
+    },
+    {
+      "english": "I need to feel better, soon.",
+      "turkish": "Yakında, daha iyi hissetmeliyim.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235794"
+    },
+    {
+      "english": "This situation, makes me sad.",
+      "turkish": "Bu durum, beni üzüyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235797"
+    },
+    {
+      "english": "I'm trying, to stay calm.",
+      "turkish": "Sakin kalmaya, çalışıyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235800"
+    },
+    {
+      "english": "What if, it gets worse?",
+      "turkish": "Ya, daha kötü olursa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235805"
+    },
+    {
+      "english": "I feel vulnerable, right now.",
+      "turkish": "Şu an, savunmasız hissediyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235808"
+    },
+    {
+      "english": "This is tough, I admit.",
+      "turkish": "Bu zor, kabul ediyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235810"
+    },
+    {
+      "english": "I need reassurance, please.",
+      "turkish": "Güvenceye, ihtiyacım var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235813"
+    },
+    {
+      "english": "My mind, races with thoughts.",
+      "turkish": "Aklım, düşüncelerle dolup taşıyor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235816"
+    },
+    {
+      "english": "I just want, to feel normal again.",
+      "turkish": "Sadece, tekrar normal hissetmek istiyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235818"
+    },
+    {
+      "english": "This uncertainty, is difficult.",
+      "turkish": "Bu belirsizlik, zor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235823"
+    },
+    {
+      "english": "I'm trying, to be brave.",
+      "turkish": "Cesur olmaya, çalışıyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235826"
+    },
+    {
+      "english": "Will this pass, eventually?",
+      "turkish": "Bu geçer mi, sonunda?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235829"
+    },
+    {
+      "english": "I feel very alone, sometimes.",
+      "turkish": "Kendimi çok yalnız, hissediyorum bazen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235832"
+    },
+    {
+      "english": "This diagnosis, is heavy.",
+      "turkish": "Bu teşhis, ağır.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235835"
+    },
+    {
+      "english": "I need hope, doctor.",
+      "turkish": "Umut, istiyorum doktor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235837"
+    },
+    {
+      "english": "My spirit, feels low.",
+      "turkish": "Moraliim, çökmüş durumda.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235840"
+    },
+    {
+      "english": "This waiting, is agony.",
+      "turkish": "Bu bekleyiş, işkence.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235843"
+    },
+    {
+      "english": "I'm frustrated, frankly.",
+      "turkish": "Açıkçası, sinirliyim.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235846"
+    },
+    {
+      "english": "I need to understand, fully.",
+      "turkish": "Tam olarak, anlamam gerek.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235849"
+    },
+    {
+      "english": "This is overwhelming, a bit.",
+      "turkish": "Bu biraz, bunaltıcı.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235851"
+    },
+    {
+      "english": "I'm seeking, peace of mind.",
+      "turkish": "İç huzuru, arıyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235854"
+    },
+    {
+      "english": "How did I, get here?",
+      "turkish": "Buraya, nasıl geldim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235857"
+    },
+    {
+      "english": "This feels, surreal.",
+      "turkish": "Bu gerçeküstü, gibi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235860"
+    },
+    {
+      "english": "I want to feel, strong again.",
+      "turkish": "Tekrar, güçlü hissetmek istiyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235862"
+    },
+    {
+      "english": "This journey, is hard.",
+      "turkish": "Bu yolculuk, zor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235865"
+    },
+    {
+      "english": "I'm trusting, you completely.",
+      "turkish": "Size, tamamen güveniyorum.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235868"
+    },
+    {
+      "english": "What's the dosage, please?",
+      "turkish": "Dozajı nedir, lütfen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235870"
+    },
+    {
+      "english": "When should I take this, doctor?",
+      "turkish": "Bunu ne zaman almalıyım, doktor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235873"
+    },
+    {
+      "english": "Can I take this, with food?",
+      "turkish": "Bunu, yemekle birlikte alabilir miyim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235876"
+    },
+    {
+      "english": "I have an allergy, to penicillin.",
+      "turkish": "Penisiline, alerjim var.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235879"
+    },
+    {
+      "english": "How much is it, for the prescription?",
+      "turkish": "Reçete için ne kadar tutuyor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-31T09:10:24.235882"
     }
   ],
-  "last_updated": "2026-10-30T09:24:00.745336"
+  "last_updated": "2026-10-31T09:10:24.235883"
 }
