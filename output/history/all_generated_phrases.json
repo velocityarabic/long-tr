@@ -10079,7 +10079,727 @@
       "turkish": "Reçete için ne kadar tutuyor?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-31T09:10:24.235882"
+    },
+    {
+      "english": "I hope so, too.",
+      "turkish": "Ben de umuyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237235"
+    },
+    {
+      "english": "Fingers crossed for you.",
+      "turkish": "Senin için parmaklarımı çattım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237258"
+    },
+    {
+      "english": "Let's hope for the best.",
+      "turkish": "En iyisini umalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237263"
+    },
+    {
+      "english": "Maybe it will work out.",
+      "turkish": "Belki işe yarar.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237266"
+    },
+    {
+      "english": "I have a good feeling.",
+      "turkish": "İyi hissediyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237269"
+    },
+    {
+      "english": "Don't lose hope.",
+      "turkish": "Umutsuzluğa kapılma.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237272"
+    },
+    {
+      "english": "Things will get better.",
+      "turkish": "İşler düzelecek.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237274"
+    },
+    {
+      "english": "There's always a chance.",
+      "turkish": "Her zaman bir ihtimal var.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237280"
+    },
+    {
+      "english": "Keep your chin up.",
+      "turkish": "Başını dik tut.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237283"
+    },
+    {
+      "english": "I'm optimistic about this.",
+      "turkish": "Bu konuda iyimserim.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237286"
+    },
+    {
+      "english": "Let's see what happens.",
+      "turkish": "Bakalım ne olacak.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237289"
+    },
+    {
+      "english": "I believe it's possible.",
+      "turkish": "Mümkün olduğuna inanıyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237292"
+    },
+    {
+      "english": "Wishing you luck.",
+      "turkish": "Sana iyi şanslar.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237294"
+    },
+    {
+      "english": "Maybe tomorrow will be better.",
+      "turkish": "Belki yarın daha iyi olur.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237297"
+    },
+    {
+      "english": "I'm hopeful for us.",
+      "turkish": "Bizim için umutluyum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237299"
+    },
+    {
+      "english": "Could be a good sign.",
+      "turkish": "İyi bir işaret olabilir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237302"
+    },
+    {
+      "english": "Let's stay positive.",
+      "turkish": "Pozitif kalalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237304"
+    },
+    {
+      "english": "It's not over yet.",
+      "turkish": "Henüz bitmedi.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237309"
+    },
+    {
+      "english": "I'm counting on it.",
+      "turkish": "Ona güveniyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237312"
+    },
+    {
+      "english": "Miracles can happen.",
+      "turkish": "Mucizeler olabilir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237315"
+    },
+    {
+      "english": "Keep hoping.",
+      "turkish": "Umut etmeye devam et.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237317"
+    },
+    {
+      "english": "What if it works?",
+      "turkish": "Ya tutarsa?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237320"
+    },
+    {
+      "english": "I hope you get well soon.",
+      "turkish": "Yakında iyileşmeni umuyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237327"
+    },
+    {
+      "english": "There's light at the end.",
+      "turkish": "Sonunda ışık var.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237330"
+    },
+    {
+      "english": "Let's cross our fingers.",
+      "turkish": "Parmaklarımızı çaprazlayalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237334"
+    },
+    {
+      "english": "I'm rooting for you.",
+      "turkish": "Seni destekliyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237336"
+    },
+    {
+      "english": "Maybe something good will come.",
+      "turkish": "Belki iyi bir şey gelir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237339"
+    },
+    {
+      "english": "A little hope goes a long way.",
+      "turkish": "Biraz umut çok yol alır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237343"
+    },
+    {
+      "english": "I hope we succeed.",
+      "turkish": "Başaracağımıza umuyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237345"
+    },
+    {
+      "english": "Do you think it's possible?",
+      "turkish": "Sence mümkün mü?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237348"
+    },
+    {
+      "english": "How can we make it happen?",
+      "turkish": "Nasıl başarabiliriz bunu?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237351"
+    },
+    {
+      "english": "What if we try this way?",
+      "turkish": "Şu yoldan denesek ne olur?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237353"
+    },
+    {
+      "english": "Are you hopeful about the future?",
+      "turkish": "Gelecek için umutlu musun?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237356"
+    },
+    {
+      "english": "What's your plan B?",
+      "turkish": "B planın nedir?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237359"
+    },
+    {
+      "english": "Can we count on your help?",
+      "turkish": "Yardımına güvenebilir miyiz?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237362"
+    },
+    {
+      "english": "What are your expectations?",
+      "turkish": "Beklentilerin neler?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237364"
+    },
+    {
+      "english": "Is there any other option?",
+      "turkish": "Başka bir seçeneğimiz var mı?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237367"
+    },
+    {
+      "english": "Do you believe in second chances?",
+      "turkish": "İkinci şanslara inanır mısın?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237370"
+    },
+    {
+      "english": "What's the best outcome?",
+      "turkish": "En iyi sonuç ne olur?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237372"
+    },
+    {
+      "english": "Should we aim higher?",
+      "turkish": "Daha yükseği hedeflemeli miyiz?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237375"
+    },
+    {
+      "english": "Any ideas for improvement?",
+      "turkish": "Geliştirme için fikirlerin var mı?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237377"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "turkish": "Neler için heyecanlısın?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237380"
+    },
+    {
+      "english": "Do you have a backup plan?",
+      "turkish": "Yedek planın var mı?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237383"
+    },
+    {
+      "english": "What's the main goal?",
+      "turkish": "Ana hedef ne?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237385"
+    },
+    {
+      "english": "How can we collaborate?",
+      "turkish": "Nasıl işbirliği yapabiliriz?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237388"
+    },
+    {
+      "english": "What's your vision?",
+      "turkish": "Vizyonun nedir?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237390"
+    },
+    {
+      "english": "What inspires you?",
+      "turkish": "Seni ne ilham verir?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237393"
+    },
+    {
+      "english": "Can we achieve this together?",
+      "turkish": "Bunu birlikte başarabilir miyiz?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237395"
+    },
+    {
+      "english": "What's the next step?",
+      "turkish": "Sıradaki adım ne?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237400"
+    },
+    {
+      "english": "Are you ready for this?",
+      "turkish": "Buna hazır mısın?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237404"
+    },
+    {
+      "english": "What outcome do you expect?",
+      "turkish": "Nasıl bir sonuç bekliyorsun?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237407"
+    },
+    {
+      "english": "Do you see potential here?",
+      "turkish": "Burada potansiyel görüyor musun?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237410"
+    },
+    {
+      "english": "What if we get lucky?",
+      "turkish": "Şanslı olursak ne olur?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237412"
+    },
+    {
+      "english": "Tell me your hopes.",
+      "turkish": "Umutlarını anlat bana.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237415"
+    },
+    {
+      "english": "Believe in good things, always.",
+      "turkish": "İyi şeylere inan, hep.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237418"
+    },
+    {
+      "english": "A bright future awaits us.",
+      "turkish": "Bizi parlak bir gelecek bekliyor.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237421"
+    },
+    {
+      "english": "Focus on the positive possibilities.",
+      "turkish": "Olumlu olasılıklara odaklan.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237423"
+    },
+    {
+      "english": "Let's create our own luck.",
+      "turkish": "Kendi şansımızı yaratalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237426"
+    },
+    {
+      "english": "Something wonderful is about to happen.",
+      "turkish": "Harika bir şey olmak üzere.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237429"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "turkish": "İleri atıl, durma.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237434"
+    },
+    {
+      "english": "We can make amazing things happen.",
+      "turkish": "Harika şeyler başarabiliriz.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237437"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "turkish": "Cesaretin ilham verici.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237439"
+    },
+    {
+      "english": "Look for the silver lining.",
+      "turkish": "Gümüş kenarı ara.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237442"
+    },
+    {
+      "english": "Every step brings us closer.",
+      "turkish": "Her adım bizi yakınlaştırır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237445"
+    },
+    {
+      "english": "Optimism is our best weapon.",
+      "turkish": "İyimserlik en iyi silahımız.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237447"
+    },
+    {
+      "english": "What if this is our chance?",
+      "turkish": "Ya bu bizim şansımızsa?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237450"
+    },
+    {
+      "english": "We are stronger than we think.",
+      "turkish": "Sandığından daha güçlüyüz.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237453"
+    },
+    {
+      "english": "Visualize your success.",
+      "turkish": "Başarını hayal et.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237455"
+    },
+    {
+      "english": "Let's aim for the stars.",
+      "turkish": "Yıldızlara ulaşmayı hedefleyelim.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237458"
+    },
+    {
+      "english": "Good energy attracts good things.",
+      "turkish": "İyi enerji iyi şeyleri çeker.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237460"
+    },
+    {
+      "english": "Let's chase this dream together.",
+      "turkish": "Bu hayalin peşinden gidelim.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237463"
+    },
+    {
+      "english": "The best is yet to come.",
+      "turkish": "En iyisi henüz gelmedi.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237466"
+    },
+    {
+      "english": "Keep that positive spark alive.",
+      "turkish": "O pozitif kıvılcımı canlı tut.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237468"
+    },
+    {
+      "english": "Trust the process, it's working.",
+      "turkish": "Sürece güven, işe yarıyor.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237471"
+    },
+    {
+      "english": "We're on the right path.",
+      "turkish": "Doğru yoldayız.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237474"
+    },
+    {
+      "english": "Let's make this moment count.",
+      "turkish": "Bu anı değerli kılalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237477"
+    },
+    {
+      "english": "I have faith in us.",
+      "turkish": "Sana güveniyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237481"
+    },
+    {
+      "english": "The future is bright, I feel it.",
+      "turkish": "Gelecek parlak, hissediyorum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237484"
+    },
+    {
+      "english": "Never underestimate your power.",
+      "turkish": "Gücünü asla küçümseme.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237487"
+    },
+    {
+      "english": "Hold on tight, good things are coming.",
+      "turkish": "Sıkı tutun, güzel şeyler geliyor.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237489"
+    },
+    {
+      "english": "Don't lose hope, it's just a bend.",
+      "turkish": "Umutsuzluğa kapılma, sadece bir viraj.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237495"
+    },
+    {
+      "english": "The dawn is near, keep waiting.",
+      "turkish": "Şafak yakındır, beklemeye devam.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237497"
+    },
+    {
+      "english": "Even a small spark, can ignite a fire.",
+      "turkish": "Küçük bir kıvılcım bile, yangın çıkarabilir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237500"
+    },
+    {
+      "english": "Tomorrow is a new chance, forget yesterday.",
+      "turkish": "Yarın yeni bir şans, dün unutulsun.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237503"
+    },
+    {
+      "english": "A little patience, brings great results.",
+      "turkish": "Biraz sabır, büyük sonuç getirir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237506"
+    },
+    {
+      "english": "What's meant to be, will find its way.",
+      "turkish": "Kısmetinde ne varsa, yolunu bulur.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237509"
+    },
+    {
+      "english": "Keep the faith, it's all good.",
+      "turkish": "İnancı koru, her şey yolunda.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237512"
+    },
+    {
+      "english": "Plant seeds of hope, watch them grow.",
+      "turkish": "Umut tohumları ek, büyümelerini izle.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237515"
+    },
+    {
+      "english": "The darkest night, turns into day.",
+      "turkish": "En karanlık gece, gündüze döner.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237518"
+    },
+    {
+      "english": "We have strength, within us.",
+      "turkish": "İçimizde güç var.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237521"
+    },
+    {
+      "english": "A drop of hope, fills the ocean.",
+      "turkish": "Bir damla umut, okyanusu doldurur.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237523"
+    },
+    {
+      "english": "The sun will rise, again.",
+      "turkish": "Güneş yine doğacak.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237526"
+    },
+    {
+      "english": "Let's believe, in miracles.",
+      "turkish": "Mucizelere inanalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237529"
+    },
+    {
+      "english": "Hold onto hope, it's a guiding light.",
+      "turkish": "Umut kalsın, o bir yol gösterici.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237532"
+    },
+    {
+      "english": "Every setback, is a setup for comeback.",
+      "turkish": "Her aksilik, bir geri dönüş hazırlığıdır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237535"
+    },
+    {
+      "english": "Don't be afraid, to try again.",
+      "turkish": "Tekrar denemekten korkma.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237537"
+    },
+    {
+      "english": "The future is what we make.",
+      "turkish": "Gelecek, bizim yaptıklarımızdır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237540"
+    },
+    {
+      "english": "Keep your heart, open to possibilities.",
+      "turkish": "Kalbini olasılıklara açık tut.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237542"
+    },
+    {
+      "english": "A new day, brings new hope.",
+      "turkish": "Yeni bir gün, yeni umut getirir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237545"
+    },
+    {
+      "english": "We are capable, of great things.",
+      "turkish": "Harika şeyler yapabiliriz.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237548"
+    },
+    {
+      "english": "Hope is the best medicine.",
+      "turkish": "Umut en iyi ilaçtır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237550"
+    },
+    {
+      "english": "Keep pushing, towards your goals.",
+      "turkish": "Hedeflerine doğru ilerlemeye devam et.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237553"
+    },
+    {
+      "english": "Let's try this, we can do it.",
+      "turkish": "Bunu deneyelim, başarabiliriz.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237556"
+    },
+    {
+      "english": "Don't give up, it gets better.",
+      "turkish": "Pes etme, düzelir her şey.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237559"
+    },
+    {
+      "english": "A small effort, makes a difference.",
+      "turkish": "Küçük bir çaba, fark yaratır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237562"
+    },
+    {
+      "english": "Let's focus, on the good.",
+      "turkish": "İyilere odaklanalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237564"
+    },
+    {
+      "english": "This situation, is temporary.",
+      "turkish": "Bu durum, geçici.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237567"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "turkish": "Öğrenmeye devam, gelişmeye devam.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237572"
+    },
+    {
+      "english": "Maybe this is the beginning.",
+      "turkish": "Belki de bu başlangıç.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237574"
+    },
+    {
+      "english": "Let's find a solution, together.",
+      "turkish": "Çözüm bulalım, birlikte.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237579"
+    },
+    {
+      "english": "One day at a time.",
+      "turkish": "Günü kurtaralım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237582"
+    },
+    {
+      "english": "Stay positive, it's important.",
+      "turkish": "Pozitif kal, önemli.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237585"
+    },
+    {
+      "english": "Things will work out, somehow.",
+      "turkish": "İşler hallolur, bir şekilde.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237602"
+    },
+    {
+      "english": "What if we succeed?",
+      "turkish": "Ya başarırsak?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237605"
+    },
+    {
+      "english": "Let's be brave, and try.",
+      "turkish": "Cesur olalım, ve deneyelim.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237608"
+    },
+    {
+      "english": "This challenge, makes us stronger.",
+      "turkish": "Bu zorluk, güçlendirir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237611"
+    },
+    {
+      "english": "There's always a way.",
+      "turkish": "Her zaman bir yol vardır.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237613"
+    },
+    {
+      "english": "Let's share our worries.",
+      "turkish": "Endişelerimizi paylaşalım.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237616"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "turkish": "Bu bir öğrenme fırsatı.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237619"
+    },
+    {
+      "english": "Stay hopeful, my friend.",
+      "turkish": "Umutlu kal, dostum.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T09:58:09.237621"
     }
   ],
-  "last_updated": "2026-10-31T09:10:24.235883"
+  "last_updated": "2026-11-01T09:58:09.237623"
 }
