@@ -10799,7 +10799,727 @@
       "turkish": "Umutlu kal, dostum.",
       "category": "Hope",
       "generated_at": "2026-11-01T09:58:09.237621"
+    },
+    {
+      "english": "Excuse me, where is the nearest bank?",
+      "turkish": "Affedersiniz, en yakın banka nerede?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350427"
+    },
+    {
+      "english": "Can you show me the way, please?",
+      "turkish": "Bana yolu gösterebilir misiniz, lütfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350441"
+    },
+    {
+      "english": "I'm looking for the train station.",
+      "turkish": "Tren istasyonunu arıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350444"
+    },
+    {
+      "english": "How do I get to the museum?",
+      "turkish": "Müzeye nasıl giderim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350448"
+    },
+    {
+      "english": "Is it far from here?",
+      "turkish": "Burası uzak mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350451"
+    },
+    {
+      "english": "Turn left at the corner.",
+      "turkish": "Köşeden sola dönün.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350453"
+    },
+    {
+      "english": "Go straight ahead, please.",
+      "turkish": "Düz ileri gidin, lütfen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350456"
+    },
+    {
+      "english": "It's on your right side.",
+      "turkish": "Sağ tarafınızda kalıyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350461"
+    },
+    {
+      "english": "Thank you for your help.",
+      "turkish": "Yardımınız için teşekkürler.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350465"
+    },
+    {
+      "english": "I think I'm lost.",
+      "turkish": "Sanırım kayboldum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350468"
+    },
+    {
+      "english": "Where is the nearest toilet?",
+      "turkish": "En yakın tuvalet nerede?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350470"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "turkish": "Yakında bir eczane var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350473"
+    },
+    {
+      "english": "How do I get to the bus stop?",
+      "turkish": "Otobüs durağına nasıl giderim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350476"
+    },
+    {
+      "english": "Could you point it out on the map?",
+      "turkish": "Haritada gösterebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350478"
+    },
+    {
+      "english": "I need to find this address.",
+      "turkish": "Bu adresi bulmam gerekiyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350481"
+    },
+    {
+      "english": "Is it on the left or right?",
+      "turkish": "Sol tarafta mı, sağ tarafta mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350483"
+    },
+    {
+      "english": "Go past the big building.",
+      "turkish": "Büyük binayı geçin.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350486"
+    },
+    {
+      "english": "You'll see it after the traffic light.",
+      "turkish": "Işıklardan sonra göreceksiniz.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350489"
+    },
+    {
+      "english": "Which way to the city center?",
+      "turkish": "Şehir merkezine hangi yol?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350491"
+    },
+    {
+      "english": "I'm trying to find my hotel.",
+      "turkish": "Otelimi bulmaya çalışıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350494"
+    },
+    {
+      "english": "Is there a shortcut?",
+      "turkish": "Kısa bir yol var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350496"
+    },
+    {
+      "english": "How many minutes walking?",
+      "turkish": "Kaç dakika yürüme mesafesi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350499"
+    },
+    {
+      "english": "Can you write it down for me?",
+      "turkish": "Bunu benim için yazar mısınız?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350505"
+    },
+    {
+      "english": "I'm looking for a good restaurant.",
+      "turkish": "İyi bir restoran arıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350508"
+    },
+    {
+      "english": "Turn right at the intersection.",
+      "turkish": "Kavşaktan sağa dönün.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350510"
+    },
+    {
+      "english": "Is it close to the park?",
+      "turkish": "Parka yakın mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350514"
+    },
+    {
+      "english": "I'm completely turned around.",
+      "turkish": "Tamamen yönümü şaşırdım.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350517"
+    },
+    {
+      "english": "Don't worry, I'll find it.",
+      "turkish": "Merak etmeyin, bulurum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350520"
+    },
+    {
+      "english": "Which bus goes to the main square?",
+      "turkish": "Ana meydana hangi otobüs gider?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350523"
+    },
+    {
+      "english": "Can you tell me, approximately?",
+      "turkish": "Yaklaşık, bana söyler misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350526"
+    },
+    {
+      "english": "Is this the correct road?",
+      "turkish": "Bu doğru yol mu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350528"
+    },
+    {
+      "english": "Excuse me, a quick question.",
+      "turkish": "Afedersiniz, hızlı bir soru.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350531"
+    },
+    {
+      "english": "Where should I get off?",
+      "turkish": "Nerede inmeliydim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350534"
+    },
+    {
+      "english": "Do you know this street?",
+      "turkish": "Bu sokağı biliyor musunuz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350536"
+    },
+    {
+      "english": "Could you confirm this location?",
+      "turkish": "Bu konumu teyit edebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350539"
+    },
+    {
+      "english": "What's the best route then?",
+      "turkish": "En iyi rota o zaman hangisi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350542"
+    },
+    {
+      "english": "I'm trying to find a landmark.",
+      "turkish": "Bir yer işareti bulmaya çalışıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350545"
+    },
+    {
+      "english": "Is there public transport nearby?",
+      "turkish": "Yakında toplu taşıma var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350548"
+    },
+    {
+      "english": "Could you point towards the north?",
+      "turkish": "Kuzeyi gösterebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350550"
+    },
+    {
+      "english": "Am I heading the right way?",
+      "turkish": "Doğru yöne mi gidiyorum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350553"
+    },
+    {
+      "english": "Is there a faster way?",
+      "turkish": "Daha hızlı bir yol var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350555"
+    },
+    {
+      "english": "Where can I get a taxi?",
+      "turkish": "Nereden taksi bulabilirim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350558"
+    },
+    {
+      "english": "Is this the way to the old town?",
+      "turkish": "Burası eski şehre giden yol mu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350560"
+    },
+    {
+      "english": "Could you help me orient myself?",
+      "turkish": "Yönümü bulmama yardım eder misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350563"
+    },
+    {
+      "english": "How do I find the market square?",
+      "turkish": "Pazar meydanını nasıl bulurum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350566"
+    },
+    {
+      "english": "Is it a long walk?",
+      "turkish": "Uzun bir yürüyüş mü?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350568"
+    },
+    {
+      "english": "Can you describe the route?",
+      "turkish": "Rotayı tarif edebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350571"
+    },
+    {
+      "english": "Which direction should I take?",
+      "turkish": "Hangi yöne gitmeliyim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350573"
+    },
+    {
+      "english": "Is there a map available?",
+      "turkish": "Harita mevcut mu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350576"
+    },
+    {
+      "english": "How often does the tram run?",
+      "turkish": "Tramvay ne sıklıkla çalışıyor?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350578"
+    },
+    {
+      "english": "Is there a metro station near here?",
+      "turkish": "Yakınlarda metro istasyonu var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350581"
+    },
+    {
+      "english": "I'm looking for a quiet street.",
+      "turkish": "Sessiz bir sokak arıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350583"
+    },
+    {
+      "english": "Could you show me on this map?",
+      "turkish": "Bu haritada gösterir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350586"
+    },
+    {
+      "english": "Every step gets you closer.",
+      "turkish": "Her adım seni yaklaştırıyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350590"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "turkish": "Pes etme, az kaldı.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350595"
+    },
+    {
+      "english": "This is a good learning experience.",
+      "turkish": "Bu harika bir öğrenme deneyimi.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350598"
+    },
+    {
+      "english": "Stay positive, it will work out.",
+      "turkish": "Pozitif kal, hallolacak.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350601"
+    },
+    {
+      "english": "Great effort, I see your progress.",
+      "turkish": "Çok iyi çabaladın, ilerlemeni görüyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350604"
+    },
+    {
+      "english": "You're navigating like a pro!",
+      "turkish": "Profesyonel gibi yön buluyorsun!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350606"
+    },
+    {
+      "english": "Keep that determination, you're amazing.",
+      "turkish": "O azmi sürdür, harikasın.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350610"
+    },
+    {
+      "english": "It's okay to ask for help.",
+      "turkish": "Yardım istemek sorun değil.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350612"
+    },
+    {
+      "english": "This challenge makes you stronger.",
+      "turkish": "Bu zorluk seni güçlendiriyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350615"
+    },
+    {
+      "english": "Imagine reaching your destination.",
+      "turkish": "Varış noktana ulaştığını hayal et.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350618"
+    },
+    {
+      "english": "You have a great sense of direction.",
+      "turkish": "Harika bir yön duygun var.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350621"
+    },
+    {
+      "english": "Persistence pays off, keep trying.",
+      "turkish": "Israrın karşılığını alacaksın, dene.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350624"
+    },
+    {
+      "english": "Look how far you've come!",
+      "turkish": "Ne kadar ilerlediğine bak!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350626"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "turkish": "Mükemmel ilerleme kaydediyorsun.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350629"
+    },
+    {
+      "english": "Embrace the adventure, it's exciting.",
+      "turkish": "Macera sana kucak açıyor, heyecanlı.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350632"
+    },
+    {
+      "english": "Your confidence is growing, good!",
+      "turkish": "Özgüvenin artıyor, aferin!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350635"
+    },
+    {
+      "english": "Just a little more effort needed.",
+      "turkish": "Sadece biraz daha çaba gerek.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350637"
+    },
+    {
+      "english": "You can handle this situation.",
+      "turkish": "Bu durumu idare edebilirsin.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350640"
+    },
+    {
+      "english": "Visualize your success, it's coming.",
+      "turkish": "Başarını görselleştir, geliyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350643"
+    },
+    {
+      "english": "You are resourceful, figure it out.",
+      "turkish": "Yaratıcısın, çözersin sen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350645"
+    },
+    {
+      "english": "Trust your instincts, they're good.",
+      "turkish": "Sezgilerine güven, iyiler.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350648"
+    },
+    {
+      "english": "You're getting the hang of it.",
+      "turkish": "Alışmaya başlıyorsun.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350651"
+    },
+    {
+      "english": "This journey builds character.",
+      "turkish": "Bu yolculuk karakter inşa eder.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350654"
+    },
+    {
+      "english": "Excuse me, how do I get to the main street?",
+      "turkish": "Affedersiniz, ana caddeye nasıl giderim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350656"
+    },
+    {
+      "english": "Could you tell me the quickest way, please?",
+      "turkish": "En hızlı yolu söyler misiniz, lütfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350659"
+    },
+    {
+      "english": "Where is the nearest bus stop, friend?",
+      "turkish": "En yakın otobüs durağı nerede, dostum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350674"
+    },
+    {
+      "english": "I'm a bit lost, can you help me out?",
+      "turkish": "Biraz kayboldum, bana yardım eder misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350680"
+    },
+    {
+      "english": "Does this road go to the city center?",
+      "turkish": "Bu yol şehir merkezine gider mi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350683"
+    },
+    {
+      "english": "Is there a shortcut I can take?",
+      "turkish": "Gidebileceğim kestirme bir yol var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350685"
+    },
+    {
+      "english": "Can you point me in the right direction?",
+      "turkish": "Bana doğru yönü gösterebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350688"
+    },
+    {
+      "english": "Is it walkable from here, do you think?",
+      "turkish": "Buradan yürünebilir mi, sizce?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350691"
+    },
+    {
+      "english": "I need to get to the old bazaar.",
+      "turkish": "Eski çarşıya ulaşmam gerekiyor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350694"
+    },
+    {
+      "english": "Which way should I go for the museum?",
+      "turkish": "Müzeye hangi yöne gitmeliyim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350697"
+    },
+    {
+      "english": "Is this the main road through town?",
+      "turkish": "Burası şehirdeki ana yol mu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350703"
+    },
+    {
+      "english": "Could you give me simple directions?",
+      "turkish": "Bana basit tarifler verebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350705"
+    },
+    {
+      "english": "Where can I find a pharmacy around here?",
+      "turkish": "Burada bir eczane nerede bulabilirim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350708"
+    },
+    {
+      "english": "I'm trying to reach the university.",
+      "turkish": "Üniversiteye ulaşmaya çalışıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350711"
+    },
+    {
+      "english": "Is it a straight shot from here?",
+      "turkish": "Buradan dümdüz mü gidiliyor?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350713"
+    },
+    {
+      "english": "How do I find the nearest ATM?",
+      "turkish": "En yakın ATM'yi nasıl bulurum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350718"
+    },
+    {
+      "english": "Could you sketch a quick route for me?",
+      "turkish": "Bana hızlıca bir rota çizebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350720"
+    },
+    {
+      "english": "I'm heading to the central park, am I right?",
+      "turkish": "Merkez parka gidiyorum, doğru muyum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350724"
+    },
+    {
+      "english": "What's the best way to the waterfront?",
+      "turkish": "Sahil kenarına en iyi yol hangisi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350727"
+    },
+    {
+      "english": "Can you guide me to the city walls?",
+      "turkish": "Şehir surlarına beni yönlendirebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350729"
+    },
+    {
+      "english": "I need to find the post office.",
+      "turkish": "Postaneyi bulmam lazım.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350732"
+    },
+    {
+      "english": "Is this the correct turn for the harbor?",
+      "turkish": "Limana giden doğru dönüş mü bu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350734"
+    },
+    {
+      "english": "Whereabouts is the old quarter?",
+      "turkish": "Eski mahalle neredeyse nerede?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350737"
+    },
+    {
+      "english": "Can you tell me how to get downtown?",
+      "turkish": "Şehir merkezine nasıl gideceğimi söyler misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350740"
+    },
+    {
+      "english": "Is there a landmark I should look for?",
+      "turkish": "Bakmam gereken bir işaret var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350742"
+    },
+    {
+      "english": "I'm looking for the main square.",
+      "turkish": "Ana meydanı arıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350745"
+    },
+    {
+      "english": "What's the best route to the airport?",
+      "turkish": "Havalimanına en iyi rota hangisi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350748"
+    },
+    {
+      "english": "Could you help a tourist find their way?",
+      "turkish": "Bir turistin yolunu bulmasına yardım eder misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350750"
+    },
+    {
+      "english": "Lost, can you help, please?",
+      "turkish": "Kayboldum, yardım eder misiniz, lütfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350753"
+    },
+    {
+      "english": "How far is it, approximately?",
+      "turkish": "Ne kadar uzakta, yaklaşık?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350756"
+    },
+    {
+      "english": "Should I go this way, or that?",
+      "turkish": "Bu yoldan mı gideyim, yoksa öbürnden?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350758"
+    },
+    {
+      "english": "Is this the right bus stop?",
+      "turkish": "Doğru otobüs durağı mı burası?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350761"
+    },
+    {
+      "english": "Just straight ahead, then?",
+      "turkish": "Sadece dümdüz ileride, yani?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350764"
+    },
+    {
+      "english": "Can I walk there, easily?",
+      "turkish": "Oraya yürüyebilir miyim, rahatça?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350766"
+    },
+    {
+      "english": "Which street is this, actually?",
+      "turkish": "Burası hangi cadde, acaba?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350769"
+    },
+    {
+      "english": "I'm looking for a quiet cafe.",
+      "turkish": "Sessiz bir kafe arıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350772"
+    },
+    {
+      "english": "Where can I buy a map?",
+      "turkish": "Nereden harita alabilirim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350774"
+    },
+    {
+      "english": "Is this road safe at night?",
+      "turkish": "Bu yol gece güvenli mi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350777"
+    },
+    {
+      "english": "I need a taxi, urgently.",
+      "turkish": "Acilen taksiye ihtiyacım var.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350780"
+    },
+    {
+      "english": "Is there a good landmark nearby?",
+      "turkish": "Yakında iyi bir işaret var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350782"
+    },
+    {
+      "english": "Can you show me on my phone?",
+      "turkish": "Telefonumdan gösterebilir misiniz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350785"
+    },
+    {
+      "english": "I'm looking for a specific address.",
+      "turkish": "Belirli bir adrese bakıyorum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350789"
+    },
+    {
+      "english": "Which direction is the coast?",
+      "turkish": "Sahil hangi yönde?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350792"
+    },
+    {
+      "english": "Can I get a local bus?",
+      "turkish": "Yerel otobüs bulabilir miyim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-02T10:25:06.350795"
     }
   ],
-  "last_updated": "2026-11-01T09:58:09.237623"
+  "last_updated": "2026-11-02T10:25:06.350796"
 }
