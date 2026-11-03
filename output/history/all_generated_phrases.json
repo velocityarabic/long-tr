@@ -11519,7 +11519,727 @@
       "turkish": "Yerel otobüs bulabilir miyim?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-02T10:25:06.350795"
+    },
+    {
+      "english": "Breathe, it’s okay, focus right now.",
+      "turkish": "Nefes al, sorun değil, şimdi odaklan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756608"
+    },
+    {
+      "english": "Calm down, let it pass, no rush.",
+      "turkish": "Sakin ol, geçer, acele yok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756625"
+    },
+    {
+      "english": "It’s fine, I’ll handle it slowly.",
+      "turkish": "İyi, ben hallederim, yavaşça.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756630"
+    },
+    {
+      "english": "Right now, I choose peace over stress.",
+      "turkish": "Şimdi, stresi bırakıyorum, huzuru seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756634"
+    },
+    {
+      "english": "Pause, smile, and answer with patience.",
+      "turkish": "Dur, gülümse, sabırla cevap ver.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756637"
+    },
+    {
+      "english": "I’m here, I’m listening, no judgment.",
+      "turkish": "Buradayım, dinliyorum, yargı yok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756651"
+    },
+    {
+      "english": "Take it easy, you’ll be okay.",
+      "turkish": "Rahat ol, her şey yolunda.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756655"
+    },
+    {
+      "english": "No drama, just breathe and move.",
+      "turkish": "Dram yok, nefes al, devam et.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756664"
+    },
+    {
+      "english": "Let’s reset, start fresh, one step.",
+      "turkish": "Sıfırla, yeniden başla, tek adım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756669"
+    },
+    {
+      "english": "It’s temporary, don’t panic, stay steady.",
+      "turkish": "Geçici, panik yapma, sakin kal.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756674"
+    },
+    {
+      "english": "Okay, I hear you, we’ll slow down.",
+      "turkish": "Tamam, seni anladım, yavaşlayalım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756677"
+    },
+    {
+      "english": "Keep it simple, and it will work.",
+      "turkish": "Basit tut, olur, içi rahat.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756680"
+    },
+    {
+      "english": "I’m not mad, I’m just overwhelmed.",
+      "turkish": "Sinirli değilim, sadece bunaldım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756684"
+    },
+    {
+      "english": "That can wait, my mind needs rest.",
+      "turkish": "Bu sonra olur, kafam dinlenecek.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756689"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "turkish": "Kontrol edebildiğine odaklan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756691"
+    },
+    {
+      "english": "I got this, one breath at a time.",
+      "turkish": "Ben hallederim, bir nefesle.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756694"
+    },
+    {
+      "english": "Say it gently, your peace stays.",
+      "turkish": "Nazik söyle, huzurun kalsın.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756697"
+    },
+    {
+      "english": "I’ll respond later, right now, silence.",
+      "turkish": "Sonra dönerim, şu an sessizlik.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756701"
+    },
+    {
+      "english": "Let go slowly, don’t force anything.",
+      "turkish": "Yavaş bırak, zorlama kendini.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756707"
+    },
+    {
+      "english": "I’m okay, even if things change.",
+      "turkish": "İyiyim, her şey değişse de.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756711"
+    },
+    {
+      "english": "Thanks, I needed that calm.",
+      "turkish": "Sağ ol, buna ihtiyacım vardı.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756713"
+    },
+    {
+      "english": "I’m taking a break, no explaining.",
+      "turkish": "Mola veriyorum, açıklamaya gerek yok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756717"
+    },
+    {
+      "english": "Stay grounded, don’t get swept away.",
+      "turkish": "Dengede kal, kapılma hemen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756720"
+    },
+    {
+      "english": "Today, I move kindly, quietly.",
+      "turkish": "Bugün nazikçe ilerliyorum, sessizce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756723"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "turkish": "Merak etme, hallederiz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756726"
+    },
+    {
+      "english": "I choose calm, even in chaos.",
+      "turkish": "Kaosta bile sakinliği seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756729"
+    },
+    {
+      "english": "Let it be, I’m doing my best.",
+      "turkish": "Kalsın, elimden geleni yapıyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756732"
+    },
+    {
+      "english": "Hold on, I’m coming back to center.",
+      "turkish": "Dur, merkeze dönüyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756735"
+    },
+    {
+      "english": "If it’s too much, say so.",
+      "turkish": "Fazlaysa, söyle, tamam.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756739"
+    },
+    {
+      "english": "We’ll talk later, for now breathe.",
+      "turkish": "Sonra konuşuruz, şimdi nefes al.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756742"
+    },
+    {
+      "english": "What’s bothering you most, right now?",
+      "turkish": "Şu an seni en çok ne rahatsız ediyor?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756746"
+    },
+    {
+      "english": "Can I ask something personal, please?",
+      "turkish": "Sana kişisel bir şey sorabilir miyim, lütfen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756749"
+    },
+    {
+      "english": "Would you like tea, then we talk?",
+      "turkish": "Çay ister misin, sonra konuşalım?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756752"
+    },
+    {
+      "english": "How do you keep your mind clear?",
+      "turkish": "Aklını nasıl bu kadar net tutuyorsun?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756754"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "turkish": "Tavsiye mi istersin, yoksa sadece dinlememi mi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756757"
+    },
+    {
+      "english": "When you feel stuck, what helps?",
+      "turkish": "Tıkandığında ne işe yarıyor?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756760"
+    },
+    {
+      "english": "Should I slow down, or keep going?",
+      "turkish": "Ben yavaşlayayım mı, yoksa devam edeyim mi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756763"
+    },
+    {
+      "english": "What’s the smallest step you can take?",
+      "turkish": "Atabileceğin en küçük adım ne?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756766"
+    },
+    {
+      "english": "Do you want to vent first, or plan?",
+      "turkish": "Önce içini dökmek mi istersin, yoksa plan mı?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756769"
+    },
+    {
+      "english": "What usually triggers your anxiety?",
+      "turkish": "Kaygını en çok ne tetikliyor?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756774"
+    },
+    {
+      "english": "Is it okay if we pause a moment?",
+      "turkish": "Bir dakika durmamız sorun olur mu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756777"
+    },
+    {
+      "english": "Which thought do you keep replaying?",
+      "turkish": "Hangi düşünceyi sürekli tekrar ediyorsun?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756780"
+    },
+    {
+      "english": "Do you feel better after talking?",
+      "turkish": "Konuşunca daha mı iyi hissediyorsun?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756782"
+    },
+    {
+      "english": "How can I support you today?",
+      "turkish": "Bugün sana nasıl destek olabilirim?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756785"
+    },
+    {
+      "english": "What would calm you, even a little?",
+      "turkish": "Seni biraz bile sakinleştirecek şey ne?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756788"
+    },
+    {
+      "english": "Should we name the feeling together?",
+      "turkish": "Duyguyu beraber adlandıralım mı?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756791"
+    },
+    {
+      "english": "Are you okay with silence for now?",
+      "turkish": "Şimdilik sessizliğe olur mu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756793"
+    },
+    {
+      "english": "What’s one thing you can release today?",
+      "turkish": "Bugün bırakabileceğin tek şey ne?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756797"
+    },
+    {
+      "english": "Do you prefer morning talks, or night walks?",
+      "turkish": "Sabah mı konuşalım, yoksa gece yürüyüş mü?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756800"
+    },
+    {
+      "english": "How do you handle uncertainty kindly?",
+      "turkish": "Belirsizliği nasıl nazikçe yönetiyorsun?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756803"
+    },
+    {
+      "english": "What do you need, space or closeness?",
+      "turkish": "Neye ihtiyacın var, alana mı yakınlığa mı?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756808"
+    },
+    {
+      "english": "Want to try a quick check-in?",
+      "turkish": "Kısa bir kontrol yapalım mı?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756811"
+    },
+    {
+      "english": "If I ask, will you be honest?",
+      "turkish": "Sorarım, dürüst olur musun?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756813"
+    },
+    {
+      "english": "What boundary would protect your peace?",
+      "turkish": "Huzurunu koruyan bir sınırın var mı?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756816"
+    },
+    {
+      "english": "Which sentence helps you, when it’s heavy?",
+      "turkish": "Ağır geldiğinde hangi cümle iyi geliyor sana?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756820"
+    },
+    {
+      "english": "Should we change the plan, gently?",
+      "turkish": "Planı nazikçe değiştirelim mi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756823"
+    },
+    {
+      "english": "What’s your next step, after this talk?",
+      "turkish": "Bu konuşmadan sonra atacağın adım ne?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756826"
+    },
+    {
+      "english": "Can I repeat what you said?",
+      "turkish": "Söylediğini tekrar edeyim, olur mu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756828"
+    },
+    {
+      "english": "Do you want solutions, or reassurance first?",
+      "turkish": "Önce çözüm mü istersin, yoksa güvence mi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756831"
+    },
+    {
+      "english": "I can pause, then answer calmly.",
+      "turkish": "Dururum, sonra sakin sakin cevap veririm.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756834"
+    },
+    {
+      "english": "My thoughts are just thoughts, not facts.",
+      "turkish": "Düşüncelerim sadece düşünce, gerçek değil.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756837"
+    },
+    {
+      "english": "I practice kindness, even when I'm tense.",
+      "turkish": "Gergin olsam da nezaketi seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756843"
+    },
+    {
+      "english": "I notice it, then I let it pass.",
+      "turkish": "Fark ediyorum, sonra akıp geçmesine izin veriyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756846"
+    },
+    {
+      "english": "Small progress counts, keep going.",
+      "turkish": "Küçük ilerleme bile sayılır, devam et.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756849"
+    },
+    {
+      "english": "Take a breath, you’re doing fine.",
+      "turkish": "Bir nefes al, gayet iyisin.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756853"
+    },
+    {
+      "english": "I speak to myself, gently and honestly.",
+      "turkish": "Kendimle, nazikçe ve dürüstçe konuşuyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756856"
+    },
+    {
+      "english": "I’m proud of showing up today.",
+      "turkish": "Bugün orada olmak, beni gururlandırıyor.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756859"
+    },
+    {
+      "english": "Let this moment be enough.",
+      "turkish": "Bu an yeterli, tamam.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756862"
+    },
+    {
+      "english": "I choose patience, one step at a time.",
+      "turkish": "Sabırla ilerliyorum, tek tek adım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756865"
+    },
+    {
+      "english": "You handled that, give yourself credit.",
+      "turkish": "Üstesinden geldin, kendine teşekkür et.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756868"
+    },
+    {
+      "english": "My pace is okay, I’m not late.",
+      "turkish": "Benim hızım yeter, geç kalmadım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756871"
+    },
+    {
+      "english": "I can start again, right now.",
+      "turkish": "Hemen şimdi yeniden başlayabilirim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756874"
+    },
+    {
+      "english": "It’s safe to slow down.",
+      "turkish": "Yavaşlamak güvenli, korkma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756877"
+    },
+    {
+      "english": "I trust my effort, not the mood.",
+      "turkish": "Heves değil, emeğime güveniyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756880"
+    },
+    {
+      "english": "I let go of perfect, I choose real.",
+      "turkish": "Mükemmeli bırakıyorum, gerçek olanı seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756883"
+    },
+    {
+      "english": "I can do the next right thing.",
+      "turkish": "Sıradaki doğru şeyi yapabilirim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756888"
+    },
+    {
+      "english": "I’m learning, so I can be kind.",
+      "turkish": "Öğreniyorum, o yüzden kendime nazik olurum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756892"
+    },
+    {
+      "english": "Keep your focus on what you control.",
+      "turkish": "Kontrol sende olan şeye odaklan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756895"
+    },
+    {
+      "english": "Even this feeling will soften.",
+      "turkish": "Bu duygu da yumuşayacak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756897"
+    },
+    {
+      "english": "I deserve calm, and I can build it.",
+      "turkish": "Sakinliğe hakkım var, onu kurabilirim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756900"
+    },
+    {
+      "english": "Say it in your head, I’m okay.",
+      "turkish": "Kendi kendine söyle, iyiyim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756904"
+    },
+    {
+      "english": "I’m doing my best, that’s enough.",
+      "turkish": "Elimden geleni yapıyorum, bu da yeter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756907"
+    },
+    {
+      "english": "Today, I’ll choose peace over panic.",
+      "turkish": "Bugün, paniğe değil, huzura geçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756913"
+    },
+    {
+      "english": "I can handle one more minute.",
+      "turkish": "Bir dakika daha idare ederim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756915"
+    },
+    {
+      "english": "Let your mind rest, not fight.",
+      "turkish": "Zihin dinlensin, savaşmasın.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756918"
+    },
+    {
+      "english": "I’m allowed to feel, then recover.",
+      "turkish": "Hissetmeye hakkım var, sonra toparlarım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756921"
+    },
+    {
+      "english": "Your effort matters, even quietly.",
+      "turkish": "Çaban önemli, sessiz olsa bile.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756924"
+    },
+    {
+      "english": "I speak hope, even in hard days.",
+      "turkish": "Zor günlerde bile umudu konuşuyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756926"
+    },
+    {
+      "english": "Notice progress, not only problems.",
+      "turkish": "Sadece sorunlara değil, ilerlemeye bak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756929"
+    },
+    {
+      "english": "I’m listening to my body, without judging.",
+      "turkish": "Vücudumu dinliyorum, yargılamadan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756932"
+    },
+    {
+      "english": "Right now, I’m telling myself the truth.",
+      "turkish": "Şu an, kendime gerçeği söylüyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756936"
+    },
+    {
+      "english": "I pause, then I choose what’s kind.",
+      "turkish": "Duruyorum, sonra iyiyi seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756940"
+    },
+    {
+      "english": "My feelings are real, and I’m safe.",
+      "turkish": "Duygularım gerçek, ben güvendeyim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756943"
+    },
+    {
+      "english": "I don’t rush my healing, I respect it.",
+      "turkish": "İyileşmeyi aceleye getirmiyorum, ona saygı duyuyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756947"
+    },
+    {
+      "english": "I can admit I’m tired, and continue.",
+      "turkish": "Yorgun olduğumu kabul edebilirim, devam ederim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756950"
+    },
+    {
+      "english": "I let the emotion move through me.",
+      "turkish": "Duygunun içimden geçmesine izin veriyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756955"
+    },
+    {
+      "english": "When I’m hurt, I speak softly.",
+      "turkish": "İncinince, kendime yumuşak konuşuyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756958"
+    },
+    {
+      "english": "I notice the pattern, then I loosen it.",
+      "turkish": "Deseni fark ediyorum, sonra gevşetiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756964"
+    },
+    {
+      "english": "I’m not behind, I’m just human today.",
+      "turkish": "Geri kalmadım, sadece bugün insanim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756967"
+    },
+    {
+      "english": "I check in, then I answer with care.",
+      "turkish": "Kontrol ediyorum, sonra özenle yanıt veriyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756970"
+    },
+    {
+      "english": "Some thoughts fade, I don’t fight them.",
+      "turkish": "Bazı düşünceler geçip gider, ben savaşmıyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756974"
+    },
+    {
+      "english": "I can be honest, without being harsh.",
+      "turkish": "Dürüst olabilirim, ama acımasız değil.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756976"
+    },
+    {
+      "english": "I respect my pace, even if it’s slow.",
+      "turkish": "Hızımı önemsiyorum, yavaş olsa bile.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756980"
+    },
+    {
+      "english": "I choose calm words, not loud reactions.",
+      "turkish": "Bağıran tepkiler değil, sakin sözler seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756982"
+    },
+    {
+      "english": "I don’t need to win, I need balance.",
+      "turkish": "Kazanmak zorunda değilim, dengeye ihtiyacım var.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756985"
+    },
+    {
+      "english": "I let silence do its healing work.",
+      "turkish": "Sessizliğin iyileştirme gücüne izin veriyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756988"
+    },
+    {
+      "english": "I’m learning to forgive myself, bit by bit.",
+      "turkish": "Kendimi affetmeyi öğreniyorum, yavaş yavaş.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756991"
+    },
+    {
+      "english": "My mind can wander, I return gently.",
+      "turkish": "Zihnim dağılabilir, ben nazikçe geri dönerim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756994"
+    },
+    {
+      "english": "I’m allowed to feel, then steady myself.",
+      "turkish": "Hissetmeye hakkım var, sonra kendimi toparlarım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.756998"
+    },
+    {
+      "english": "I don’t ignore discomfort, I care for it.",
+      "turkish": "Rahatsızlığı görmezden gelmiyorum, ona bakıyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757001"
+    },
+    {
+      "english": "I’m building peace with small honest steps.",
+      "turkish": "Küçük, dürüst adımlarla barış inşa ediyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757004"
+    },
+    {
+      "english": "I can hold my emotions, without drowning.",
+      "turkish": "Duygularımı taşıyabilirim, boğulmadan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757007"
+    },
+    {
+      "english": "Today, I choose reflection over impulse.",
+      "turkish": "Bugün, dürtüden çok düşünmeyi seçiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757010"
+    },
+    {
+      "english": "I’m allowed to change my mind peacefully.",
+      "turkish": "Fikrimi sakin sakin değiştirebilirim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757015"
+    },
+    {
+      "english": "I notice tension, then I release the grip.",
+      "turkish": "Gerginliği fark ediyorum, sonra elimi gevşetiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757018"
+    },
+    {
+      "english": "I’m learning to be gentle, even inwardly.",
+      "turkish": "İçimden de nazik olmayı öğreniyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757021"
+    },
+    {
+      "english": "I can be disappointed, and still stay kind.",
+      "turkish": "Hayal kırıklığı yaşayabilirim, yine de nazik kalırım.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757026"
+    },
+    {
+      "english": "I trust my inner compass, not the noise.",
+      "turkish": "İç pusulamı dinliyorum, gürültüye değil.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757029"
+    },
+    {
+      "english": "I’m not solving everything right now.",
+      "turkish": "Şu an her şeyi çözmek zorunda değilim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757032"
+    },
+    {
+      "english": "Pause, breathe, then reply calmly.",
+      "turkish": "Dur, nefes al, sonra sakin cevap ver.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:23:31.757036"
     }
   ],
-  "last_updated": "2026-11-02T10:25:06.350796"
+  "last_updated": "2026-11-03T10:23:31.757038"
 }
