@@ -12239,7 +12239,727 @@
       "turkish": "Dur, nefes al, sonra sakin cevap ver.",
       "category": "Inner Peace",
       "generated_at": "2026-11-03T10:23:31.757036"
+    },
+    {
+      "english": "Hi, where is the check-in desk?",
+      "turkish": "Merhaba, check-in bankosu nerede?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601647"
+    },
+    {
+      "english": "Is this line for domestic flights?",
+      "turkish": "Bu sıra yurt içi uçuşlar için mi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601662"
+    },
+    {
+      "english": "My flight is delayed, what happened?",
+      "turkish": "Uçağım gecikti, ne oldu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601665"
+    },
+    {
+      "english": "Sorry, I’m looking for gate number B12.",
+      "turkish": "Affedersiniz, B12 kapısını arıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601668"
+    },
+    {
+      "english": "Can I get a window seat, please?",
+      "turkish": "Pencere koltuğu alabilir miyim, lütfen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601671"
+    },
+    {
+      "english": "Excuse me, is there free Wi‑Fi here?",
+      "turkish": "Pardon, burada ücretsiz Wi‑Fi var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601674"
+    },
+    {
+      "english": "How late is boarding, exactly?",
+      "turkish": "Kalkışa giriş tam olarak ne zaman?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601676"
+    },
+    {
+      "english": "I think I missed my boarding call.",
+      "turkish": "Galiba uçağa çağrıyı kaçırdım.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601680"
+    },
+    {
+      "english": "Where do I go for security check?",
+      "turkish": "Güvenlik kontrolüne nereye gidiyorum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601683"
+    },
+    {
+      "english": "Thanks, I found it, easy!",
+      "turkish": "Sağ ol, buldum, çok kolay!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601686"
+    },
+    {
+      "english": "Do I need to print this ticket?",
+      "turkish": "Bu bileti yazdırmam gerekiyor mu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601688"
+    },
+    {
+      "english": "My passport is in my bag, sorry.",
+      "turkish": "Pasaportum çantamda, kusura bakmayın.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601691"
+    },
+    {
+      "english": "Is there a luggage storage nearby?",
+      "turkish": "Yakında eşya saklama yeri var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601693"
+    },
+    {
+      "english": "Where is baggage claim, please?",
+      "turkish": "Bagaj teslimi nerede, lütfen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601695"
+    },
+    {
+      "english": "My bag didn’t arrive, what now?",
+      "turkish": "Valizim gelmedi, şimdi ne yapacağım?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601698"
+    },
+    {
+      "english": "Is there a help desk for lost luggage?",
+      "turkish": "Kayıp valiz için yardımcı masası var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601700"
+    },
+    {
+      "english": "One moment, I’m searching my wallet.",
+      "turkish": "Bir saniye, cüzdanımı arıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601703"
+    },
+    {
+      "english": "I’m running late, please hurry.",
+      "turkish": "Geç kalıyorum, lütfen acele edin.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601706"
+    },
+    {
+      "english": "What’s the currency exchange rate today?",
+      "turkish": "Bugün kur kaç, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601708"
+    },
+    {
+      "english": "Is this seat taken, or free?",
+      "turkish": "Burası dolu mu, boş mu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601710"
+    },
+    {
+      "english": "Wait, that’s not my row.",
+      "turkish": "Dur, bu benim sıram değil.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601713"
+    },
+    {
+      "english": "I missed my connection, I’m stressed.",
+      "turkish": "Aktarma kaçtı, çok stresliyim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601716"
+    },
+    {
+      "english": "What time does the shuttle leave?",
+      "turkish": "Servis kaçta kalkıyor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601720"
+    },
+    {
+      "english": "Is there an ATM near the exit?",
+      "turkish": "Çıkışa yakın ATM var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601722"
+    },
+    {
+      "english": "My phone won’t charge, help please!",
+      "turkish": "Telefonum şarj olmuyor, yardım edin!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601725"
+    },
+    {
+      "english": "Can I take this liquid in?",
+      "turkish": "Bu sıvıyı yanıma alabilir miyim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601727"
+    },
+    {
+      "english": "Where can I refill my water bottle?",
+      "turkish": "Su şişemi nerede doldurabilirim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601729"
+    },
+    {
+      "english": "That’s my baggage tag, yes!",
+      "turkish": "Bu benim bagaj etiketim, evet!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601731"
+    },
+    {
+      "english": "Okay, I’m ready, let’s go!",
+      "turkish": "Tamam, hazırım, hadi bakalım!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601735"
+    },
+    {
+      "english": "Quick question, where can I buy a SIM?",
+      "turkish": "Bir soru, burada SIM kartı nereden alırım?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601737"
+    },
+    {
+      "english": "Which line is fastest for passport control?",
+      "turkish": "Pasaport kontrolü için en hızlı sıra hangisi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601740"
+    },
+    {
+      "english": "Do you know where I can charge my phone?",
+      "turkish": "Telefonumu şarj edebileceğim yer neresi, biliyor musunuz?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601742"
+    },
+    {
+      "english": "Is there a place to stretch, near here?",
+      "turkish": "Buralarda biraz esneyebileceğim bir alan var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601745"
+    },
+    {
+      "english": "Can you tell me where the metro entrance is?",
+      "turkish": "Metro girişine nasıl gidilir, anlatır mısınız?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601747"
+    },
+    {
+      "english": "Which bus goes to the city center?",
+      "turkish": "Şehir merkezine hangi otobüs gider?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601749"
+    },
+    {
+      "english": "Is it okay to bring a small backpack inside?",
+      "turkish": "İçeri küçük bir sırt çantası getirmek serbest mi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601753"
+    },
+    {
+      "english": "Where can I refill my card for transit?",
+      "turkish": "Ulaşım kartımı nerede yükleyebilirim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601755"
+    },
+    {
+      "english": "How do I find my transfer desk, please?",
+      "turkish": "Aktarma için danışma masasını nasıl bulurum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601758"
+    },
+    {
+      "english": "Do I need to go through security again?",
+      "turkish": "Tekrar güvenlikten geçmem gerekiyor mu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601760"
+    },
+    {
+      "english": "My bag looks different, who can help?",
+      "turkish": "Çantam biraz farklı görünüyor, kim yardım eder?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601762"
+    },
+    {
+      "english": "What documents should I have ready?",
+      "turkish": "Hazırda hangi belgeleri bulundurmam gerekiyor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601764"
+    },
+    {
+      "english": "Do you have a digital boarding pass option?",
+      "turkish": "Dijital biniş kartı kullanabiliyor muyum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601766"
+    },
+    {
+      "english": "Is there a quiet lounge for passengers?",
+      "turkish": "Yolcular için sessiz bir lounge var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601768"
+    },
+    {
+      "english": "Where’s the nearest restroom, by the gates?",
+      "turkish": "Kapılara yakın en yakın tuvalet nerede?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601771"
+    },
+    {
+      "english": "Do you know any good airport food spots?",
+      "turkish": "Havalimanında iyi yemek yerleri biliyor musunuz?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601773"
+    },
+    {
+      "english": "Can I reserve seats on this flight?",
+      "turkish": "Bu uçakta koltuk seçimi yapabilir miyim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601775"
+    },
+    {
+      "english": "Is there a faster line for families?",
+      "turkish": "Aileler için daha hızlı bir sıra var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601777"
+    },
+    {
+      "english": "What should I do if my gate changes?",
+      "turkish": "Kapım değişirse ne yapmalıyım?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601780"
+    },
+    {
+      "english": "Where do passengers wait before boarding?",
+      "turkish": "Yolcular, binişten önce nerede bekliyor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601782"
+    },
+    {
+      "english": "Do you have a timetable for transfers?",
+      "turkish": "Aktarmalar için saat bilgisi var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601784"
+    },
+    {
+      "english": "Is there a charging station in this area?",
+      "turkish": "Bu bölgede şarj istasyonu var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601786"
+    },
+    {
+      "english": "What’s the easiest route to customs?",
+      "turkish": "Gümrüğe en kolay nasıl gidilir?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601789"
+    },
+    {
+      "english": "Could you show me where to scan passports?",
+      "turkish": "Pasaportları nerede okutacağımı gösterir misiniz?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601791"
+    },
+    {
+      "english": "I have a question about my baggage allowance.",
+      "turkish": "Bagaj hakkım ile ilgili bir sorum var.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601793"
+    },
+    {
+      "english": "Is there an airline desk for rebooking?",
+      "turkish": "Yeniden biletleme için uçuş ofisi var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601799"
+    },
+    {
+      "english": "How early should I arrive for check-in?",
+      "turkish": "Check-in için en erken ne zaman gelmeliyim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601801"
+    },
+    {
+      "english": "Which exit is best for taxis, right now?",
+      "turkish": "Taksiler için şu an en iyi çıkış hangisi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601804"
+    },
+    {
+      "english": "Thanks, can I confirm this route, please?",
+      "turkish": "Teşekkürler, bu yolu doğrulayabilir miyim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601806"
+    },
+    {
+      "english": "You’ve got this, breathe slow, keep moving.",
+      "turkish": "Sen başarirsın, yavaş nefes al, devam et.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601809"
+    },
+    {
+      "english": "Step by step, even airports feel manageable.",
+      "turkish": "Adım adım, havaalanı bile yönetilebilir.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601812"
+    },
+    {
+      "english": "Stay calm, follow signs, you’ll be fine.",
+      "turkish": "Sakin kal, tabelaları izle, her şey olur.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601815"
+    },
+    {
+      "english": "Relax, asking questions is part of travel.",
+      "turkish": "Rahat ol, soru sormak yolculuğun parçası.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601817"
+    },
+    {
+      "english": "Good job, you planned ahead, that helps.",
+      "turkish": "Aferin, önceden düşündün, gerçekten işe yarar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601820"
+    },
+    {
+      "english": "Keep your energy high, delays pass.",
+      "turkish": "Enerjini yüksek tut, gecikmeler geçer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601822"
+    },
+    {
+      "english": "Be kind to yourself, you’re doing great.",
+      "turkish": "Kendine iyi davran, çok iyi gidiyorsun.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601825"
+    },
+    {
+      "english": "Trust your plan, you’re right on time.",
+      "turkish": "Planına güven, tam vaktindesin.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601828"
+    },
+    {
+      "english": "Quick check, you’re still on track.",
+      "turkish": "Kısa kontrol, hâlâ rotadasın.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601831"
+    },
+    {
+      "english": "If you’re unsure, that’s normal, ask politely.",
+      "turkish": "Emin değilsen, bu normal, kibarca sor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601836"
+    },
+    {
+      "english": "You don’t need perfection, just keep going.",
+      "turkish": "Mükemmel olman gerekmez, devam et yeter.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601841"
+    },
+    {
+      "english": "Celebrate small wins, find your way.",
+      "turkish": "Küçük zaferleri kutla, yolunu bulursun.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601843"
+    },
+    {
+      "english": "Eyes on the gate, you’re almost there.",
+      "turkish": "Kapıya odaklan, çok az kaldı.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601846"
+    },
+    {
+      "english": "Don’t panic, information is always nearby.",
+      "turkish": "Panik yapma, bilgi hep yakında.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601849"
+    },
+    {
+      "english": "You’ve handled harder days, this too.",
+      "turkish": "Daha zorlusunu atlattın, bu da geçer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601851"
+    },
+    {
+      "english": "Focus on now, worry can wait.",
+      "turkish": "Şimdiye odaklan, endişe sonra.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601853"
+    },
+    {
+      "english": "Good attitude, good travel, simple.",
+      "turkish": "İyi niyet, iyi yolculuk, hepsi bu kadar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601856"
+    },
+    {
+      "english": "You’re learning fast, keep practicing your Turkish.",
+      "turkish": "Hızlı öğreniyorsun, Türkçeni çalışmaya devam et.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601859"
+    },
+    {
+      "english": "Ask once, then breathe, you’ve done enough.",
+      "turkish": "Bir kez sor, sonra nefes al, tamam.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601862"
+    },
+    {
+      "english": "Your calm voice helps everyone understand.",
+      "turkish": "Sakin sesin herkesin anlamasını sağlar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601864"
+    },
+    {
+      "english": "Even wrong turns teach you something useful.",
+      "turkish": "Yanlış yol bile işe yarar bir şey öğretir.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601866"
+    },
+    {
+      "english": "Stay positive, the next step will appear.",
+      "turkish": "Pozitif kal, bir sonraki adım gelir.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601868"
+    },
+    {
+      "english": "You’re stronger than jet lag sounds.",
+      "turkish": "Jet lag sandığından daha güçlüsün.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601871"
+    },
+    {
+      "english": "Reward yourself, you made it through today.",
+      "turkish": "Kendini ödüllendir, bugün atlattın.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601873"
+    },
+    {
+      "english": "Say it clearly, you’ll be understood quickly.",
+      "turkish": "Net konuş, seni hızlı anlarlar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601876"
+    },
+    {
+      "english": "Stay curious, airports are full of hints.",
+      "turkish": "Meraklı kal, havaalanı ipuçlarıyla dolu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601879"
+    },
+    {
+      "english": "You’re doing the right thing, keep moving.",
+      "turkish": "Doğru şeyi yapıyorsun, devam et.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601881"
+    },
+    {
+      "english": "Small delays are annoying, not dangerous.",
+      "turkish": "Küçük gecikmeler sinir eder, ama tehlikeli değil.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601884"
+    },
+    {
+      "english": "Trust your instincts, follow the flow.",
+      "turkish": "Sezgilerine güven, akışa uy.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601887"
+    },
+    {
+      "english": "Today, focus on progress, not mistakes.",
+      "turkish": "Bugün hatalara değil, ilerlemeye odaklan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601889"
+    },
+    {
+      "english": "I’m nervous, but I’m trying to stay honest.",
+      "turkish": "Gerginim, ama dürüstçe sakin kalmaya çalışıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601893"
+    },
+    {
+      "english": "This line feels long, yet I’m okay.",
+      "turkish": "Bu sıra uzun geliyor, ama ben iyiyim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601895"
+    },
+    {
+      "english": "My patience is running low, still I breathe.",
+      "turkish": "Sabır azaldı, yine de nefes alıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601898"
+    },
+    {
+      "english": "I keep checking, because I don’t trust myself.",
+      "turkish": "Sürekli kontrol ediyorum, çünkü kendime güvenmiyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601901"
+    },
+    {
+      "english": "Honestly, I expected chaos, not calm.",
+      "turkish": "Açıkçası, kaos bekliyordum, sakin değil.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601903"
+    },
+    {
+      "english": "I’m trying to slow down, even inside airports.",
+      "turkish": "Havalimanında bile yavaşlamaya çalışıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601906"
+    },
+    {
+      "english": "If I miss it, I’ll handle it.",
+      "turkish": "Kaçırırsam, hallederim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601909"
+    },
+    {
+      "english": "I’m proud I didn’t rush, for once.",
+      "turkish": "Bir kere de olsa, acele etmediğim için gururluyum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601912"
+    },
+    {
+      "english": "I feel awkward asking questions, but I ask.",
+      "turkish": "Soru sormak bana biraz garip geliyor, ama soruyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601915"
+    },
+    {
+      "english": "Delays scare me, but I stay grounded.",
+      "turkish": "Gecikmeler korkutuyor, ama zemini sağlam tutuyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601917"
+    },
+    {
+      "english": "I’m counting breaths, not minutes, right now.",
+      "turkish": "Şu an dakika değil, nefes sayıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601922"
+    },
+    {
+      "english": "I want clarity, not stress, please.",
+      "turkish": "Stres değil, açıklık istiyorum, lütfen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601925"
+    },
+    {
+      "english": "I’m learning, mistakes included, no shame.",
+      "turkish": "Öğreniyorum, hatalar dahil, utanmıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601927"
+    },
+    {
+      "english": "I’m scared of losing time, so I’m calm.",
+      "turkish": "Vakit kaybetmekten korkuyorum, o yüzden sakinim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601930"
+    },
+    {
+      "english": "I hate waiting, but I’m managing it.",
+      "turkish": "Beklemeyi sevmiyorum, ama yönetiyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601933"
+    },
+    {
+      "english": "Today my brain is loud, but steady.",
+      "turkish": "Bugün beynim gürültülü, ama dengede.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601937"
+    },
+    {
+      "english": "I’m making peace with the unknown parts.",
+      "turkish": "Bilmeyen kısımlarla barışıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601939"
+    },
+    {
+      "english": "I’m not overthinking, I’m just checking.",
+      "turkish": "Fazla düşünmüyorum, sadece kontrol ediyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601942"
+    },
+    {
+      "english": "I feel lighter when I ask for help.",
+      "turkish": "Yardım isteyince içim hafifliyor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601944"
+    },
+    {
+      "english": "I’m trying to be patient with myself.",
+      "turkish": "Kendime karşı sabırlı olmaya çalışıyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601947"
+    },
+    {
+      "english": "This airport reminds me to be flexible.",
+      "turkish": "Bu havalimanı bana esnek olmayı hatırlatıyor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601949"
+    },
+    {
+      "english": "I’m okay being confused, for a moment.",
+      "turkish": "Bir an karışık olmayı sorun etmiyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601951"
+    },
+    {
+      "english": "I don’t need perfect, just one clear step.",
+      "turkish": "Mükemmel gerekmez, sadece net bir adım.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601954"
+    },
+    {
+      "english": "I’m grateful, even when things get messy.",
+      "turkish": "Her şey dağınık olsa bile minnettarım.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601957"
+    },
+    {
+      "english": "I’m proud of my calm voice right now.",
+      "turkish": "Şu an sakin sesimle gurur duyuyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601959"
+    },
+    {
+      "english": "I’m letting go, I can’t control everything.",
+      "turkish": "Bırakıyorum, her şeyi kontrol edemem.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601962"
+    },
+    {
+      "english": "This trip feels big, and I feel it.",
+      "turkish": "Bu yolculuk büyük geliyor, bunu hissediyorum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601964"
+    },
+    {
+      "english": "I’m nervous, but I’m ready to adapt.",
+      "turkish": "Gerginim ama uyum sağlamaya hazırım.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601969"
+    },
+    {
+      "english": "I laugh inside, because stress is loud.",
+      "turkish": "İçimden gülüyorum, çünkü stres çok bağırıyor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601971"
+    },
+    {
+      "english": "After all this, I’ll remember how brave.",
+      "turkish": "Bunca şeyden sonra, ne kadar cesur olduğumu hatırlayacağım.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.601974"
+    },
+    {
+      "english": "Can you show me, please, the gate number?",
+      "turkish": "Bana lütfen kapı numarasını gösterir misiniz?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.602015"
+    },
+    {
+      "english": "My boarding pass is digital, is that okay?",
+      "turkish": "Biniş kartım dijital, sorun olur mu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T10:10:15.602018"
     }
   ],
-  "last_updated": "2026-11-03T10:23:31.757038"
+  "last_updated": "2026-11-05T10:10:15.602020"
 }
