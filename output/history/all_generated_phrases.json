@@ -12959,7 +12959,727 @@
       "turkish": "Biniş kartım dijital, sorun olur mu?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-05T10:10:15.602018"
+    },
+    {
+      "english": "Good morning, you got this today",
+      "turkish": "Günaydın, bugün sen yaparsın",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538957"
+    },
+    {
+      "english": "Hey, I’m proud of you, really",
+      "turkish": "Hey, seni gerçekten tebrik ediyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538970"
+    },
+    {
+      "english": "Nice, that’s a great idea",
+      "turkish": "Süper, bu harika bir fikir",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538974"
+    },
+    {
+      "english": "Okay, let’s do it step by step",
+      "turkish": "Tamam, adım adım yapalım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538977"
+    },
+    {
+      "english": "Relax, it will be fine",
+      "turkish": "Sakin ol, her şey yolunda",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538980"
+    },
+    {
+      "english": "No worries, we’ll handle it",
+      "turkish": "Merak etme, hallederiz",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538983"
+    },
+    {
+      "english": "Good job, keep going like that",
+      "turkish": "Aferin, böyle devam et",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538986"
+    },
+    {
+      "english": "That’s awesome, I love this energy",
+      "turkish": "Harika, bu enerji çok iyi",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538991"
+    },
+    {
+      "english": "Thanks, you made my day",
+      "turkish": "Teşekkürler, günümü güzelleştirdin",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538995"
+    },
+    {
+      "english": "Say it again, that felt great",
+      "turkish": "Bir daha söyle, çok hoşuma gitti",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.538998"
+    },
+    {
+      "english": "Come on, don’t give up",
+      "turkish": "Hadi, pes etme",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539002"
+    },
+    {
+      "english": "I hear you, let’s try together",
+      "turkish": "Seni anlıyorum, birlikte deneyelim",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539005"
+    },
+    {
+      "english": "Of course, we can figure it out",
+      "turkish": "Tabii, hallederiz",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539007"
+    },
+    {
+      "english": "Great, I’m on it right now",
+      "turkish": "Süper, hemen halledeceğim",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539010"
+    },
+    {
+      "english": "Alright, let’s start with a small step",
+      "turkish": "Peki, küçük bir adımla başlayalım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539016"
+    },
+    {
+      "english": "Wow, that was really motivating",
+      "turkish": "Vay be, bu beni motive etti",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539018"
+    },
+    {
+      "english": "Stay positive, one day at a time",
+      "turkish": "Pozitif kal, bir gün bir gün",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539020"
+    },
+    {
+      "english": "Let’s breathe, we’ll calm down",
+      "turkish": "Bir nefes alalım, sakinleşelim",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539024"
+    },
+    {
+      "english": "That’s okay, we can start fresh",
+      "turkish": "Sorun değil, sıfırdan başlarız",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539028"
+    },
+    {
+      "english": "You’re doing great, trust yourself",
+      "turkish": "Çok iyi gidiyorsun, kendine güven",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539031"
+    },
+    {
+      "english": "Seriously, that’s impressive",
+      "turkish": "Cidden, bu çok etkileyici",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539034"
+    },
+    {
+      "english": "Yes, I’m ready, let’s go",
+      "turkish": "Evet, hazırım, hadi başlayalım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539038"
+    },
+    {
+      "english": "Not bad, you’re improving",
+      "turkish": "Fena değil, gelişiyorsun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539040"
+    },
+    {
+      "english": "Good catch, nice attention to details",
+      "turkish": "Ne güzel yakaladın, detaylara dikkat",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539043"
+    },
+    {
+      "english": "I’m here, we’ll manage together",
+      "turkish": "Yanındayım, birlikte atlatırız",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539046"
+    },
+    {
+      "english": "That makes sense, I understand now",
+      "turkish": "Mantıklı, şimdi anladım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539048"
+    },
+    {
+      "english": "Take it easy, you’re doing your best",
+      "turkish": "Rahat ol, elinden geleni yapıyorsun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539052"
+    },
+    {
+      "english": "Let’s celebrate small wins today",
+      "turkish": "Bugün küçük zaferleri kutlayalım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539054"
+    },
+    {
+      "english": "How are you feeling right now, really?",
+      "turkish": "Şu an gerçekten nasıl hissediyorsun?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539057"
+    },
+    {
+      "english": "What’s bothering you, tell me honestly?",
+      "turkish": "Seni ne rahatsız ediyor, dürüstçe söyle?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539060"
+    },
+    {
+      "english": "Can you help me, please, one minute?",
+      "turkish": "Bana yardım eder misin, lütfen, bir dakika?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539063"
+    },
+    {
+      "english": "Where do you get your motivation from?",
+      "turkish": "Motivasyonu nereden buluyorsun?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539066"
+    },
+    {
+      "english": "What’s your plan for today, quick?",
+      "turkish": "Bugün için planın ne, kısaca?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539069"
+    },
+    {
+      "english": "Which step feels easier, option A or B?",
+      "turkish": "Hangisi daha kolay geliyor, A mı B mi?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539071"
+    },
+    {
+      "english": "Should we try a different approach today?",
+      "turkish": "Bugün farklı bir yol deneyelim mi?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539074"
+    },
+    {
+      "english": "What’s the next small thing you’ll do?",
+      "turkish": "Sonraki küçük adımın ne olacak?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539079"
+    },
+    {
+      "english": "Do you think that’s a good idea?",
+      "turkish": "Sence bu iyi bir fikir mi?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539082"
+    },
+    {
+      "english": "How did it go, better than before?",
+      "turkish": "Nasıl geçti, eskisinden daha iyi mi?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539085"
+    },
+    {
+      "english": "What would you do if it worked?",
+      "turkish": "Tam yolunda gitse, sen ne yapardın?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539087"
+    },
+    {
+      "english": "Are you okay, or do you need help?",
+      "turkish": "İyi misin, yoksa yardıma mı ihtiyacın var?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539090"
+    },
+    {
+      "english": "Can we talk for a minute, please?",
+      "turkish": "Bir dakika konuşabilir miyiz, lütfen?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539092"
+    },
+    {
+      "english": "What’s one thing you’re proud of today?",
+      "turkish": "Bugün gurur duyduğun tek şey ne?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539095"
+    },
+    {
+      "english": "Do you want to vent, or problem-solve?",
+      "turkish": "Dertleşmek mi istersin, yoksa çözüm mü?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539098"
+    },
+    {
+      "english": "How can I support you right now?",
+      "turkish": "Şu an sana nasıl destek olabilirim?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539101"
+    },
+    {
+      "english": "Which habit makes your life easier?",
+      "turkish": "Hangi alışkanlık hayatını kolaylaştırıyor?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539103"
+    },
+    {
+      "english": "Want a quick reality check, kindly?",
+      "turkish": "İstersen nazikçe bir gerçeklik kontrolü yapalım?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539106"
+    },
+    {
+      "english": "What’s your biggest worry these days?",
+      "turkish": "Bu aralar en büyük endişen ne?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539108"
+    },
+    {
+      "english": "Would you like a short plan template?",
+      "turkish": "Kısa bir plan şablonu ister misin?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539111"
+    },
+    {
+      "english": "Should we set a calm goal for tonight?",
+      "turkish": "Bu gece için sakin bir hedef koyalım mı?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539113"
+    },
+    {
+      "english": "What’s the lesson, not the mistake?",
+      "turkish": "Hata değil, asıl ders ne?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539116"
+    },
+    {
+      "english": "Can you share what worked for you?",
+      "turkish": "Sana ne işe yaradı, paylaşır mısın?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539120"
+    },
+    {
+      "english": "Do you want to practice speaking together?",
+      "turkish": "Birlikte konuşma çalışalım mı?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539125"
+    },
+    {
+      "english": "What’s your next question for me?",
+      "turkish": "Sıradaki sorunu bana ne soracaksın?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539127"
+    },
+    {
+      "english": "Can we make this simpler, stepwise?",
+      "turkish": "Bunu daha basit yapabilir miyiz?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539130"
+    },
+    {
+      "english": "How do you stay kind when stressed?",
+      "turkish": "Stresliyken nasıl nazik kalıyorsun?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539132"
+    },
+    {
+      "english": "What’s one tiny win you’ll try today?",
+      "turkish": "Bugün hangi küçük zaferi deneyeceksin?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539135"
+    },
+    {
+      "english": "You’ve got this, take one step now",
+      "turkish": "Yaparsın, şimdi tek adım at",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539138"
+    },
+    {
+      "english": "Slow down, your brain needs space",
+      "turkish": "Yavaşla, beynin biraz alana ihtiyaç var",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539141"
+    },
+    {
+      "english": "Say it kindly, even to yourself",
+      "turkish": "Kendine bile nazikçe söyle",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539143"
+    },
+    {
+      "english": "Small effort counts, don’t underestimate yourself",
+      "turkish": "Küçük emek sayılır, kendini küçümseme",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539147"
+    },
+    {
+      "english": "Today’s progress is still real progress",
+      "turkish": "Bugünkü ilerleme, gerçek ilerleme sayılır",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539150"
+    },
+    {
+      "english": "Choose calm, not panic, right now",
+      "turkish": "Şimdi panik değil, sakin seç",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539153"
+    },
+    {
+      "english": "Mindset first, results will follow naturally",
+      "turkish": "Önce zihin, sonuçlar kendiliğinden gelir",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539155"
+    },
+    {
+      "english": "You’re learning, not failing, keep going",
+      "turkish": "Öğreniyorsun, başarısız değilsin, devam et",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539159"
+    },
+    {
+      "english": "Don’t rush, steady wins the race",
+      "turkish": "Acele etme, istikrar kazanır",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539162"
+    },
+    {
+      "english": "Your effort is showing, I can see",
+      "turkish": "Çaban görünüyor, ben fark ediyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539164"
+    },
+    {
+      "english": "When doubts show up, breathe and continue",
+      "turkish": "Şüphe gelince, nefes al ve sürdür",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539167"
+    },
+    {
+      "english": "Give your future self a favor",
+      "turkish": "Gelecekteki kendine iyilik yap",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539169"
+    },
+    {
+      "english": "Trust the process, even when it’s slow",
+      "turkish": "Süreç güven, yavaş olsa da",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539172"
+    },
+    {
+      "english": "You can reset, start again anytime",
+      "turkish": "Sıfırla, ne zaman istersen yeniden başla",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539175"
+    },
+    {
+      "english": "Keep your promises to yourself",
+      "turkish": "Kendine verdiğin sözleri tut",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539177"
+    },
+    {
+      "english": "It’s okay to try, mistakes teach",
+      "turkish": "Denemek tamam, hatalar öğretir",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539180"
+    },
+    {
+      "english": "Replace blame with learning, step by step",
+      "turkish": "Suçlamak yerine öğren, adım adım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539182"
+    },
+    {
+      "english": "Your courage grows with each attempt",
+      "turkish": "Cesaret, her denemede büyür",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539185"
+    },
+    {
+      "english": "Say, “I can,” and watch it shift",
+      "turkish": "“Yapabilirim” de, bir şeyler değişsin",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539188"
+    },
+    {
+      "english": "Your pace is allowed, no comparison",
+      "turkish": "Senin hızın yeter, kıyas yok",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539192"
+    },
+    {
+      "english": "Turn “can’t” into “not yet,” gently",
+      "turkish": "“Yapamam” yerine “henüz değil” de",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539196"
+    },
+    {
+      "english": "Small wins build big confidence over time",
+      "turkish": "Küçük başarılar, zamanla büyük özgüven yapar",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539198"
+    },
+    {
+      "english": "Gratitude first, then you’ll breathe easier",
+      "turkish": "Önce şükret, sonra daha rahat nefes alırsın",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539201"
+    },
+    {
+      "english": "Name the problem, then solve one part",
+      "turkish": "Sorunu söyle, sonra bir kısmını çöz",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539204"
+    },
+    {
+      "english": "You’re allowed to start over, truly",
+      "turkish": "Gerçekten yeniden başlayabilirsin",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539207"
+    },
+    {
+      "english": "Keep going, even if it’s messy",
+      "turkish": "Devam et, dağınık olsa bile",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539211"
+    },
+    {
+      "english": "Be patient, confidence arrives with practice",
+      "turkish": "Sabırlı ol, özgüven pratikle gelir",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539214"
+    },
+    {
+      "english": "Say it loud, you deserve good days",
+      "turkish": "Yüksek sesle söyle, iyi günler sana yakışır",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539216"
+    },
+    {
+      "english": "I feel lighter when I speak honestly",
+      "turkish": "Dürüstçe konuşunca kendimi daha hafif hissediyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539218"
+    },
+    {
+      "english": "Sometimes I need to pause, then continue",
+      "turkish": "Bazen durmam gerekiyor, sonra devam ediyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539221"
+    },
+    {
+      "english": "I’m not overthinking, I’m processing feelings",
+      "turkish": "Aşırı düşünmüyorum, duyguları işliyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539224"
+    },
+    {
+      "english": "I notice my mood, and I adjust softly",
+      "turkish": "Hâlimi fark ediyorum, nazikçe ayarlıyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539227"
+    },
+    {
+      "english": "I’m learning to be gentle with myself",
+      "turkish": "Kendime karşı daha nazik olmayı öğreniyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539229"
+    },
+    {
+      "english": "When I’m hurt, I try to calm down",
+      "turkish": "Canım yanınca sakinleşmeye çalışıyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539232"
+    },
+    {
+      "english": "It helps me to name what I feel",
+      "turkish": "Ne hissettiğimi söylemek bana iyi geliyor",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539236"
+    },
+    {
+      "english": "I choose patience, even when it’s hard",
+      "turkish": "Zor olsa bile sabrı seçiyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539239"
+    },
+    {
+      "english": "My heart needs time, not pressure",
+      "turkish": "Kalbim zamana ihtiyacı var, baskıya değil",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539242"
+    },
+    {
+      "english": "I don’t need to feel perfect, just honest",
+      "turkish": "Mükemmel hissetmek zorunda değilim, dürüst olayım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539245"
+    },
+    {
+      "english": "I can be proud, without getting arrogant",
+      "turkish": "Kibirlenmeden gurur duyabilirim",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539247"
+    },
+    {
+      "english": "I reflect first, then I act with intention",
+      "turkish": "Önce düşünüp sonra niyetle hareket ediyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539250"
+    },
+    {
+      "english": "Even tough days teach me something real",
+      "turkish": "Zor günler bile bana gerçekten bir şey öğretiyor",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539252"
+    },
+    {
+      "english": "I tell the truth, then release the tension",
+      "turkish": "Gerçeği söylüyorum, sonra içimdeki gerilimi bırakıyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539255"
+    },
+    {
+      "english": "I let small fears pass, without chasing them",
+      "turkish": "Küçük korkuların peşinden koşmuyorum, geçmelerine izin veriyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539257"
+    },
+    {
+      "english": "I forgive myself, and I move forward gently",
+      "turkish": "Kendimi affediyorum, nazikçe ileriye gidiyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539260"
+    },
+    {
+      "english": "My boundaries protect my peace, not my ego",
+      "turkish": "Sınırlarım huzurumu korur, egomu değil",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539264"
+    },
+    {
+      "english": "I feel grateful, even in messy moments",
+      "turkish": "Dağınık anlarda bile minnet duyuyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539266"
+    },
+    {
+      "english": "I’m allowed to want more, calmly",
+      "turkish": "Daha fazlasını istemek hakkım, sakin şekilde",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539269"
+    },
+    {
+      "english": "I listen to my inner voice, quietly",
+      "turkish": "İç sesimi sessizce dinliyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539272"
+    },
+    {
+      "english": "When I’m anxious, I focus on one breath",
+      "turkish": "Kaygılanınca tek bir nefese odaklanıyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539274"
+    },
+    {
+      "english": "I don’t need speed, I need steadiness",
+      "turkish": "Hız değil, istikrar lazım bana",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539277"
+    },
+    {
+      "english": "I pause before reacting, to choose kindness",
+      "turkish": "Tepki vermeden önce duruyorum, nazikliği seçmek için",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539280"
+    },
+    {
+      "english": "I’m proud of progress, not of perfection",
+      "turkish": "Mükemmel değil, ilerlememden gurur duyuyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539283"
+    },
+    {
+      "english": "I can be sad, and still be okay",
+      "turkish": "Üzgün olabilirim, yine de tamamım",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539285"
+    },
+    {
+      "english": "I turn “why me?” into “what now?”",
+      "turkish": "“Neden ben?” yerine “Şimdi ne yapabilirim?”",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539289"
+    },
+    {
+      "english": "I notice hope, and I hold on gently",
+      "turkish": "Umutu görüyorum, nazikçe tutuyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539291"
+    },
+    {
+      "english": "I don’t judge my feelings, I understand them",
+      "turkish": "Duygularıma hükmetmiyorum, onları anlamaya çalışıyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539295"
+    },
+    {
+      "english": "I learn from patterns, not from self-blame",
+      "turkish": "Desenlerden ders alıyorum, kendimi suçlamaktan değil",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539297"
+    },
+    {
+      "english": "Today, I’m honest about what I need",
+      "turkish": "Bugün, neye ihtiyacım olduğunu dürüstçe söylüyorum",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539303"
+    },
+    {
+      "english": "Plan your day, keep it flexible, go.",
+      "turkish": "Günün planını yap, esnek kal, devam et.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539307"
+    },
+    {
+      "english": "Text first, be kind, make it easy.",
+      "turkish": "Önce mesaj at, nazik ol, kolay olsun.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539309"
+    },
+    {
+      "english": "Offer a small help, don’t overthink it.",
+      "turkish": "Küçük bir yardım teklif et, fazla düşünme.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539312"
+    },
+    {
+      "english": "When stuck, ask, then try the simplest step.",
+      "turkish": "Tıkandın mı, sor, sonra en basit adımı dene.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539315"
+    },
+    {
+      "english": "In meetings, speak clearly, then listen.",
+      "turkish": "Toplantıda net konuş, sonra dinle.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539318"
+    },
+    {
+      "english": "If it’s awkward, laugh a little, breathe.",
+      "turkish": "Komik olmasa da gül, biraz nefes al.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-06T10:14:17.539321"
     }
   ],
-  "last_updated": "2026-11-05T10:10:15.602020"
+  "last_updated": "2026-11-06T10:14:17.539323"
 }
