@@ -13679,7 +13679,727 @@
       "turkish": "Komik olmasa da gül, biraz nefes al.",
       "category": "Positive Life",
       "generated_at": "2026-11-06T10:14:17.539321"
+    },
+    {
+      "english": "Okay, I’ve got this, no worries.",
+      "turkish": "Tamam, hallederim, sorun yok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766676"
+    },
+    {
+      "english": "Excuse me, I can handle it.",
+      "turkish": "Affedersiniz, ben hallederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766690"
+    },
+    {
+      "english": "Calm down, I’m on it.",
+      "turkish": "Sakin ol, ben bakıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766694"
+    },
+    {
+      "english": "Sure, let me try right now.",
+      "turkish": "Tabii, hemen deneyeyim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766697"
+    },
+    {
+      "english": "I’m confident, I’ll figure it out.",
+      "turkish": "Güveniyorum, hallederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766701"
+    },
+    {
+      "english": "Relax, we’ll be fine, trust me.",
+      "turkish": "Rahat ol, hallederiz, bana güven.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766704"
+    },
+    {
+      "english": "No stress, I’ll take care.",
+      "turkish": "Stres yok, ben hallederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766708"
+    },
+    {
+      "english": "I’m right here, you’re not alone.",
+      "turkish": "Buradayım, yalnız değilsin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766713"
+    },
+    {
+      "english": "Watch me, I’m going for it.",
+      "turkish": "Bak, ben deniyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766717"
+    },
+    {
+      "english": "Easy, I know what to do.",
+      "turkish": "Kolay, ne yapacağımı biliyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766721"
+    },
+    {
+      "english": "Just tell me, I’m ready.",
+      "turkish": "Söyle yeter, hazırım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766724"
+    },
+    {
+      "english": "I’ve got time, take your shot.",
+      "turkish": "Vaktim var, dene bakalım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766727"
+    },
+    {
+      "english": "It’s okay, I’ll manage somehow.",
+      "turkish": "Tamam, bir şekilde hallederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766730"
+    },
+    {
+      "english": "Come on, we can do this.",
+      "turkish": "Hadi, başarırız.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766735"
+    },
+    {
+      "english": "I’m cool, I’ll handle the rest.",
+      "turkish": "Sakinim, sonrası bende.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766739"
+    },
+    {
+      "english": "Relax, I’ve done this before.",
+      "turkish": "Sakin ol, daha önce yaptım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766742"
+    },
+    {
+      "english": "No problem, I can explain.",
+      "turkish": "Sorun yok, anlatırım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766745"
+    },
+    {
+      "english": "Thanks, I’m excited to try.",
+      "turkish": "Teşekkürler, denemeye hevesliyim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766747"
+    },
+    {
+      "english": "Okay, I’ve got a plan, go.",
+      "turkish": "Tamam, planım var, haydi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766761"
+    },
+    {
+      "english": "I’m sure, it’ll work out.",
+      "turkish": "Eminim, olacak.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766764"
+    },
+    {
+      "english": "Don’t worry, I’ll be quick.",
+      "turkish": "Merak etme, hızlı olur.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766768"
+    },
+    {
+      "english": "I can talk, don’t panic.",
+      "turkish": "Konuşurum, panik olma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766771"
+    },
+    {
+      "english": "Let’s go, I believe we can.",
+      "turkish": "Hadi, yaparız, inanıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766774"
+    },
+    {
+      "english": "I’m confident, I’ll nail it.",
+      "turkish": "Rahata gir, ben yaparım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766777"
+    },
+    {
+      "english": "If you need help, I’m here.",
+      "turkish": "İstersen yardım, buradayım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766780"
+    },
+    {
+      "english": "Okay, I’ll start, you follow.",
+      "turkish": "Tamam, ben başlayayım, sen gel.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766783"
+    },
+    {
+      "english": "Easy peasy, I’ve got this part.",
+      "turkish": "Kolay, bu kısmı ben hallederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766788"
+    },
+    {
+      "english": "I’m not scared, let’s do it.",
+      "turkish": "Korkmuyorum, yapalım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766791"
+    },
+    {
+      "english": "Stay calm, I’ll fix it.",
+      "turkish": "Sakin kal, bunu düzelteceğim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766794"
+    },
+    {
+      "english": "Good, I’m ready, let’s talk.",
+      "turkish": "İyi, hazırım, konuşalım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766797"
+    },
+    {
+      "english": "Quick question, how do I say this?",
+      "turkish": "Kısa bir soru, bunu nasıl söylüyorum?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766800"
+    },
+    {
+      "english": "Excuse me, what’s the best option here?",
+      "turkish": "Affedersiniz, burada en iyi seçenek ne?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766803"
+    },
+    {
+      "english": "Can you help me, please, with the form?",
+      "turkish": "Bana yardım eder misiniz, lütfen, formda?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766806"
+    },
+    {
+      "english": "Where should I ask for tickets, exactly?",
+      "turkish": "Bilet için tam olarak nereye sorayım?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766809"
+    },
+    {
+      "english": "Do you have a moment, I need advice?",
+      "turkish": "Bir dakikanız var mı, tavsiye lazım?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766812"
+    },
+    {
+      "english": "Is this the right entrance, by chance?",
+      "turkish": "Burası doğru giriş mi, acaba?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766814"
+    },
+    {
+      "english": "How much time does it usually take?",
+      "turkish": "Genelde ne kadar sürüyor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766817"
+    },
+    {
+      "english": "Can you repeat that, a bit slower?",
+      "turkish": "Bunu biraz daha yavaş söyleyebilir misiniz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766819"
+    },
+    {
+      "english": "What does this word mean, actually?",
+      "turkish": "Bu kelime tam olarak ne demek?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766822"
+    },
+    {
+      "english": "Which bus goes there, if you know?",
+      "turkish": "Oraya hangi otobüs gidiyor, biliyor musunuz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766825"
+    },
+    {
+      "english": "I’m trying, but where do I click?",
+      "turkish": "Deniyorum, ama nereye tıklıyorum?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766828"
+    },
+    {
+      "english": "Is it better to book online, or here?",
+      "turkish": "Online mı ayıralım, yoksa burada mı?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766830"
+    },
+    {
+      "english": "If I’m unsure, what should I ask?",
+      "turkish": "Emin olmazsam, ne sormalıyım?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766842"
+    },
+    {
+      "english": "What should I bring, for this appointment?",
+      "turkish": "Bu randevu için ne getirmeliyim?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766845"
+    },
+    {
+      "english": "Could you say it again, from the start?",
+      "turkish": "Baştan bir daha söyler misiniz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766848"
+    },
+    {
+      "english": "Do you recommend this place, honestly?",
+      "turkish": "Burasını gerçekten tavsiye eder misiniz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766853"
+    },
+    {
+      "english": "May I ask, what time do they open?",
+      "turkish": "Sormam sakınca olmazsa, saat kaçta açılıyor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766856"
+    },
+    {
+      "english": "I have a question, is there a shortcut?",
+      "turkish": "Bir sorum var, kestirme yolu var mı?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766858"
+    },
+    {
+      "english": "Where can I find Wi‑Fi, nearby?",
+      "turkish": "Yakında Wi‑Fi nerede var?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766862"
+    },
+    {
+      "english": "What’s the polite way to ask this?",
+      "turkish": "Bunu kibarca nasıl sorarım?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766865"
+    },
+    {
+      "english": "Can we check the address together, please?",
+      "turkish": "Adresi birlikte kontrol edebilir miyiz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766868"
+    },
+    {
+      "english": "Do you speak English, by chance?",
+      "turkish": "İngilizce konuşuyor musunuz, acaba?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766870"
+    },
+    {
+      "english": "How do you say “thank you” here?",
+      "turkish": "Burada “teşekkür ederim” nasıl deniyor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766873"
+    },
+    {
+      "english": "If it’s closed, what’s the alternative?",
+      "turkish": "Kapalıysa, alternatif ne olur?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766877"
+    },
+    {
+      "english": "Is there a map, or should I use GPS?",
+      "turkish": "Harita var mı, yoksa GPS mi kullanayım?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766879"
+    },
+    {
+      "english": "Can I pay by card here, please?",
+      "turkish": "Burada kartla ödeyebilir miyim, lütfen?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766882"
+    },
+    {
+      "english": "Just to confirm, that’s the bus number?",
+      "turkish": "Onaylayayım, otobüs numarası bu mu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766885"
+    },
+    {
+      "english": "What happens if I’m late, do they mind?",
+      "turkish": "Geç kalırsam sorun olur mu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766888"
+    },
+    {
+      "english": "I’ve been improving, step by step, today.",
+      "turkish": "Bugün, adım adım gelişiyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766894"
+    },
+    {
+      "english": "Small wins count, I’m building confidence.",
+      "turkish": "Küçük zaferler sayılır, özgüven inşa ediyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766897"
+    },
+    {
+      "english": "Take a breath, speak slowly, you’ve got this.",
+      "turkish": "Bir nefes al, yavaş konuş, halledersin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766901"
+    },
+    {
+      "english": "My effort is enough, no need to rush.",
+      "turkish": "Çabam yeter, acele etmeye gerek yok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766904"
+    },
+    {
+      "english": "Every try makes me better, even this.",
+      "turkish": "Her deneme beni geliştirir, buna da dahil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766906"
+    },
+    {
+      "english": "I deserve to be understood, I’ll try.",
+      "turkish": "Anlaşılmayı hak ediyorum, deneyeceğim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766909"
+    },
+    {
+      "english": "Trust your progress, don’t compare yourself.",
+      "turkish": "Gelişimine güven, kendini karşılaştırma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766913"
+    },
+    {
+      "english": "I can handle awkward moments, keep going.",
+      "turkish": "Garip anları atlatırım, devam et.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766916"
+    },
+    {
+      "english": "Say it anyway, confidence grows by speaking.",
+      "turkish": "Yine de söyle, özgüven konuşarak büyür.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766918"
+    },
+    {
+      "english": "I’m learning fast, today feels lighter.",
+      "turkish": "Hızlı öğreniyorum, bugün daha kolay geliyor.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766921"
+    },
+    {
+      "english": "I’m not behind, I’m on my way.",
+      "turkish": "Geri değilim, yolumda ilerliyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766924"
+    },
+    {
+      "english": "Mistakes are data, not a failure.",
+      "turkish": "Hatalar ders, başarısızlık değil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766927"
+    },
+    {
+      "english": "Relax your jaw, smile, then talk.",
+      "turkish": "Çeneni gevşet, gülümse, sonra konuş.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766930"
+    },
+    {
+      "english": "I show up, that’s already confidence.",
+      "turkish": "Ortaya çıkıyorum, bu bile özgüven.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766933"
+    },
+    {
+      "english": "One sentence at a time, steady and confident.",
+      "turkish": "Bir cümle, bir cümle, sakin ve özgüvenli.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766936"
+    },
+    {
+      "english": "I accept my accent, it’s part of me.",
+      "turkish": "Aksanımı kabul ediyorum, bu benim parçam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766939"
+    },
+    {
+      "english": "Be proud of trying, not just results.",
+      "turkish": "Sadece sonuç değil, denemekten gurur duy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766941"
+    },
+    {
+      "english": "I’ll ask again politely, no drama.",
+      "turkish": "Nazikçe tekrar sorarım, sorun değil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766944"
+    },
+    {
+      "english": "Focus on connection, not perfection.",
+      "turkish": "Mükemmel olmaya değil, bağ kurmaya odaklan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766947"
+    },
+    {
+      "english": "I’m allowed to pause, clarity comes first.",
+      "turkish": "Duraklamaya hakkım var, önce anlaşılır olmak.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766951"
+    },
+    {
+      "english": "My voice matters, I speak with purpose.",
+      "turkish": "Sesim önemli, amacımla konuşuyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766953"
+    },
+    {
+      "english": "Today I speak up, tomorrow I improve.",
+      "turkish": "Bugün sesimi yükseltiyorum, yarın gelişiyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766956"
+    },
+    {
+      "english": "I don’t need luck, I need practice.",
+      "turkish": "Şansa ihtiyacım yok, pratik yaparım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766959"
+    },
+    {
+      "english": "Let it be simple, confidence loves simple.",
+      "turkish": "Basit olsun, özgüven basiti sever.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766963"
+    },
+    {
+      "english": "I’m brave enough, one step at a time.",
+      "turkish": "Yeterince cesurum, bir adım adım.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766966"
+    },
+    {
+      "english": "Say yes to effort, confidence follows.",
+      "turkish": "Çabaya evet de, özgüven gelir.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766969"
+    },
+    {
+      "english": "I can learn from every correction, thanks.",
+      "turkish": "Her düzeltmeden öğrenirim, teşekkürler.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766971"
+    },
+    {
+      "english": "Not perfect, but improving, that’s the goal.",
+      "turkish": "Mükemmel değil, gelişiyorum, hedef bu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766975"
+    },
+    {
+      "english": "I trust my brain, it remembers more.",
+      "turkish": "Beynime güven, daha fazlasını hatırlıyor.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766978"
+    },
+    {
+      "english": "I give myself credit, I worked for this.",
+      "turkish": "Emek verdim, kendime pay çıkarıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766982"
+    },
+    {
+      "english": "Keep your pace, you’re doing great.",
+      "turkish": "Tempounu koru, çok iyi gidiyorsun.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766985"
+    },
+    {
+      "english": "Confidence is a habit, I practice it.",
+      "turkish": "Özgüven bir alışkanlık, ben bunu yapıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766988"
+    },
+    {
+      "english": "I’m nervous, but I stay kind.",
+      "turkish": "Kendimi gergin hissediyorum, ama nazik kalıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766993"
+    },
+    {
+      "english": "I’m honest with myself, slow is fine.",
+      "turkish": "Kendimle dürüstüm, yavaş olmak tamam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766996"
+    },
+    {
+      "english": "I give my heart time to settle.",
+      "turkish": "Kalbimin rahatlaması için kendime zaman veriyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.766999"
+    },
+    {
+      "english": "Some days, confidence comes quietly.",
+      "turkish": "Bazı günler özgüven sessizce geliyor.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767001"
+    },
+    {
+      "english": "I notice the fear, then I move.",
+      "turkish": "Korkuyu fark ediyorum, sonra ilerliyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767004"
+    },
+    {
+      "english": "I don’t need to feel ready first.",
+      "turkish": "Önce hazır hissetmem gerekmiyor.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767007"
+    },
+    {
+      "english": "I can be emotional, still be capable.",
+      "turkish": "Duygusal olabilirim, yine de güçlüyüm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767010"
+    },
+    {
+      "english": "I’m learning how to trust my voice.",
+      "turkish": "Sesime güvenmeyi öğreniyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767013"
+    },
+    {
+      "english": "I reflect, breathe, and try again.",
+      "turkish": "Düşünüyorum, nefes alıyorum, tekrar deniyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767015"
+    },
+    {
+      "english": "My progress is real, even when I doubt.",
+      "turkish": "Şüphe etsem de ilerlemem gerçek.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767018"
+    },
+    {
+      "english": "I don’t judge my feelings, I listen.",
+      "turkish": "Duygularımı yargılamıyorum, dinliyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767021"
+    },
+    {
+      "english": "I can pause, then continue with calm.",
+      "turkish": "Durabilirim, sonra sakin sakin devam ederim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767024"
+    },
+    {
+      "english": "I’m proud of trying, not pretending.",
+      "turkish": "Denemekten gurur duyuyorum, rol yapmıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767027"
+    },
+    {
+      "english": "I’m allowed to be imperfect, still confident.",
+      "turkish": "Eksik olabilirim, yine de özgüvenliyim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767030"
+    },
+    {
+      "english": "I choose patience over quick answers.",
+      "turkish": "Hızlı cevap yerine sabrı seçiyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767032"
+    },
+    {
+      "english": "Even silence can be a strong choice.",
+      "turkish": "Bazen susmak da güçlü bir seçim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767035"
+    },
+    {
+      "english": "I’m steady, even if my mood shifts.",
+      "turkish": "Huyum değişse de ben dengeliyim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767043"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "turkish": "Kendime verdiğim sözü tutuyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767046"
+    },
+    {
+      "english": "I remember, one step is enough today.",
+      "turkish": "Bugün bir adım yeter, bunu hatırlıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767049"
+    },
+    {
+      "english": "I don’t rush healing, I move gently.",
+      "turkish": "İyileşmeyi aceleye getirmiyorum, yavaş ilerliyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767052"
+    },
+    {
+      "english": "I let my mind be messy, still focused.",
+      "turkish": "Zihnim karışık olsa da odaklanıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767054"
+    },
+    {
+      "english": "I’m learning to be on my side.",
+      "turkish": "Kendi tarafımda durmayı öğreniyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767057"
+    },
+    {
+      "english": "I speak from my truth, not fear.",
+      "turkish": "Korkudan değil, içten gelenimden konuşuyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767060"
+    },
+    {
+      "english": "I can handle feedback, with grace.",
+      "turkish": "Geri bildirimi zarafetle karşılayabilirim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767063"
+    },
+    {
+      "english": "I grow when I’m honest about limits.",
+      "turkish": "Sınırlarımı dürüstçe kabul edince büyüyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767066"
+    },
+    {
+      "english": "I take responsibility, I don’t blame myself.",
+      "turkish": "Sorumluluk alıyorum, kendimi suçlamıyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767069"
+    },
+    {
+      "english": "My feelings don’t control my choices.",
+      "turkish": "Duygularım kararlarımı yönetmez.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767072"
+    },
+    {
+      "english": "I’m building trust through small honest tries.",
+      "turkish": "Küçük ama dürüst denemelerle güven kuruyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767075"
+    },
+    {
+      "english": "I can be vulnerable, and still safe.",
+      "turkish": "Güvende kalırken açık olabilirim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767078"
+    },
+    {
+      "english": "I reflect, then I commit to one more try.",
+      "turkish": "Düşünüyorum, sonra bir deneme daha diyorum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T09:30:37.767080"
     }
   ],
-  "last_updated": "2026-11-06T10:14:17.539323"
+  "last_updated": "2026-11-07T09:30:37.767082"
 }
