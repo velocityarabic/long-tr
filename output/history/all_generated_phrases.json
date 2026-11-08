@@ -14399,7 +14399,727 @@
       "turkish": "Düşünüyorum, sonra bir deneme daha diyorum.",
       "category": "Confidence",
       "generated_at": "2026-11-07T09:30:37.767080"
+    },
+    {
+      "english": "Morning, I’m heading to the office now.",
+      "turkish": "Günaydın, şimdi ofise gidiyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746565"
+    },
+    {
+      "english": "I’m on my way, see you soon.",
+      "turkish": "Yoldayım, birazdan görüşürüz.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746579"
+    },
+    {
+      "english": "Quick question, where’s the printer?",
+      "turkish": "Hızlı bir soru, yazıcı nerede?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746583"
+    },
+    {
+      "english": "Sorry, I’m running a bit late.",
+      "turkish": "Üzgünüm, biraz geç kalıyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746585"
+    },
+    {
+      "english": "No worries, take your time.",
+      "turkish": "Sorun değil, istediğin kadar zaman al.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746588"
+    },
+    {
+      "english": "Got it, I’ll handle it right now.",
+      "turkish": "Anladım, şimdi hallederim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746591"
+    },
+    {
+      "english": "I’ll check, then I’ll get back.",
+      "turkish": "Kontrol edeceğim, sonra dönerim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746595"
+    },
+    {
+      "english": "Can you resend that email, please?",
+      "turkish": "Lütfen o e-postayı tekrar atar mısın?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746599"
+    },
+    {
+      "english": "One sec, I’m pulling up the file.",
+      "turkish": "Bir saniye, dosyayı açıyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746603"
+    },
+    {
+      "english": "Let’s sync in ten minutes.",
+      "turkish": "On dakika sonra görüşelim, tamam mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746606"
+    },
+    {
+      "english": "How’s it going, any updates?",
+      "turkish": "Nasılsın, güncelleme var mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746608"
+    },
+    {
+      "english": "I need that by 3 p.m., please.",
+      "turkish": "3’e kadar lazım, lütfen.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746611"
+    },
+    {
+      "english": "Wait, I forgot to attach it.",
+      "turkish": "Dur, eklemeyi unuttum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746613"
+    },
+    {
+      "english": "Great idea, that makes sense.",
+      "turkish": "Harika fikir, mantıklı.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746615"
+    },
+    {
+      "english": "I’m not sure, let me double-check.",
+      "turkish": "Emin değilim, bir daha kontrol edeyim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746618"
+    },
+    {
+      "english": "Is the meeting still on?",
+      "turkish": "Toplantı hâlâ devam ediyor mu?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746620"
+    },
+    {
+      "english": "Could we reschedule, please?",
+      "turkish": "Lütfen tarihi değiştirebilir miyiz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746622"
+    },
+    {
+      "english": "I’ll be back, don’t start without me.",
+      "turkish": "Geri geliyorum, bensiz başlama.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746625"
+    },
+    {
+      "english": "Please, keep me in the loop.",
+      "turkish": "Beni bilgilendir, olur mu?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746627"
+    },
+    {
+      "english": "I’m swamped today, sorry.",
+      "turkish": "Bugün çok yoğunum, kusura bakma.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746629"
+    },
+    {
+      "english": "Let me know, I’ll respond fast.",
+      "turkish": "Bana haber ver, hemen dönerim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746632"
+    },
+    {
+      "english": "We’re good, thanks for checking.",
+      "turkish": "Tamamız, kontrol ettiğin için teşekkürler.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746634"
+    },
+    {
+      "english": "That’s a no from me.",
+      "turkish": "Bana göre olmaz, hayır.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746637"
+    },
+    {
+      "english": "Sorry, I can’t access that system.",
+      "turkish": "Üzgünüm, o sisteme erişemiyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746639"
+    },
+    {
+      "english": "What’s the deadline for this?",
+      "turkish": "Bunun son tarihi ne?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746641"
+    },
+    {
+      "english": "I’ll print it now, please wait.",
+      "turkish": "Şimdi yazdırıyorum, lütfen bekleyin.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746644"
+    },
+    {
+      "english": "Can you give me a quick summary?",
+      "turkish": "Bana kısa bir özet geçer misin?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746646"
+    },
+    {
+      "english": "Thanks, I really appreciate it.",
+      "turkish": "Çok teşekkür ederim, gerçekten.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746648"
+    },
+    {
+      "english": "All set, I’m ready to go.",
+      "turkish": "Hazırım, her şey tamam.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746652"
+    },
+    {
+      "english": "Quick check, who’s the point person here?",
+      "turkish": "Kısa bir şey sorayım, burada kim sorumlu?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746655"
+    },
+    {
+      "english": "Could you confirm, is this the right folder?",
+      "turkish": "Şunu teyit eder misin, doğru klasör bu mu?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746657"
+    },
+    {
+      "english": "Do we have the latest version, right now?",
+      "turkish": "Elimizde en güncel sürüm var mı, şu an?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746659"
+    },
+    {
+      "english": "May I ask, what’s the priority today?",
+      "turkish": "Sormam mümkün mü, bugün öncelik ne?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746662"
+    },
+    {
+      "english": "Where should I send this request?",
+      "turkish": "Bu talebi nereye göndermeliyim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746664"
+    },
+    {
+      "english": "What do you recommend for first steps?",
+      "turkish": "İlk adım için ne önerirsiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746666"
+    },
+    {
+      "english": "Can I get your opinion on this?",
+      "turkish": "Bununla ilgili fikrinizi alabilir miyim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746670"
+    },
+    {
+      "english": "Just to clarify, is the schedule updated?",
+      "turkish": "Netleştireyim, plan güncellendi mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746672"
+    },
+    {
+      "english": "When is the best time to talk?",
+      "turkish": "Konuşmak için en iyi saat ne zaman?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746674"
+    },
+    {
+      "english": "Would you mind sharing the agenda?",
+      "turkish": "Ajandayı paylaşır mısınız, zahmet olmazsa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746676"
+    },
+    {
+      "english": "Are there any blockers we should know about?",
+      "turkish": "Bizi bekleten bir engel var mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746679"
+    },
+    {
+      "english": "Who handles approvals, is it you?",
+      "turkish": "Onayları kim veriyor, siz mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746681"
+    },
+    {
+      "english": "Can you walk me through the steps?",
+      "turkish": "Bana adım adım anlatır mısınız?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746683"
+    },
+    {
+      "english": "Should I prioritize the report or the deck?",
+      "turkish": "Rapor mu, sunum mu öncelemeliyim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746685"
+    },
+    {
+      "english": "Do we need to involve legal here?",
+      "turkish": "Hukuku da dahil etmemiz gerekiyor mu?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746687"
+    },
+    {
+      "english": "Can you confirm the meeting duration?",
+      "turkish": "Toplantının süresini teyit eder misiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746689"
+    },
+    {
+      "english": "What format do you prefer for updates?",
+      "turkish": "Güncellemeleri hangi formatta tercih edersiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746691"
+    },
+    {
+      "english": "Are we aiming for launch this week?",
+      "turkish": "Bu hafta lansmana mı odaklanıyoruz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746693"
+    },
+    {
+      "english": "I have a question, is it urgent?",
+      "turkish": "Bir sorum var, bu acil mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746695"
+    },
+    {
+      "english": "Who should I copy on this email?",
+      "turkish": "Bu e-postaya kimi CC yapmalıyım?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746697"
+    },
+    {
+      "english": "Do you want the draft today, or tomorrow?",
+      "turkish": "Taslağı bugün mü istersiniz, yarın mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746699"
+    },
+    {
+      "english": "Could we align on the goal first?",
+      "turkish": "Önce hedefte mutabık olabilir miyiz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746701"
+    },
+    {
+      "english": "What’s the best way to reach you?",
+      "turkish": "Sizi en kolay nasıl bulabilirim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746703"
+    },
+    {
+      "english": "If anything changes, should I notify you?",
+      "turkish": "Bir şey değişirse size haber vermem gerekir mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746706"
+    },
+    {
+      "english": "Can you point me to the guidelines?",
+      "turkish": "Yönergeleri nereye bulacağımı söyler misiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746708"
+    },
+    {
+      "english": "How strict is the template for reports?",
+      "turkish": "Rapor şablonu ne kadar kesin, kural gibi mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746710"
+    },
+    {
+      "english": "Are we waiting on someone’s feedback?",
+      "turkish": "Birinin geri dönüşünü mü bekliyoruz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746712"
+    },
+    {
+      "english": "What should I do if it fails again?",
+      "turkish": "Tekrar olursa ne yapmalıyım?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746714"
+    },
+    {
+      "english": "Could you clarify what “scope” means here?",
+      "turkish": "Buradaki “kapsam” ne demek, açıklayabilir misiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746717"
+    },
+    {
+      "english": "Do you have a minute for a quick sync?",
+      "turkish": "Hızlı bir konuşma için bir dakikanız var mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746719"
+    },
+    {
+      "english": "You’ve got this, one step at a time",
+      "turkish": "Sen yaparsın, adım adım ilerle",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746723"
+    },
+    {
+      "english": "Breathe, then focus, you can handle it",
+      "turkish": "Bir nefes al, sonra odaklan, üstesinden gelirsin",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746726"
+    },
+    {
+      "english": "Nice work, your effort really shows",
+      "turkish": "Harika iş, emeğin gerçekten belli oluyor",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746730"
+    },
+    {
+      "english": "Keep going, momentum is on your side",
+      "turkish": "Devam et, ivme seninle",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746734"
+    },
+    {
+      "english": "Small progress, daily, that’s the secret",
+      "turkish": "Her gün küçük ilerleme, işin sırrı bu",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746737"
+    },
+    {
+      "english": "You’re doing great, don’t overthink it",
+      "turkish": "Gayet iyi gidiyorsun, fazla kurcalama",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746739"
+    },
+    {
+      "english": "Good job, that was a smart move",
+      "turkish": "Aferin, bu çok akıllıca bir hamleydi",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746742"
+    },
+    {
+      "english": "Trust your process, results will follow",
+      "turkish": "Sürecine güven, sonuçlar gelir",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746744"
+    },
+    {
+      "english": "Let’s keep it simple, you’re on track",
+      "turkish": "Bunu sade tutalım, doğru yoldasın",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746747"
+    },
+    {
+      "english": "Focus first, then polish, that’s the rhythm",
+      "turkish": "Önce odaklan, sonra parlat, ritim bu",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746749"
+    },
+    {
+      "english": "You’re not behind, you’re on your way",
+      "turkish": "Gecikmiş değilsin, yoldasın",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746751"
+    },
+    {
+      "english": "Keep your chin up, things will click",
+      "turkish": "Yüzünü yukarıda tut, her şey yerine oturur",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746753"
+    },
+    {
+      "english": "Your ideas are strong, keep sharing them",
+      "turkish": "Fikirlerin güçlü, paylaşmaya devam et",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746756"
+    },
+    {
+      "english": "Nice catch, that detail saved us",
+      "turkish": "Çok iyi yakaladın, o detay bizi kurtardı",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746757"
+    },
+    {
+      "english": "Start small, build up, you’ll get there",
+      "turkish": "Küçük başla, büyüt, varırsın",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746760"
+    },
+    {
+      "english": "You handled that well, no doubt",
+      "turkish": "Bunu çok iyi yönettin, şüphesiz",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746762"
+    },
+    {
+      "english": "One task at a time, stay sharp",
+      "turkish": "Tek iş, tek sefer, ayık kal",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746764"
+    },
+    {
+      "english": "Good energy, that meeting will flow",
+      "turkish": "Güzel enerji, toplantı akacak",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746766"
+    },
+    {
+      "english": "You don’t need perfection, just progress",
+      "turkish": "Mükemmel şart değil, ilerleme yeter",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746771"
+    },
+    {
+      "english": "Way to go, you made it happen",
+      "turkish": "Süper olmuş, işi hayata geçirdin",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746773"
+    },
+    {
+      "english": "Stay curious, questions bring clarity",
+      "turkish": "Meraklı kal, sorular netleştirir",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746775"
+    },
+    {
+      "english": "You’re improving, I can see it",
+      "turkish": "Gelişiyorsun, gözümle görüyorum",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746777"
+    },
+    {
+      "english": "Let it go, focus on the next move",
+      "turkish": "Bırak gitsin, sıradaki hamleye odaklan",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746779"
+    },
+    {
+      "english": "Strong work, keep that momentum going",
+      "turkish": "Çok iyi iş, o ivmeyi devam ettir",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746781"
+    },
+    {
+      "english": "You’ve earned this win, celebrate a bit",
+      "turkish": "Bu galibiyeti hak ettin, biraz kutla",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746783"
+    },
+    {
+      "english": "Today will be better, stay positive",
+      "turkish": "Bugün daha iyi olacak, pozitif kal",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746786"
+    },
+    {
+      "english": "Great effort, the team notices",
+      "turkish": "Harika emek, ekip bunu görüyor",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746788"
+    },
+    {
+      "english": "Don’t rush, do it clean and clear",
+      "turkish": "Aceleyi bırak, temiz ve net yap",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746790"
+    },
+    {
+      "english": "I’m feeling a bit overwhelmed today, honestly.",
+      "turkish": "Bugün biraz bunalmış hissediyorum, açıkçası.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746793"
+    },
+    {
+      "english": "I want to be transparent, I’m not sure yet.",
+      "turkish": "Şeffaf olayım, henüz emin değilim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746795"
+    },
+    {
+      "english": "I’m trying to slow down, so I do it right.",
+      "turkish": "Doğru olsun diye yavaşlamaya çalışıyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746798"
+    },
+    {
+      "english": "Give me a moment, I’m sorting my thoughts.",
+      "turkish": "Bir dakika, kafamı toparlıyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746801"
+    },
+    {
+      "english": "I need patience, this process takes time.",
+      "turkish": "Sabra ihtiyacım var, bu iş zaman alıyor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746803"
+    },
+    {
+      "english": "Honestly, I’m not in the right headspace.",
+      "turkish": "Açık konuşayım, şu an kafam uygun değil.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746806"
+    },
+    {
+      "english": "I’m learning to speak up, even when it’s hard.",
+      "turkish": "Zor olsa bile sesimi çıkarmayı öğreniyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746810"
+    },
+    {
+      "english": "I don’t want to overpromise, that’s on me.",
+      "turkish": "Abartılı söz verip zorlamayayım, bu benim hatam.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746813"
+    },
+    {
+      "english": "I’m okay with revisions, as long as we learn.",
+      "turkish": "Düzeltmeye tamamım, yeter ki öğrenelim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746815"
+    },
+    {
+      "english": "Let’s take it step by step, no stress.",
+      "turkish": "Adım adım gidelim, strese gerek yok.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746818"
+    },
+    {
+      "english": "I’m feeling stuck, but I’ll keep trying.",
+      "turkish": "Kendimi tıkandım gibi hissediyorum, ama deneyeceğim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746820"
+    },
+    {
+      "english": "I appreciate your patience, it really helps.",
+      "turkish": "Sabır gösterdiğin için teşekkür ederim, gerçekten işe yarıyor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746822"
+    },
+    {
+      "english": "I’m trying to stay calm, even if it’s messy.",
+      "turkish": "Karışık olsa da sakin kalmaya çalışıyorum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746825"
+    },
+    {
+      "english": "I’d rather discuss it openly than assume.",
+      "turkish": "Varsaymaktansa açıkça konuşmayı tercih ederim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746827"
+    },
+    {
+      "english": "I’m taking notes, so I don’t miss the details.",
+      "turkish": "Not alıyorum, detayları kaçırmayayım diye.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746830"
+    },
+    {
+      "english": "I’m worried about the timeline, can we review?",
+      "turkish": "Zaman planı konusunda endişeliyim, gözden geçirelim mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746833"
+    },
+    {
+      "english": "Send a quick message, then confirm later.",
+      "turkish": "Hızlıca mesaj at, sonra teyit et.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746835"
+    },
+    {
+      "english": "Before you reply, read the whole email.",
+      "turkish": "Cevap vermeden önce, mailin tamamını oku.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746838"
+    },
+    {
+      "english": "Could you clarify, what exactly do we need?",
+      "turkish": "Şunu netleştirebilir misin, tam olarak ne istiyoruz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746840"
+    },
+    {
+      "english": "Let me check, I’ll get back in ten minutes.",
+      "turkish": "Kontrol edeyim, on dakika içinde dönerim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746843"
+    },
+    {
+      "english": "I’m on it, I’ll update you soon.",
+      "turkish": "İşin üstündeyim, yakında seni bilgilendireceğim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746846"
+    },
+    {
+      "english": "We can’t do everything, so pick priorities.",
+      "turkish": "Her şeyi yapamayız, öncelik seçelim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746848"
+    },
+    {
+      "english": "When stuck, ask, who owns this task?",
+      "turkish": "Tıkanınca sor, bu iş kimde?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746851"
+    },
+    {
+      "english": "Share your notes, it saves everyone time.",
+      "turkish": "Notlarını paylaş, herkesin zamanını kazandırır.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746853"
+    },
+    {
+      "english": "Keep the chat short, only key points.",
+      "turkish": "Sohbeti kısa tut, sadece önemli noktalar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746856"
+    },
+    {
+      "english": "If it’s urgent, put it in the subject line.",
+      "turkish": "Acilse, konu kısmına yaz.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746858"
+    },
+    {
+      "english": "Let’s align, what’s the goal of this meeting?",
+      "turkish": "Hizalanalım, bu toplantının hedefi ne?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746861"
+    },
+    {
+      "english": "I’ll summarize now, so we don’t miss anything.",
+      "turkish": "Şimdi özetleyeyim, hiçbir şeyi kaçırmayalım.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746867"
+    },
+    {
+      "english": "Can we set a deadline for next steps?",
+      "turkish": "Sonraki adımlar için bir tarih belirleyelim mi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746869"
+    },
+    {
+      "english": "I’ll take the lead, you can assist.",
+      "turkish": "Ben liderlik edeyim, sen destek ol.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746872"
+    },
+    {
+      "english": "Check the attachments, that’s where the details are.",
+      "turkish": "Ekleri kontrol et, ayrıntılar orada.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746875"
+    },
+    {
+      "english": "Let’s walk through it, point by point.",
+      "turkish": "Tek tek gidelim, birlikte inceleyelim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746877"
+    },
+    {
+      "english": "I hear you, but can we look at options?",
+      "turkish": "Seni anlıyorum, ama seçeneklere bakalım mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T09:46:52.746879"
     }
   ],
-  "last_updated": "2026-11-07T09:30:37.767082"
+  "last_updated": "2026-11-08T09:46:52.746881"
 }
