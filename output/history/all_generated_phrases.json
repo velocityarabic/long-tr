@@ -15119,7 +15119,727 @@
       "turkish": "Seni anlıyorum, ama seçeneklere bakalım mı?",
       "category": "Work & Office",
       "generated_at": "2026-11-08T09:46:52.746879"
+    },
+    {
+      "english": "Breathe in, let the noise fade, okay?",
+      "turkish": "Bir nefes al, gürültü sönsün, tamam mı?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804792"
+    },
+    {
+      "english": "Pause for a second, I’m here with you.",
+      "turkish": "Bir saniye dur, yanındayım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804808"
+    },
+    {
+      "english": "Slow down, your body already knows.",
+      "turkish": "Yavaşla, bedenin zaten biliyor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804812"
+    },
+    {
+      "english": "It’s okay, breathe, you’ll be fine.",
+      "turkish": "Sorun değil, nefes al, geçer.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804816"
+    },
+    {
+      "english": "Right now, just notice what’s happening.",
+      "turkish": "Şu an, sadece olanı fark et.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804820"
+    },
+    {
+      "english": "Let it go, you don’t have to carry it.",
+      "turkish": "Bırak gitsin, taşımak zorunda değilsin.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804823"
+    },
+    {
+      "english": "Open your eyes, feel the moment, now.",
+      "turkish": "Gözlerini aç, anı hisset, şimdi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804826"
+    },
+    {
+      "english": "Take it easy, no rush, breathe.",
+      "turkish": "Rahat ol, acele yok, nefes al.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804834"
+    },
+    {
+      "english": "I’m grounding myself, thanks for waiting.",
+      "turkish": "Kendimi toparlıyorum, beklediğin için sağ ol.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804839"
+    },
+    {
+      "english": "Stay with me, let’s get calmer together.",
+      "turkish": "Yanımda kal, birlikte sakinleşelim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804843"
+    },
+    {
+      "english": "Notice your breath, it’s enough for now.",
+      "turkish": "Nefesine bak, şimdilik bu yeter.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804846"
+    },
+    {
+      "english": "Should I pause, I’m getting distracted.",
+      "turkish": "Durayım mı, dağılıyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804849"
+    },
+    {
+      "english": "Check in, how do you feel right now?",
+      "turkish": "Kontrol et, şu an nasıl hissediyorsun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804852"
+    },
+    {
+      "english": "I hear you, let’s slow this down.",
+      "turkish": "Seni duyuyorum, bunu yavaşlatalım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804857"
+    },
+    {
+      "english": "What’s real right now, tell me.",
+      "turkish": "Şu an gerçekten ne var, söyle bana.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804860"
+    },
+    {
+      "english": "You’re safe, take one slow breath.",
+      "turkish": "Güvendesin, bir tane yavaş nefes al.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804864"
+    },
+    {
+      "english": "Let your thoughts pass, don’t chase them.",
+      "turkish": "Düşünceler geçsin, peşlerinden gitme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804867"
+    },
+    {
+      "english": "I’ll take a moment, be right back.",
+      "turkish": "Bir an duracağım, hemen gelirim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804871"
+    },
+    {
+      "english": "Ground your feet, feel the floor.",
+      "turkish": "Ayaklarını yere bas, zemini hisset.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804873"
+    },
+    {
+      "english": "It’s just a feeling, not the truth.",
+      "turkish": "Sadece bir duygu, gerçek bu değil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804876"
+    },
+    {
+      "english": "Listen closely, what do you notice first?",
+      "turkish": "Dikkatle dinle, ilk ne fark ediyorsun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804879"
+    },
+    {
+      "english": "I’m here, even if you’re busy.",
+      "turkish": "Ben buradayım, sen meşgul olsan bile.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804882"
+    },
+    {
+      "english": "Breathe, relax your shoulders, right now.",
+      "turkish": "Nefes al, omuzlarını gevşet, şimdi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804885"
+    },
+    {
+      "english": "Give yourself a break, it’s okay.",
+      "turkish": "Kendine izin ver, sorun değil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804888"
+    },
+    {
+      "english": "Let’s not spiral, take one step back.",
+      "turkish": "Dibe dalmayalım, bir adım geri çekil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804891"
+    },
+    {
+      "english": "I’ll start over, focus on one thing.",
+      "turkish": "Baştan başlayacağım, tek şeye odaklan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804894"
+    },
+    {
+      "english": "Say it softly, breathe, then respond.",
+      "turkish": "Yumuşak söyle, nefes al, sonra cevap ver.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804897"
+    },
+    {
+      "english": "We’re okay, just take it slowly.",
+      "turkish": "İyiyiz, sadece yavaşça ilerleyelim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804900"
+    },
+    {
+      "english": "Can I ask something, quietly, for a minute?",
+      "turkish": "Bir şey sorabilir miyim, sessizce, bir dakika?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804903"
+    },
+    {
+      "english": "What’s on your mind, right before we breathe?",
+      "turkish": "Nefes almadan önce aklında ne var?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804906"
+    },
+    {
+      "english": "How do you usually calm down, after stress?",
+      "turkish": "Stresten sonra genelde nasıl sakinleşiyorsun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804909"
+    },
+    {
+      "english": "Should we check your body, one by one?",
+      "turkish": "Vücudunu tek tek yoklayalım mı?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804912"
+    },
+    {
+      "english": "What feels heavy today, for you?",
+      "turkish": "Bugün senin için ne ağır geliyor?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804917"
+    },
+    {
+      "english": "May I help you choose a small reset?",
+      "turkish": "Sana küçük bir sıfırlama seçmene yardım edeyim mi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804919"
+    },
+    {
+      "english": "When your thoughts race, what do you do?",
+      "turkish": "Düşüncelerin hızlanınca ne yapıyorsun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804922"
+    },
+    {
+      "english": "Can we try a 10-second question together?",
+      "turkish": "Beraber 10 saniyelik bir soru deneyelim mi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804925"
+    },
+    {
+      "english": "Where do you feel tension, in your body?",
+      "turkish": "Gerginliği vücudunda nerede hissediyorsun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804927"
+    },
+    {
+      "english": "Do you want to name it, or change it?",
+      "turkish": "Adını mı koyalım, yoksa değiştirelim mi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804930"
+    },
+    {
+      "english": "What’s the kindest thing you can ask yourself?",
+      "turkish": "Kendine sorabileceğin en nazik soru ne?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804933"
+    },
+    {
+      "english": "How’s your attention lately, jumping a lot?",
+      "turkish": "Dikkatin son zamanlarda çok sıçrıyor mu?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804938"
+    },
+    {
+      "english": "Would it help to soften your jaw, right now?",
+      "turkish": "Şu an çenenin rahatlaması işe yarar mı?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804941"
+    },
+    {
+      "english": "Should we pause, then ask, 'what next?'",
+      "turkish": "Durup sonra 'sırada ne var?' diye soralım mı?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804945"
+    },
+    {
+      "english": "What’s one feeling you can safely notice?",
+      "turkish": "Güvenle fark edebileceğin tek duygu ne?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804948"
+    },
+    {
+      "english": "If you had to slow down, how?",
+      "turkish": "Yavaşlaman gerekse, nasıl yapardın?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804951"
+    },
+    {
+      "english": "Can you describe the moment, in plain words?",
+      "turkish": "Anı düz sözlerle anlatabilir misin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804953"
+    },
+    {
+      "english": "What do you need most, right here?",
+      "turkish": "Tam burada en çok neye ihtiyacın var?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804956"
+    },
+    {
+      "english": "Do you want to journal, or just talk?",
+      "turkish": "Yazmak ister misin, yoksa sadece konuşalım mı?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804960"
+    },
+    {
+      "english": "Which thought keeps returning, without permission?",
+      "turkish": "Hangi düşünce izinsiz geri dönüyor durmadan?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804963"
+    },
+    {
+      "english": "How about asking, 'what am I avoiding?'",
+      "turkish": "‘Neyi erteliyorum?’ diye sormak nasıl olur?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804966"
+    },
+    {
+      "english": "Do you notice any sound you can trust?",
+      "turkish": "Güvenebileceğin bir ses fark ediyor musun?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804969"
+    },
+    {
+      "english": "Want a quick check, on a scale of one?",
+      "turkish": "Hızlı bir kontrol ister misin, birden mi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804972"
+    },
+    {
+      "english": "What’s your next kind step, small but real?",
+      "turkish": "Sıradaki nazik adımın ne, küçük ama gerçek?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804975"
+    },
+    {
+      "english": "Can you answer, 'I’m here,' and breathe?",
+      "turkish": "‘Buradayım’ de, sonra nefes alabilir misin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804979"
+    },
+    {
+      "english": "Would you like to set a gentle intention?",
+      "turkish": "Nazik bir niyet belirlemek ister misin?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804981"
+    },
+    {
+      "english": "What changed, even a tiny bit, after asking?",
+      "turkish": "Sorduktan sonra biraz bile olsa ne değişti?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804984"
+    },
+    {
+      "english": "How can we make this conversation safer?",
+      "turkish": "Bu konuşmayı nasıl daha güvenli yaparız?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804987"
+    },
+    {
+      "english": "If you want, tell me one honest sentence.",
+      "turkish": "İstersen, bana tek dürüst cümle söyle.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804990"
+    },
+    {
+      "english": "Notice your progress, not your perfect moment.",
+      "turkish": "İlerlemeni gör, mükemmel an arama.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804993"
+    },
+    {
+      "english": "Let your mind rest, you’re allowed.",
+      "turkish": "Zihnin dinlensin, hakkın var.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.804996"
+    },
+    {
+      "english": "Say, “I can handle this,” softly.",
+      "turkish": "Kendine, “Bunu kaldırırım,” diye fısılda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805000"
+    },
+    {
+      "english": "Your breath is a loyal anchor.",
+      "turkish": "Nefesin sadık bir çapa gibi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805002"
+    },
+    {
+      "english": "Be kind to your thoughts, they pass.",
+      "turkish": "Düşüncülere nazik ol, geçip giderler.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805005"
+    },
+    {
+      "english": "Small wins count, even today.",
+      "turkish": "Küçük zaferler sayılır, bugün de.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805008"
+    },
+    {
+      "english": "Keep your inner voice gentle, please.",
+      "turkish": "İç sesin nazik kalsın, rica etsem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805011"
+    },
+    {
+      "english": "You’re learning, not failing, stay present.",
+      "turkish": "Öğreniyorsun, başarısız değilsin, kal şimdide.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805015"
+    },
+    {
+      "english": "Give yourself credit, you’re showing up.",
+      "turkish": "Kendine teşekkür et, buradasın ya.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805018"
+    },
+    {
+      "english": "Let the noise fade, your focus stays.",
+      "turkish": "Gürültü azalsın, odağın kalsın.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805021"
+    },
+    {
+      "english": "I’ve got you, say it to yourself.",
+      "turkish": "Sana ben varım, kendine bunu de.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805024"
+    },
+    {
+      "english": "When doubt comes, come back to now.",
+      "turkish": "Şüphe gelince, şimdiki ana dön.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805026"
+    },
+    {
+      "english": "Your pace is enough, no rush.",
+      "turkish": "Hızın yeter, acele yok.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805029"
+    },
+    {
+      "english": "Soft eyes, soft thoughts, easier day.",
+      "turkish": "Yumuşak bakış, yumuşak düşünce, daha kolay gün.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805032"
+    },
+    {
+      "english": "Choose patience, it changes everything gradually.",
+      "turkish": "Sabır seç, her şeyi yavaş yavaş değiştirir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805038"
+    },
+    {
+      "english": "You don’t have to fix everything today.",
+      "turkish": "Bugün her şeyi düzeltmek zorunda değilsin.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805041"
+    },
+    {
+      "english": "Trust the pause, it does its work.",
+      "turkish": "Duraklamaya güven, işi yapar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805044"
+    },
+    {
+      "english": "What you feel matters, not how loud.",
+      "turkish": "Ne hissettiğin önemli, ses seviyesi değil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805046"
+    },
+    {
+      "english": "You can start again, without drama.",
+      "turkish": "Tekrar başlayabilirsin, dram yok.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805049"
+    },
+    {
+      "english": "Hold hope, even if it’s tiny.",
+      "turkish": "Umut taşı, küçük olsa bile.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805056"
+    },
+    {
+      "english": "Tell your body, “Thanks for trying.”",
+      "turkish": "Vücuduna söyle, “Denerken yanımdaydın.”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805059"
+    },
+    {
+      "english": "Let thoughts flow, you don’t chase them.",
+      "turkish": "Düşünceler akıp gitsin, peşinden koşma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805062"
+    },
+    {
+      "english": "Every breath is a fresh permission.",
+      "turkish": "Her nefes, yeniden izin gibidir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805065"
+    },
+    {
+      "english": "Be proud you checked in, that’s brave.",
+      "turkish": "Kontrol etmek cesaret, gurur duy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805068"
+    },
+    {
+      "english": "Inhale calm, exhale the tightness.",
+      "turkish": "Sakin al, sıkılığı ver.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805071"
+    },
+    {
+      "english": "Let your mind learn safety, slowly.",
+      "turkish": "Zihnin güveni öğrensin, yavaşça.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805074"
+    },
+    {
+      "english": "You’re doing the best you can.",
+      "turkish": "Elinden gelenin en iyisini yapıyorsun.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805077"
+    },
+    {
+      "english": "One kind thought can shift the whole day.",
+      "turkish": "Tek bir nazik düşünce, günün tamamını değiştirir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805080"
+    },
+    {
+      "english": "Stay with yourself, like a steady friend.",
+      "turkish": "Kendinle kal, her zaman yanında olan arkadaş gibi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805082"
+    },
+    {
+      "english": "Be honest, even when it feels messy.",
+      "turkish": "Dürüst ol, her şey dağınık olsa bile.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805085"
+    },
+    {
+      "english": "I notice my feelings, no debate needed.",
+      "turkish": "Duygularımı fark ediyorum, tartışmaya gerek yok.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805088"
+    },
+    {
+      "english": "Say it quietly, I’m allowed to feel.",
+      "turkish": "Kısık sesle söyle, hissetmeye hakkım var.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805091"
+    },
+    {
+      "english": "Some days, patience is my real workout.",
+      "turkish": "Bazı günler, sabır benim asıl antrenmanım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805094"
+    },
+    {
+      "english": "I don’t need answers right now, just presence.",
+      "turkish": "Şu an cevaplara ihtiyacım yok, sadece şimdi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805097"
+    },
+    {
+      "english": "What I feel is data, not danger.",
+      "turkish": "Ne hissediyorsam, bu bilgi, tehlike değil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805100"
+    },
+    {
+      "english": "I can be soft, without giving up.",
+      "turkish": "Yumuşak olabilirim, vazgeçmeden.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805102"
+    },
+    {
+      "english": "If it hurts, I listen, then breathe.",
+      "turkish": "Canım yanıyorsa, dinlerim, sonra nefes alırım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805105"
+    },
+    {
+      "english": "I’m not behind, my emotions take time.",
+      "turkish": "Geri değilim, duygularım zaman istiyor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805109"
+    },
+    {
+      "english": "Even my sadness can sit, safely.",
+      "turkish": "Hatta üzüntüm bile, güvenle oturabilir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805112"
+    },
+    {
+      "english": "I pause, I reflect, I keep it simple.",
+      "turkish": "Duruyorum, düşünüyorum, basit tutuyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805114"
+    },
+    {
+      "english": "I can be kind, even to my doubts.",
+      "turkish": "Şüphelerime bile nazik davranabilirim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805117"
+    },
+    {
+      "english": "My inner talk, gets quieter when I slow down.",
+      "turkish": "İç konuşmam, yavaşlayınca azalıyor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805120"
+    },
+    {
+      "english": "Let the moment teach me, without rushing.",
+      "turkish": "O an bana öğretir, acele yok.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805123"
+    },
+    {
+      "english": "I don’t chase the feeling, I stay with it.",
+      "turkish": "Hislerin peşinde koşmuyorum, onunla kalıyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805126"
+    },
+    {
+      "english": "I admit it, I’m overwhelmed, right now.",
+      "turkish": "Kabul ediyorum, şu an bunalmış durumdayım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805135"
+    },
+    {
+      "english": "This is hard, and still, I’m here.",
+      "turkish": "Zor, ama yine de buradayım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805138"
+    },
+    {
+      "english": "I check in, and I don’t judge it.",
+      "turkish": "Kontrol ediyorum, yargılamıyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805143"
+    },
+    {
+      "english": "Some thoughts are just weather, pass through.",
+      "turkish": "Bazı düşünceler sadece hava durumu, geçer.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805146"
+    },
+    {
+      "english": "I choose patience, when my mind panics.",
+      "turkish": "Zihnim panikleyince sabrı seçiyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805149"
+    },
+    {
+      "english": "I can feel it fully, without acting on it.",
+      "turkish": "Tam hissedebilirim, ama eyleme geçmek zorunda değil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805152"
+    },
+    {
+      "english": "Reflection time, no fixing, just understanding.",
+      "turkish": "Düşünme zamanı, düzeltmek yok, anlamak var.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805155"
+    },
+    {
+      "english": "I’m learning my patterns, not blaming myself.",
+      "turkish": "Kendi kalıplarımı öğreniyorum, kendimi suçlamıyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805158"
+    },
+    {
+      "english": "I let my emotions be real, not performative.",
+      "turkish": "Duygularım gerçek olsun, rol yapmıyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805161"
+    },
+    {
+      "english": "It’s okay to take it slow, today.",
+      "turkish": "Bugün yavaşlamak sorun değil, tamam.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805164"
+    },
+    {
+      "english": "I can restart, with kindness, every time.",
+      "turkish": "Her seferinde, nazikçe yeniden başlayabilirim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805167"
+    },
+    {
+      "english": "My feelings get louder when I fight them.",
+      "turkish": "Onlarla savaşınca, duygularım daha çok bağırıyor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805170"
+    },
+    {
+      "english": "I’ll pause again, because I care about me.",
+      "turkish": "Yine duracağım, çünkü kendimi önemsiyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805173"
+    },
+    {
+      "english": "What’s underneath it, I’ll face gently.",
+      "turkish": "Altında ne var, onu nazikçe göreceğim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805176"
+    },
+    {
+      "english": "Quiet reflection, my nervous system can relax.",
+      "turkish": "Sessiz düşünme, sinir sistemim rahatlayabilir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805179"
+    },
+    {
+      "english": "Before you speak, pause, breathe, then answer.",
+      "turkish": "Konuşmadan önce dur, nefes al, sonra cevap ver.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805182"
+    },
+    {
+      "english": "When crowds hit, slow down, look around.",
+      "turkish": "Kalabalık gelince yavaşla, etrafa bak.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805185"
+    },
+    {
+      "english": "At lunch, eat slowly, notice tastes, stay present.",
+      "turkish": "Öğlen yemeğinde yavaş ye, tadı fark et, şimdi ol.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805188"
+    },
+    {
+      "english": "After a meeting, reset, sip water, breathe.",
+      "turkish": "Toplantıdan sonra sıfırlan, su iç, nefes al.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-09T10:45:57.805191"
     }
   ],
-  "last_updated": "2026-11-08T09:46:52.746881"
+  "last_updated": "2026-11-09T10:45:57.805195"
 }
