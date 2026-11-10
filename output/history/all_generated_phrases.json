@@ -15839,7 +15839,727 @@
       "turkish": "Toplantıdan sonra sıfırlan, su iç, nefes al.",
       "category": "Mindfulness",
       "generated_at": "2026-11-09T10:45:57.805191"
+    },
+    {
+      "english": "Do you have this in my size?",
+      "turkish": "Bunun bedenim var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488828"
+    },
+    {
+      "english": "Is it on sale right now?",
+      "turkish": "Şu an indirimin var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488842"
+    },
+    {
+      "english": "This one or the cheaper one?",
+      "turkish": "Bu mu, yoksa daha ucuz olan mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488845"
+    },
+    {
+      "english": "I think it’s too expensive.",
+      "turkish": "Bence biraz pahalı.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488848"
+    },
+    {
+      "english": "Could you show me the price?",
+      "turkish": "Fiyatını gösterebilir misiniz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488850"
+    },
+    {
+      "english": "Do you have it in black?",
+      "turkish": "Siyahı var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488853"
+    },
+    {
+      "english": "Is the price final, or not?",
+      "turkish": "Fiyat son mu, pazarlık var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488855"
+    },
+    {
+      "english": "Do you accept cash too?",
+      "turkish": "Nakit de alıyor musunuz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488860"
+    },
+    {
+      "english": "Does it come with warranty?",
+      "turkish": "Garanti var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488862"
+    },
+    {
+      "english": "What’s the total price, please?",
+      "turkish": "Toplam fiyatı alabilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488865"
+    },
+    {
+      "english": "No thanks, I’ll look around.",
+      "turkish": "Hayır, teşekkürler, biraz bakacağım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488870"
+    },
+    {
+      "english": "Wait, that’s not the price.",
+      "turkish": "Durun, bu fiyat değil!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488873"
+    },
+    {
+      "english": "Can I try it on?",
+      "turkish": "Giyebilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488875"
+    },
+    {
+      "english": "It fits perfectly, I’ll take it.",
+      "turkish": "Tam oldu, alacağım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488878"
+    },
+    {
+      "english": "It’s a bit tight, sorry.",
+      "turkish": "Biraz dar, kusura bakmayın.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488881"
+    },
+    {
+      "english": "Is this included in the price?",
+      "turkish": "Bu fiyata dahil mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488883"
+    },
+    {
+      "english": "How much is it per unit?",
+      "turkish": "Adet başı kaç para?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488885"
+    },
+    {
+      "english": "That seems expensive for this.",
+      "turkish": "Bu buna göre pahalı gibi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488887"
+    },
+    {
+      "english": "Do you have a cheaper alternative?",
+      "turkish": "Daha uygun bir şey var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488889"
+    },
+    {
+      "english": "Okay, I’ll buy two.",
+      "turkish": "Tamam, iki tane alıyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488892"
+    },
+    {
+      "english": "Where is the sale section?",
+      "turkish": "İndirim reyonu nerede?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488894"
+    },
+    {
+      "english": "I’ll take it, how soon delivery?",
+      "turkish": "Alıyorum, ne zaman gelir?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488898"
+    },
+    {
+      "english": "Oh, it’s even cheaper!",
+      "turkish": "Vay, daha da ucuzmuş!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488900"
+    },
+    {
+      "english": "Sorry, I need a different price.",
+      "turkish": "Kusura bakmayın, başka fiyat lazım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488903"
+    },
+    {
+      "english": "What sizes do you have, for this?",
+      "turkish": "Bunun hangi bedenleri var?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488905"
+    },
+    {
+      "english": "How much is it, exactly, today?",
+      "turkish": "Tam olarak bugün fiyatı kaç?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488908"
+    },
+    {
+      "english": "Is there a student discount, by any chance?",
+      "turkish": "Öğrenci indirimi var mı, acaba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488910"
+    },
+    {
+      "english": "Could you recommend something similar, please?",
+      "turkish": "Benzer bir şey önerir misiniz, lütfen?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488912"
+    },
+    {
+      "english": "Do you have it in stock, right now?",
+      "turkish": "Şu an stokta var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488915"
+    },
+    {
+      "english": "Do you offer gift wrapping, maybe?",
+      "turkish": "Hediye paketi yapıyor musunuz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488917"
+    },
+    {
+      "english": "Can I pay with card, or only cash?",
+      "turkish": "Kartla ödeme yapabiliyor muyum, yoksa nakit mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488919"
+    },
+    {
+      "english": "Is there free delivery, if I order today?",
+      "turkish": "Bugün sipariş verirsem kargo ücretsiz mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488921"
+    },
+    {
+      "english": "How long does delivery usually take?",
+      "turkish": "Genelde teslimat ne kadar sürüyor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488924"
+    },
+    {
+      "english": "What’s the return policy, if it doesn’t fit?",
+      "turkish": "Uymasa iade nasıl oluyor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488927"
+    },
+    {
+      "english": "Do you have a smaller version of this?",
+      "turkish": "Bunun daha küçük modeli var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488929"
+    },
+    {
+      "english": "Is the price including tax, or not?",
+      "turkish": "Fiyat vergiler dahil mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488931"
+    },
+    {
+      "english": "Can I see the size chart, please?",
+      "turkish": "Beden tablosuna bakabilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488934"
+    },
+    {
+      "english": "Which one is more durable, this or that?",
+      "turkish": "Hangisi daha dayanıklı, bu mu yoksa şu mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488936"
+    },
+    {
+      "english": "Is this suitable for everyday use?",
+      "turkish": "Günlük kullanım için uygun mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488938"
+    },
+    {
+      "english": "Do I need to register to get warranty?",
+      "turkish": "Garanti için kayıt gerekiyor mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488940"
+    },
+    {
+      "english": "Do you have a cheaper color option?",
+      "turkish": "Daha uygun fiyatlı bir renk var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488942"
+    },
+    {
+      "english": "Can I check the material, up close?",
+      "turkish": "Malzemeye yakından bakabilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488944"
+    },
+    {
+      "english": "Is there any promo code available today?",
+      "turkish": "Bugün geçerli bir indirim kodu var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488946"
+    },
+    {
+      "english": "If I buy two, do I get discount?",
+      "turkish": "İki tane alırsam indirim olur mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488948"
+    },
+    {
+      "english": "What payment plans do you offer?",
+      "turkish": "Taksit seçenekleri neler?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488955"
+    },
+    {
+      "english": "Is this item returnable, sealed or not?",
+      "turkish": "Ürün iade edilebilir mi, açılınca da?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488958"
+    },
+    {
+      "english": "Which brand is best for this category?",
+      "turkish": "Bu kategoride hangi marka daha iyi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488960"
+    },
+    {
+      "english": "Do you have any deals for bundles?",
+      "turkish": "Set alımlarda kampanya var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488962"
+    },
+    {
+      "english": "Can you tell me the difference, quickly?",
+      "turkish": "Aradaki farkı kısaca anlatır mısınız?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488964"
+    },
+    {
+      "english": "Is this price valid today only?",
+      "turkish": "Bu fiyat sadece bugün geçerli mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488966"
+    },
+    {
+      "english": "Do you have color samples, by the way?",
+      "turkish": "Renk seçeneklerinden numune var mı?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488968"
+    },
+    {
+      "english": "What’s the best choice for sensitive skin?",
+      "turkish": "Hassas cilt için en iyi hangisi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488970"
+    },
+    {
+      "english": "If I order online, can I pick up?",
+      "turkish": "Online alırsam mağazadan alabilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488972"
+    },
+    {
+      "english": "You’ve got this, shopping is your power move.",
+      "turkish": "Yaparsın, alışveriş senin güç hamlen.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488978"
+    },
+    {
+      "english": "Take a breath, compare calmly, choose smart.",
+      "turkish": "Bir nefes al, sakin karşılaştır, akıllı seç.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488980"
+    },
+    {
+      "english": "Small budget, big win, don’t stress.",
+      "turkish": "Küçük bütçe, büyük kazanç, stres yok.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488983"
+    },
+    {
+      "english": "Fresh mindset, fresh finds, go for it.",
+      "turkish": "Yeni kafa, yeni keşif, hadi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488985"
+    },
+    {
+      "english": "It’s okay to say yes, enjoy the moment.",
+      "turkish": "Evet demek tamam, anın tadını çıkar.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488988"
+    },
+    {
+      "english": "You’re not overspending, you’re investing.",
+      "turkish": "Fazla harcamıyorsun, yatırım yapıyorsun.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488992"
+    },
+    {
+      "english": "Good choices start with checking twice.",
+      "turkish": "İyi seçimler iki kez bakmakla başlar.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488997"
+    },
+    {
+      "english": "Even if it’s not perfect, it’s progress.",
+      "turkish": "Mükemmel değilse bile, bu ilerleme.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.488999"
+    },
+    {
+      "english": "Nice! You found a deal, celebrate quietly.",
+      "turkish": "Süper! İyi bir fırsat yakaladın, sessiz kutla.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489002"
+    },
+    {
+      "english": "Be picky, your future self will thank you.",
+      "turkish": "Seçici ol, gelecek ben teşekkür edecek.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489004"
+    },
+    {
+      "english": "Don’t rush, the right price will show up.",
+      "turkish": "Koşma, doğru fiyat kendini gösterir.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489006"
+    },
+    {
+      "english": "Yes, your taste matters, shop like it.",
+      "turkish": "Evet, zevk önemli, ona göre alışveriş yap.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489009"
+    },
+    {
+      "english": "Read the details, you’re in control here.",
+      "turkish": "Detayları oku, kontrol sende.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489011"
+    },
+    {
+      "english": "Wrong pick today, lesson learned, move on.",
+      "turkish": "Bugün yanlış seçim, ders var, devam et.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489014"
+    },
+    {
+      "english": "Your budget deserves respect, spend with confidence.",
+      "turkish": "Bütçen saygıyı hak ediyor, güvenle harca.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489016"
+    },
+    {
+      "english": "Start with needs, then add the fun stuff.",
+      "turkish": "Önce ihtiyaçlar, sonra eğlence ekle.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489018"
+    },
+    {
+      "english": "Confidence looks good, even on price tags.",
+      "turkish": "Güven yakışır, etiketler bile olsun.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489020"
+    },
+    {
+      "english": "You’re learning, so every trip gets easier.",
+      "turkish": "Öğreniyorsun, her alışveriş gezisi kolaylaşır.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489023"
+    },
+    {
+      "english": "Hunt value, not drama, keep it light.",
+      "turkish": "Değer avla, dram yapma, hafif kal.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489025"
+    },
+    {
+      "english": "This is you leveling up, one purchase at a time.",
+      "turkish": "Bu, seviye atlaman, bir alışverişte.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489027"
+    },
+    {
+      "english": "Great job, you stayed within your limit.",
+      "turkish": "Aferin, limitin içinde kaldın.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489030"
+    },
+    {
+      "english": "Ask yourself, will you actually use it?",
+      "turkish": "Kendine sor, gerçekten kullanır mısın?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489032"
+    },
+    {
+      "english": "When it feels right, trust your gut, gently.",
+      "turkish": "İçin rahat ediyorsa, hislerine güven, sakin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489034"
+    },
+    {
+      "english": "No panic, just compare, then decide fast.",
+      "turkish": "Panik yok, karşılaştır, sonra hızlı karar ver.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489036"
+    },
+    {
+      "english": "You found the vibe, that’s a smart buy.",
+      "turkish": "Doğru havayı yakaladın, akıllı alışveriş bu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489039"
+    },
+    {
+      "english": "Smile, you’re about to get something good.",
+      "turkish": "Gülümse, güzel bir şey alacaksın.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489041"
+    },
+    {
+      "english": "It’s okay to walk away, your deal will return.",
+      "turkish": "Uzaklaşman normal, fırsat geri gelir.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489044"
+    },
+    {
+      "english": "You’re building habits, not just a cart.",
+      "turkish": "Alışkanlık kuruyorsun, sadece sepet değil.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489046"
+    },
+    {
+      "english": "Keep it simple, choose quality over hype.",
+      "turkish": "Basit tut, hype yerine kalite seç.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489048"
+    },
+    {
+      "english": "Yes, this fits your plan, go for it.",
+      "turkish": "Evet, bu senin planına uyuyor, al gitsin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489051"
+    },
+    {
+      "english": "I’m torn between these two, help me decide.",
+      "turkish": "Bu ikisi arasında kaldım, bana karar verdirin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489053"
+    },
+    {
+      "english": "Honestly, I didn’t expect it to cost this much.",
+      "turkish": "Açıkçası, bu kadar pahalı olacağını beklemiyordum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489056"
+    },
+    {
+      "english": "Let me think, I want to be sure.",
+      "turkish": "Bir düşüneyim, emin olmak istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489060"
+    },
+    {
+      "english": "I’m looking for the best value, not hype.",
+      "turkish": "En iyi değeri arıyorum, sadece hype değil.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489062"
+    },
+    {
+      "english": "I’m patient, I can wait for a better price.",
+      "turkish": "Sabırlıyım, daha iyi fiyata bekleyebilirim.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489065"
+    },
+    {
+      "english": "It feels a bit overpriced, what’s your reasoning?",
+      "turkish": "Biraz pahalı geliyor, bunu nasıl açıklarsınız?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489067"
+    },
+    {
+      "english": "I need something durable, I don’t want regrets.",
+      "turkish": "Dayanıklı bir şey lazım, pişman olmak istemiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489070"
+    },
+    {
+      "english": "I’m nervous about spending, but I like it.",
+      "turkish": "Harcamaktan çekiniyorum, ama hoşuma gitti.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489072"
+    },
+    {
+      "english": "I just want fair pricing, no surprises.",
+      "turkish": "Sadece adil fiyat istiyorum, sürpriz olmasın.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489075"
+    },
+    {
+      "english": "If I buy now, I’ll feel better later.",
+      "turkish": "Şimdi alırsam, sonra daha rahat ederim.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489079"
+    },
+    {
+      "english": "I’m not rushed, I want to compare properly.",
+      "turkish": "Acele etmiyorum, düzgün karşılaştırmak istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489081"
+    },
+    {
+      "english": "I’m worried about quality, can you reassure me?",
+      "turkish": "Kaliteden endişeliyim, bana güvence verir misiniz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489084"
+    },
+    {
+      "english": "I’m trying to stay within my budget, quietly.",
+      "turkish": "Bütçemi aşmamaya çalışıyorum, sessizce.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489087"
+    },
+    {
+      "english": "I want the honest answer, is it worth it?",
+      "turkish": "Açık konuşayım, buna değer mi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489089"
+    },
+    {
+      "english": "I keep changing my mind, sorry.",
+      "turkish": "Sürekli kafam değişiyor, kusura bakmayın.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489091"
+    },
+    {
+      "english": "I’m learning, so please take your time.",
+      "turkish": "Öğreniyorum, o yüzden lütfen acele etmeyin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489094"
+    },
+    {
+      "english": "This looks nice, but I need practical details.",
+      "turkish": "Güzel görünüyor, ama pratik detaylar lazım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489096"
+    },
+    {
+      "english": "I don’t want to overspend, so help me.",
+      "turkish": "Fazla harcamak istemiyorum, bana yardım edin.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489098"
+    },
+    {
+      "english": "I feel guilty buying it, but I’m checking.",
+      "turkish": "Bunu almak içimi sıkıştırıyor, yine de bakıyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489101"
+    },
+    {
+      "english": "I’m choosing slowly, I don’t want a bad deal.",
+      "turkish": "Yavaş seçiyorum, kötü bir anlaşma istemiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489103"
+    },
+    {
+      "english": "Can we talk about price, without pressure?",
+      "turkish": "Fiyatı konuşabilir miyiz, baskı olmadan?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489106"
+    },
+    {
+      "english": "I’m not chasing discounts, I’m chasing fit.",
+      "turkish": "İndirim peşinde değilim, doğru ürünü arıyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489108"
+    },
+    {
+      "english": "I want something that will last, please.",
+      "turkish": "Lütfen, uzun süre dayanacak bir şey istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489110"
+    },
+    {
+      "english": "My budget is tight, but I still want quality.",
+      "turkish": "Bütçem sıkı, ama yine de kalite istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489114"
+    },
+    {
+      "english": "I’m comparing again, because I trust my instincts.",
+      "turkish": "Yine karşılaştırıyorum, çünkü sezgilerime güveniyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489117"
+    },
+    {
+      "english": "I just want to feel comfortable with the price.",
+      "turkish": "Sadece fiyatla rahat hissetmek istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489119"
+    },
+    {
+      "english": "I don’t want surprises at checkout, really.",
+      "turkish": "Kasada sürpriz olmasın, gerçekten.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489122"
+    },
+    {
+      "english": "I’m thinking long-term, not just today.",
+      "turkish": "Ben uzun vadeyi düşünüyorum, sadece bugün değil.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489124"
+    },
+    {
+      "english": "I’m okay waiting, my mind needs clarity.",
+      "turkish": "Beklemeye razıyım, kafam netleşsin istiyorum.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489127"
+    },
+    {
+      "english": "I want your honest opinion, what do you suggest?",
+      "turkish": "Sizin samimi fikrinizi duymak istiyorum, ne önerirsiniz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489129"
+    },
+    {
+      "english": "Show me the best price, okay?",
+      "turkish": "Bana en iyi fiyatı gösterir misin, olur mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489131"
+    },
+    {
+      "english": "Can I see the receipt, just in case?",
+      "turkish": "Fişi görebilir miyim, gerekirse diye?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489134"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "turkish": "İkisinin farkı ne, açıklayabilir misin?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489136"
+    },
+    {
+      "english": "Let’s check the total, not just the item.",
+      "turkish": "Toplamı kontrol edelim, sadece ürüne bakmayalım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489140"
+    },
+    {
+      "english": "Does the price include taxes, by the way?",
+      "turkish": "Bu fiyata vergi dahil mi, ayrıca?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489142"
+    },
+    {
+      "english": "Can I return it if it doesn’t fit?",
+      "turkish": "Uymassa iade edebilir miyim?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489145"
+    },
+    {
+      "english": "I’ll take it, if it matches the quality.",
+      "turkish": "Kalitesi de uygunsa, alırım.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-10T10:41:09.489147"
     }
   ],
-  "last_updated": "2026-11-09T10:45:57.805195"
+  "last_updated": "2026-11-10T10:41:09.489149"
 }
