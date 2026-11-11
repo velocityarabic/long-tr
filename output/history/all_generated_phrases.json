@@ -16559,7 +16559,727 @@
       "turkish": "Kalitesi de uygunsa, alırım.",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-10T10:41:09.489147"
+    },
+    {
+      "english": "Okay, I’m up, let’s start the day",
+      "turkish": "Tamam, kalktım, hadi güne başlayalım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333143"
+    },
+    {
+      "english": "Good morning, what time is it?",
+      "turkish": "Günaydın, saat kaç?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333157"
+    },
+    {
+      "english": "I forgot, I need my keys",
+      "turkish": "Unuttum, anahtarlarımı almam lazım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333160"
+    },
+    {
+      "english": "Wait, I’m not ready yet",
+      "turkish": "Dur, daha hazır değilim",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333163"
+    },
+    {
+      "english": "Let me grab my phone first",
+      "turkish": "Önce telefonumu alayım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333165"
+    },
+    {
+      "english": "I’m having breakfast, join me",
+      "turkish": "Kahvaltı ediyorum, gel",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333168"
+    },
+    {
+      "english": "Oops, I spilled my coffee",
+      "turkish": "Ah, kahvemi döktüm",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333170"
+    },
+    {
+      "english": "I need to shower quickly",
+      "turkish": "Hızlıca duş almam lazım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333174"
+    },
+    {
+      "english": "I’m brushing my teeth now",
+      "turkish": "Şimdi dişlerimi fırçalıyorum",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333177"
+    },
+    {
+      "english": "Where’s my bag, seriously?",
+      "turkish": "Çantam nerede, ya?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333180"
+    },
+    {
+      "english": "I’ll be right there, wait",
+      "turkish": "Az kaldı, hemen geliyorum",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333183"
+    },
+    {
+      "english": "I can’t find my charger",
+      "turkish": "Şarj aletimi bulamıyorum",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333185"
+    },
+    {
+      "english": "I’m taking the bus today",
+      "turkish": "Bugün otobüse bineceğim",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333187"
+    },
+    {
+      "english": "Is the meeting starting now?",
+      "turkish": "Toplantı şimdi başlıyor mu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333189"
+    },
+    {
+      "english": "Thanks, that really helps",
+      "turkish": "Teşekkürler, çok işe yaradı",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333193"
+    },
+    {
+      "english": "Oh, I remember now",
+      "turkish": "Aaa, hatırladım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333195"
+    },
+    {
+      "english": "I’m about to leave, bye",
+      "turkish": "Çıkıyorum, görüşürüz",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333197"
+    },
+    {
+      "english": "I’m late again, not my day",
+      "turkish": "Yine geç kaldım, şansım yok",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333200"
+    },
+    {
+      "english": "Do you have time, quick?",
+      "turkish": "Vaktin var mı, hemen?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333202"
+    },
+    {
+      "english": "I’m tired, I’ll rest a bit",
+      "turkish": "Yorgunum, biraz dinleneceğim",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333205"
+    },
+    {
+      "english": "I’ll study after lunch",
+      "turkish": "Öğle yemeğinden sonra çalışacağım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333209"
+    },
+    {
+      "english": "Let’s grab lunch, I’m hungry",
+      "turkish": "Hadi öğle yemeği yiyelim, acıktım",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333211"
+    },
+    {
+      "english": "That’s fine, go ahead",
+      "turkish": "Sorun yok, devam et",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333214"
+    },
+    {
+      "english": "I need coffee, I’m waking up",
+      "turkish": "Kahveye ihtiyacım var, uyanıyorum",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333216"
+    },
+    {
+      "english": "What’s the plan for today?",
+      "turkish": "Bugün plan ne?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333218"
+    },
+    {
+      "english": "I’ll check later, promise",
+      "turkish": "Sonra bakarım, söz",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333220"
+    },
+    {
+      "english": "Don’t worry, I’ll handle it",
+      "turkish": "Merak etme, hallederim",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333223"
+    },
+    {
+      "english": "What time do you usually leave home?",
+      "turkish": "Genelde evden saat kaçta çıkıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333225"
+    },
+    {
+      "english": "Do you drink coffee or tea in mornings?",
+      "turkish": "Sabah kahve mi içiyorsun, çay mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333228"
+    },
+    {
+      "english": "Is breakfast something you do every day?",
+      "turkish": "Kahvaltı her gün yapıyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333230"
+    },
+    {
+      "english": "How do you stay focused during the morning?",
+      "turkish": "Sabahları nasıl odaklanıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333232"
+    },
+    {
+      "english": "What’s your go-to snack between meals?",
+      "turkish": "Öğün arası en çok ne yiyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333235"
+    },
+    {
+      "english": "Do you plan your day, or go flow?",
+      "turkish": "Günün planını yapıyor musun, akışa mı bırakıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333237"
+    },
+    {
+      "english": "Can I ask, what’s your morning routine?",
+      "turkish": "Sana sorabilir miyim, sabah rutinin ne?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333240"
+    },
+    {
+      "english": "Which app do you use for reminders?",
+      "turkish": "Hatırlatmalar için hangi uygulamayı kullanıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333242"
+    },
+    {
+      "english": "Do you exercise before work or after?",
+      "turkish": "İşten önce mi egzersiz yapıyorsun, sonra mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333244"
+    },
+    {
+      "english": "What do you do first when you wake up?",
+      "turkish": "Uyandığın anda ilk ne yapıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333246"
+    },
+    {
+      "english": "Is it better to shower at night?",
+      "turkish": "Duşu akşam yapmak daha mı iyi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333248"
+    },
+    {
+      "english": "How long do you usually scroll in the morning?",
+      "turkish": "Sabahları telefonda genelde ne kadar geziniyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333250"
+    },
+    {
+      "english": "Do you pack your lunch the night before?",
+      "turkish": "Öğle yemeğini bir gün önce hazırlıyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333252"
+    },
+    {
+      "english": "What’s the toughest part of mornings for you?",
+      "turkish": "Sabahların senin için en zor kısmı ne?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333254"
+    },
+    {
+      "english": "Any advice for avoiding the morning rush?",
+      "turkish": "Sabah telaşından kaçınmak için önerin var mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333256"
+    },
+    {
+      "english": "Do you listen to music while getting ready?",
+      "turkish": "Hazırlanırken müzik dinliyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333259"
+    },
+    {
+      "english": "How do you keep your mornings organized?",
+      "turkish": "Sabahları düzenli kalmak için ne yapıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333261"
+    },
+    {
+      "english": "Should I set an alarm, or not?",
+      "turkish": "Alarm kurmam mı daha iyi, kurmayayım mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333263"
+    },
+    {
+      "english": "Where do you keep your daily essentials?",
+      "turkish": "Günlük ihtiyaçlarını nerede tutuyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333266"
+    },
+    {
+      "english": "Do you take a break after lunch?",
+      "turkish": "Öğle yemeğinden sonra kısa mola veriyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333269"
+    },
+    {
+      "english": "What’s your best trick for waking up?",
+      "turkish": "Uyanmak için en iyi taktiğin ne?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333272"
+    },
+    {
+      "english": "Do you check your calendar before anything?",
+      "turkish": "Her şeyden önce takvime bakıyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333274"
+    },
+    {
+      "english": "Can you remind me what time it starts?",
+      "turkish": "Saat kaçta başladığını bana söyler misin?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333276"
+    },
+    {
+      "english": "When you’re late, what do you do?",
+      "turkish": "Geç kaldığında ne yapıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333278"
+    },
+    {
+      "english": "Do you read news in the morning?",
+      "turkish": "Sabah haber okuyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333280"
+    },
+    {
+      "english": "How do you handle a busy morning?",
+      "turkish": "Kızışık bir sabahı nasıl yönetiyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333282"
+    },
+    {
+      "english": "Should I wash my face before brushing?",
+      "turkish": "Diş fırçalamadan önce yüzümü yıkayayım mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333284"
+    },
+    {
+      "english": "What’s your go-to order at cafés?",
+      "turkish": "Kafelerde genelde ne ısmarlıyorsun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333287"
+    },
+    {
+      "english": "Do you tidy up before leaving?",
+      "turkish": "Çıkmadan önce evi topluyor musun?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333291"
+    },
+    {
+      "english": "Any tips to make mornings calmer?",
+      "turkish": "Sabahları daha sakin yapmak için öneri var mı?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333293"
+    },
+    {
+      "english": "Small wins today, big energy tomorrow",
+      "turkish": "Bugün küçük zaferler, yarın büyük enerji",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333295"
+    },
+    {
+      "english": "Clear mind, kinder thoughts, better day",
+      "turkish": "Net zihin, nazik düşünceler, daha iyi gün",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333297"
+    },
+    {
+      "english": "Breathe, reset, and keep moving forward",
+      "turkish": "Nefes al, sıfırla, devam et",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333300"
+    },
+    {
+      "english": "Tell yourself, today is a fresh start",
+      "turkish": "Kendine söyle, bugün yepyeni bir başlangıç",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333302"
+    },
+    {
+      "english": "I’m proud of you, for starting",
+      "turkish": "Başladığın için sana gurur duyuyorum",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333305"
+    },
+    {
+      "english": "Consistency beats motivation, every single day",
+      "turkish": "Düzenlilik motivasyondan daha güçlü, her gün",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333307"
+    },
+    {
+      "english": "Give yourself credit, even for tiny steps",
+      "turkish": "Küçük adımlar için bile kendini kutla",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333310"
+    },
+    {
+      "english": "Stay positive, your effort adds up",
+      "turkish": "Pozitif kal, çaban boşa gitmez",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333312"
+    },
+    {
+      "english": "No drama, just do the next thing",
+      "turkish": "Abartma, sıradaki işi yap",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333314"
+    },
+    {
+      "english": "If it’s hard, that means you’re growing",
+      "turkish": "Zor oluyorsa, gelişiyorsun demektir",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333318"
+    },
+    {
+      "english": "Today, choose calm over chaos",
+      "turkish": "Bugün, karmaşa yerine sükuneti seç",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333321"
+    },
+    {
+      "english": "Make your routine your superpower",
+      "turkish": "Rutinini süper gücün yap",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333323"
+    },
+    {
+      "english": "Keep going, even slowly, you’re winning",
+      "turkish": "Devam et, yavaş bile olsa kazanıyorsun",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333325"
+    },
+    {
+      "english": "Swap worry for action, right now",
+      "turkish": "Endişeyi bırak, şimdi harekete geç",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333327"
+    },
+    {
+      "english": "Say it out loud, you can handle it",
+      "turkish": "Sesli söyle, üstesinden gelirsin",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333330"
+    },
+    {
+      "english": "Protect your focus, turn down distractions",
+      "turkish": "Odağını koru, dikkat dağıtıcıları kıs",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333332"
+    },
+    {
+      "english": "Let your attitude do the heavy lifting",
+      "turkish": "Sert yükü tutan tutumun olsun",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333334"
+    },
+    {
+      "english": "Every morning, you restart your story",
+      "turkish": "Her sabah, hikâyeni yeniden başlatıyorsun",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333336"
+    },
+    {
+      "english": "Thank yourself, you showed up again",
+      "turkish": "Kendine teşekkür et, yine geldin",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333338"
+    },
+    {
+      "english": "Stay gentle with yourself, keep going",
+      "turkish": "Kendine nazik ol, devam et",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333342"
+    },
+    {
+      "english": "Choose progress, not perfection, today",
+      "turkish": "Bugün ilerlemeyi seç, mükemmelliği değil",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333347"
+    },
+    {
+      "english": "Your future self is watching, do it",
+      "turkish": "Gelecekteki halin izliyor, yap bunu",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333349"
+    },
+    {
+      "english": "Keep it simple, one goal at a time",
+      "turkish": "Basit tut, hedefini tek tek yap",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333351"
+    },
+    {
+      "english": "Be proud, you’re making space for change",
+      "turkish": "Gurur duy, değişime yer açıyorsun",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333353"
+    },
+    {
+      "english": "When doubts hit, return to your plan",
+      "turkish": "Şüphe gelince planına geri dön",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333355"
+    },
+    {
+      "english": "You’re learning fast, trust the process",
+      "turkish": "Hızlı öğreniyorsun, sürece güven",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333358"
+    },
+    {
+      "english": "I feel calmer, after I write things down.",
+      "turkish": "Yazınca daha sakin hissediyorum, içim rahatlıyor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333360"
+    },
+    {
+      "english": "Honestly, I need a few quiet minutes.",
+      "turkish": "Dürüst olayım, biraz sessizliğe ihtiyacım var.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333409"
+    },
+    {
+      "english": "When I’m stressed, I go slower.",
+      "turkish": "Stresliysem, daha yavaş ilerliyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333412"
+    },
+    {
+      "english": "I don’t rush, I do it step by step.",
+      "turkish": "Acele etmiyorum, adım adım yapıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333414"
+    },
+    {
+      "english": "I notice myself, then I adjust my plan.",
+      "turkish": "Kendimi fark ediyorum, sonra planımı ayarlıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333417"
+    },
+    {
+      "english": "Some days, I’m not okay, and that’s fine.",
+      "turkish": "Bazı günler iyi değilim, sorun değil.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333420"
+    },
+    {
+      "english": "I try again, even if I mess up.",
+      "turkish": "Hata yaparsam bile yeniden deniyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333422"
+    },
+    {
+      "english": "I forgive myself, before I chase productivity.",
+      "turkish": "Verimlilikten önce kendimi affediyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333446"
+    },
+    {
+      "english": "I don’t compare, it drains my energy.",
+      "turkish": "Karşılaştırmıyorum, enerjimi düşürüyor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333449"
+    },
+    {
+      "english": "I pause, then decide what matters most.",
+      "turkish": "Duruyorum, sonra en önemli şeye karar veriyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333452"
+    },
+    {
+      "english": "I feel proud, when I keep my promises.",
+      "turkish": "Sözümü tutunca kendimle gurur duyuyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333454"
+    },
+    {
+      "english": "My mornings teach me patience, not speed.",
+      "turkish": "Sabahlar bana sabrı öğretiyor, hızlı olmayı değil.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333456"
+    },
+    {
+      "english": "I check in with myself, before I scroll.",
+      "turkish": "Kaydırmadan önce kendimi yokluyorum, ne hissediyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333459"
+    },
+    {
+      "english": "If I miss a step, I restart gently.",
+      "turkish": "Bir adımı kaçırırsam, nazikçe yeniden başlıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333462"
+    },
+    {
+      "english": "I’m learning to listen to my body.",
+      "turkish": "Vücudumu dinlemeyi öğreniyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333464"
+    },
+    {
+      "english": "I don’t need perfect, I need honest effort.",
+      "turkish": "Mükemmel olmak zorunda değilim, içten çaba yeter.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333467"
+    },
+    {
+      "english": "I talk to myself kindly, then move on.",
+      "turkish": "Kendime nazikçe konuşuyorum, sonra devam ediyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333469"
+    },
+    {
+      "english": "Sometimes I’m tired, so I lower expectations.",
+      "turkish": "Bazen yoruluyorum, o yüzden beklentiyi düşürüyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333472"
+    },
+    {
+      "english": "I keep it real, I can’t do everything.",
+      "turkish": "Gerçekçi olayım, her şeyi yapamam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333477"
+    },
+    {
+      "english": "I choose one thing, and stop there.",
+      "turkish": "Bir şey seçiyorum, gerisini bırakıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333479"
+    },
+    {
+      "english": "I reflect at night, so I don’t overthink.",
+      "turkish": "Geceleri düşünüp taşınmamak için kendimi toparlıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333482"
+    },
+    {
+      "english": "I’m proud of progress, not a spotless day.",
+      "turkish": "Hatasız bir gün değil, ilerleme beni gururlandırıyor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333484"
+    },
+    {
+      "english": "I let emotions pass, then I act calmly.",
+      "turkish": "Duygular geçsin, sonra sakin sakin harekete geçiyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333487"
+    },
+    {
+      "english": "I notice bad moods, and I don’t fight them.",
+      "turkish": "Kötü modumu fark ediyorum, savaşmıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333489"
+    },
+    {
+      "english": "When life feels messy, I go back to basics.",
+      "turkish": "Hayat karışınca, temel şeylere dönüyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333491"
+    },
+    {
+      "english": "I write feelings, then I can breathe again.",
+      "turkish": "Duyguları yazınca, tekrar nefes alabiliyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333493"
+    },
+    {
+      "english": "I trust small routines, they build my confidence.",
+      "turkish": "Küçük rutinlere güveniyorum, özgüvenim artıyor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333497"
+    },
+    {
+      "english": "I don’t wait for motivation, I start anyway.",
+      "turkish": "Motivasyon beklemiyorum, yine de başlıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333500"
+    },
+    {
+      "english": "I respect my pace, and I keep showing up.",
+      "turkish": "Kendi hızımı önemsiyorum, yine de geliyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333502"
+    },
+    {
+      "english": "Today, I’m honest about what I can do.",
+      "turkish": "Bugün, yapabileceklerime karşı dürüstüm.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333505"
+    },
+    {
+      "english": "Before work, I drink water, then I breathe.",
+      "turkish": "İşe başlamadan önce su içiyorum, sonra nefes alıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333507"
+    },
+    {
+      "english": "What’s your plan for today, after lunch?",
+      "turkish": "Öğle yemeğinden sonra bugün planın ne?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333510"
+    },
+    {
+      "english": "I set a timer, so I don’t drift.",
+      "turkish": "Zamanlayıcı kuruyorum, dağılıp gitmiyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333512"
+    },
+    {
+      "english": "If I’m late, I text first, no panic.",
+      "turkish": "Gecikirsem önce mesaj atarım, paniğe kapılmam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333515"
+    },
+    {
+      "english": "After dinner, I tidy up for ten minutes.",
+      "turkish": "Akşam yemeğinden sonra on dakika toparlıyorum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333517"
+    },
+    {
+      "english": "When friends call, I say, give me a sec.",
+      "turkish": "Arkadaşlar arayınca, bir saniye derim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333520"
+    },
+    {
+      "english": "I keep my bag ready, keys and wallet.",
+      "turkish": "Çantam hazır dursun, anahtar ve cüzdan olsun.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:32.333522"
     }
   ],
-  "last_updated": "2026-11-10T10:41:09.489149"
+  "last_updated": "2026-11-11T10:09:32.333524"
 }
