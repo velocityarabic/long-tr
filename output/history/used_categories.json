@@ -1,1 +1,101 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Family & Home",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Motivation",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Patience",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Hope",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Confidence",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2020-01-24"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:21.742532"
+}
