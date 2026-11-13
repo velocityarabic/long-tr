@@ -17279,7 +17279,399 @@
       "turkish": "Çantam hazır dursun, anahtar ve cüzdan olsun.",
       "category": "Daily Routine",
       "generated_at": "2026-11-11T10:09:32.333522"
+    },
+    {
+      "english": "Hi, can I get a latte?",
+      "turkish": "Merhaba, bir latte alabilir miyim?",
+      "transliteration": "MeRhaBA, bir laTte alaBİLir miYIM?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Do you have vegan pastries today?",
+      "turkish": "Bugün vegan pasta var mı?",
+      "transliteration": "BUgün veGan PAS ta var mı?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Is the almond croissant fresh?",
+      "turkish": "Bademli kruvasan taze mi?",
+      "transliteration": "BAdemli kruvasan TAze mi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Could I get it to go, please?",
+      "turkish": "Bunu paket yapabilir misiniz, lütfen?",
+      "transliteration": "BUnu paKET yaPABİLir miSI NİZ, lütfen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "What’s your house coffee like?",
+      "turkish": "Ev kahveniz nasıl bir tat?",
+      "transliteration": "EV kaHveNİZ naSIL bir tat?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Do you offer oat milk?",
+      "turkish": "Yulaf sütü var mı?",
+      "transliteration": "YUlaf sütü var mı?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Is there free Wi-Fi here?",
+      "turkish": "Burada ücretsiz Wi-Fi var mı?",
+      "transliteration": "BUraDa ÜCretSİZ Wi-Fi var mı?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I think I need an ambulance now.",
+      "turkish": "Sanırım ambulans çağırmamız gerekiyor.",
+      "transliteration": "SAN-sırım am-BU-lans ça-ĞIR-ma-mız ge-re-ki-yor",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "My chest hurts, it started suddenly.",
+      "turkish": "Göğsüm ağrıyor, birden başladı.",
+      "transliteration": "GÖĞ-süm AĞ-rı-yor, bir-DEN baş-la-dı",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Please, call emergency services for me.",
+      "turkish": "Lütfen benim için 112 yi arar mısınız?",
+      "transliteration": "LÜT-fen be-nim i-ÇİN yü-ZƏT ik-i-yi a-RAR mı-sı-nız",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I can't breathe, I'm wheezing.",
+      "turkish": "Nefes alamıyorum, hırıltım var.",
+      "transliteration": "NE-fes a-la-MI-yor-um, hı-RIL-tım var",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I swallowed something, I feel stuck.",
+      "turkish": "Bir şey yuttum, boğazımda kaldı.",
+      "transliteration": "bir ŞEY YU Ttum, bo-ĞA-zım-da kal-dı",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I think I'm having an allergic reaction.",
+      "turkish": "Alerjik bir reaksiyon yaşıyor olabilirim.",
+      "transliteration": "a-LER-jik bir re-AK-sİ-yon ya-Şı-yor o-la-bi-lir-im",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "My face is swelling, it's scary.",
+      "turkish": "Yüzüm şişiyor, çok korkutucu.",
+      "transliteration": "YÜ-züm Şİ-şi-yor, çok KORK-u-tu-cu",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "turkish": "Bunu yapabilirim, adım adım.",
+      "transliteration": "BU-NU YA-pa-Bİ-LİRİM, ADIM ADIM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Tell me the plan, I’m in.",
+      "turkish": "Bana planı söyle, ben hazırım.",
+      "transliteration": "BA-na PLA-ni SÖYLE, BEN HA-ZI-RIM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m scared, but I’ll try anyway.",
+      "turkish": "Korkuyorum, ama yine de deneyeceğim.",
+      "transliteration": "KO-KU-YO-RUM, a-MA YİNE DE DE-NE-ye-CEĞİM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Hold my hand, I need courage.",
+      "turkish": "Elimi tut, cesarete ihtiyacım var.",
+      "transliteration": "E-li-mi TUT, CE-SA-re-te İH-Tİ-YA-CIM VAR.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Let’s do it now, no overthinking.",
+      "turkish": "Hemen yapalım, fazla düşünmeyelim.",
+      "transliteration": "HE-MEN YA-pa-LIM, FA-zla DÜ-ŞÜN-me-ye-LİM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’ll speak up, even if it’s hard.",
+      "turkish": "Zor olsa bile konuşacağım, sesimi çıkaracağım.",
+      "transliteration": "ZOR OL-SA Bİ-le KO-NU-ŞA-CAM, SESİ-mi ÇI-KA-ra-CAM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m not backing down today.",
+      "turkish": "Bugün geri adım atmayacağım.",
+      "transliteration": "BU-GÜN GE- ri A-DIM AT-ma-ya-CA-ĞIM.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m stronger than my excuses.",
+      "turkish": "Bahanelerimden daha güçlüyüm.",
+      "transliteration": "BahaneLerimden daha GÜÇlüyüm.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Take it slow, but keep going.",
+      "turkish": "Yavaş ilerle, ama gücünü koru.",
+      "transliteration": "YavaŞ iLerle, a ma GÜÇünü koru.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "My focus is my real strength.",
+      "turkish": "Gerçek gücüm odağımda.",
+      "transliteration": "GeRÇEK gücüm ODAğımda.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Stand up for yourself today.",
+      "turkish": "Bugün kendin için ayağa kalk.",
+      "transliteration": "BuGÜn kenDIN iÇin ay aĞa kalk.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I choose calm over force.",
+      "turkish": "Güç kullanmak yerine sakinliği seçiyorum.",
+      "transliteration": "GÜÇ kulLanmak yeRine saKINliĞi seÇi yoRum.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "It takes courage, not perfection.",
+      "turkish": "Mükemmel olmak değil, cesaret gerekir.",
+      "transliteration": "MÜKemmel olMak deĞil, ceSARet geREKir.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Tell me honestly, I can handle it.",
+      "turkish": "Dürüst ol, kaldırırım.",
+      "transliteration": "DÜRÜST ol, kalDIrırım.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m learning by doing every day.",
+      "turkish": "Her gün yaparak öğreniyorum,",
+      "transliteration": "Her gün YAParak öğRENiyorum,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Small steps, big progress, today.",
+      "turkish": "Bugün küçük adımlar, büyük ilerleme,",
+      "transliteration": "Bugün küÇÜk aDImlar, büYÜk İleRleme,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I upgraded my habits, not my excuses.",
+      "turkish": "Mazeretimi değil, alışkanlıklarımı geliştirdim,",
+      "transliteration": "MazerETimi deĞİl, aLIIşkanlıklaRIMI geLİşTİRdiM,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Therapy helped me notice my patterns.",
+      "turkish": "Terapi, kalıplarımı fark etmeme yardım etti,",
+      "transliteration": "TeRApi, kaLIplaRIMI fark etmeME yarDIm etTI,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I can handle slow growth.",
+      "turkish": "Yavaş gelişimi yönetebilirim,",
+      "transliteration": "YAvaş geLİşimi yöNEtebiLİRİm,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I practice, even when I’m tired.",
+      "turkish": "Yorgun olsam bile pratik yapıyorum,",
+      "transliteration": "YORgun olsam BİLE praTİK yaPıyoRum,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Today I’m building my confidence.",
+      "turkish": "Bugün özgüvenimi inşa ediyorum,",
+      "transliteration": "BuGÜn özGÜveNİmi İnşa EDIyoRUM,",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Small steps beat perfect plans.",
+      "turkish": "Küçük adımlar, mükemmel planlardan daha iyi.",
+      "transliteration": "KÜÇÜK adIMlar, MÜKemmEL planlarDan DAha İYİ.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I shipped it, and I’m proud.",
+      "turkish": "Gönderdim, buna gerçekten gurur duyuyorum.",
+      "transliteration": "GÖNderDİM, buNA gerÇEKten guRUR DUyuYORum.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "My discipline shows up every day.",
+      "turkish": "Disiplinim her gün kendini gösteriyor.",
+      "transliteration": "diSİpliNİm her GÜN kenDiNİ GÖsteRIYOR.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I learn fast when I review.",
+      "turkish": "Gözden geçirince hızla öğreniyorum.",
+      "transliteration": "GÖzDEN geÇiRiNCE hIZla ÖĞreNIyoRum.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Progress feels better than applause.",
+      "turkish": "İlerlemek, alkıştan daha iyi hissettiriyor.",
+      "transliteration": "İleRlemek, alKıştan DAha iYİ hisSETtiRIyor.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "One focus hour changes everything.",
+      "turkish": "Tek bir odak saati her şeyi değiştiriyor.",
+      "transliteration": "TEK bir oDAK SAaTI her ŞEYİ deĞİŞTİRIyor.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I said yes to the hard thing.",
+      "turkish": "Zor olan şeye evet dedim.",
+      "transliteration": "ZOR oLAN şeYe eVET deDiM.",
+      "category": "Success",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Absolutely, I’m with you on this.",
+      "turkish": "Kesinlikle, bunda seninleyim.",
+      "transliteration": "KesINlikle, bunda seninLeyesim.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I agree, let’s do it today.",
+      "turkish": "Katılıyorum, bunu bugün yapalım.",
+      "transliteration": "KaTILIyorum, bunU bugÜn yapalım.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "No, I don’t think that’s true.",
+      "turkish": "Hayır, bence bu doğru değil.",
+      "transliteration": "Hayır, bence bu DOĞru deĞil.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Sure, I’ll join your plan.",
+      "turkish": "Tabii, planına katılacağım.",
+      "transliteration": "TAbiİ, plaNına kaTILAcağım.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m not convinced, honestly.",
+      "turkish": "Açıkçası ikna olmadım.",
+      "transliteration": "AÇıkçası ikna olmaDım.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Yeah, I think you’re right.",
+      "turkish": "Evet, haklısın bence.",
+      "transliteration": "Evet, HAklısın bence.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I disagree, that won’t work.",
+      "turkish": "Katılmıyorum, bu iş görmez.",
+      "transliteration": "KaTILmiyorum, bu iş görMEZ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Thank you for checking on me.",
+      "turkish": "Beni kontrol ettiğin için teşekkür ederim.",
+      "transliteration": "Beni kontrol et-ti-ğin için te-Şek-kür e-de-rim.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I really appreciate your help today.",
+      "turkish": "Bugün bana yardım ettiğin için çok teşekkür ederim.",
+      "transliteration": "Bu-gün ba-na yar-dım et-ti-ğin için çok te-Şek-kür e-de-rim.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Thanks for your quick reply.",
+      "turkish": "Hızlı geri dönüşün için teşekkürler.",
+      "transliteration": "Hız-lı ge-ri dö-nü-şün için te-Şek-kür-ler.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I’m grateful you listened to me.",
+      "turkish": "Beni dinlediğin için şükran duyuyorum.",
+      "transliteration": "Be-ni din-le-di-ğin için şük-ran du-yu-yo-rum.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Thank you, that means a lot.",
+      "turkish": "Teşekkür ederim, bu benim için çok şey ifade ediyor.",
+      "transliteration": "Te-Şek-kür e-de-rim, bu be-nim i-çin çok şey i-fa-de e-di-yor.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Thanks for making time for me.",
+      "turkish": "Benim için zaman ayırdığın için teşekkür ederim.",
+      "transliteration": "Be-nim i-çin za-man a-yır-dı-ğın için te-Şek-kür e-de-rim.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "Thank you for the kind words.",
+      "turkish": "Nazik sözlerin için teşekkür ederim.",
+      "transliteration": "Na-zik söz-le-rin için te-Şek-kür e-de-rim.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T00:43:52.698224"
     }
   ],
-  "last_updated": "2026-11-11T10:09:32.333524"
+  "last_updated": "2026-11-13T00:43:52.698224"
 }
