@@ -17671,7 +17671,399 @@
       "transliteration": "Na-zik söz-le-rin için te-Şek-kür e-de-rim.",
       "category": "Gratitude",
       "generated_at": "2026-11-13T00:43:52.698224"
+    },
+    {
+      "english": "I keep going, even after setbacks.",
+      "turkish": "Ben devam ediyorum, aksiliklerden sonra bile.",
+      "transliteration": "Ben DEVAM ediYORUM, akSİLİKlerDEN sonRA biLE.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Slow progress still beats quitting.",
+      "turkish": "Yavaş ilerlemek bile vazgeçmekten iyi.",
+      "transliteration": "YaVAŞ ilerLEmek biLE vaZGEÇmekten iYİ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "One more try, then I rest.",
+      "turkish": "Bir deneme daha, sonra dinleniyorum.",
+      "transliteration": "Bir deNEME daHA, SONra diNLENİYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I focus, and I don't stop.",
+      "turkish": "Odaklanıyorum, durmuyorum.",
+      "transliteration": "OdaKLAniYOrum, DURMUYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I learned to try again daily.",
+      "turkish": "Her gün tekrar denemeyi öğrendim.",
+      "transliteration": "Her GÜN tekRAR deNEMEyi öğRENdiM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Even when it's hard, I persist.",
+      "turkish": "Zor olsa bile, devam ediyorum.",
+      "transliteration": "Zor olSA biLE, deVAM eDiYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I won't quit on a bad day.",
+      "turkish": "Kötü bir günde bile vazgeçmem.",
+      "transliteration": "KöTÜ biR GÜNde biLE vaZGEÇmem.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Happy birthday, have a great night!",
+      "turkish": "Doğum günün kutlu olsun, harika bir gece olsun!",
+      "transliteration": "DOGUM guNUN kutlu OLSUN, HARIKA bir GECE olSUN!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Come on over, dinner starts at seven.",
+      "turkish": "Hadi gel, akşam yemeği yedi de başlıyor.",
+      "transliteration": "HAdi GEL, akŞAM yeMEĞİ yeDi de BAŞLIyor.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "This toast is for our friendship.",
+      "turkish": "Bu kadeh, dostluğumuz için.",
+      "transliteration": "bu KAdeH, dostLUĞuMuz iÇİN.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I brought cupcakes, do you want one?",
+      "turkish": "Küçük kekler getirdim, bir tane ister misin?",
+      "transliteration": "KÜÇÜk kekLER GETİRdim, bir TAne isTER miSİN?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Can I help you with the setup?",
+      "turkish": "Kurulumda sana yardımcı olabilir miyim?",
+      "transliteration": "KUruLMaDA saNа yarDIMcı OLA biLİR miYİM?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "The party’s in the living room.",
+      "turkish": "Parti salonda, hepiniz buradayken harika.",
+      "transliteration": "PARti saLONda, hepİniZ buradayKEN haRİka.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Thanks for inviting me, I’m so excited.",
+      "turkish": "Beni davet ettiğin için teşekkürler, çok heyecanlıyım.",
+      "transliteration": "beNi daVET etTİĞİN iÇİN teŞekKÜrLER, ÇOK hEyecANLIyım.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "After you, please.",
+      "turkish": "Önce siz, lütfen.",
+      "transliteration": "ÖNCE siz, LÜTFEN.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Your time is appreciated.",
+      "turkish": "Zamanınızı ayırdığınız için teşekkür ederim.",
+      "transliteration": "Zamanınızı ayırdığınız için TEŞEKKÜR eDERİM.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "That was really considerate.",
+      "turkish": "Bu kadar nazik düşündüğünüz için teşekkür ederim.",
+      "transliteration": "Bu kaDAR NAhik düŞÜNDÜĞÜNÜZ için TEŞEKKÜR eDERİM.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Would you like some help?",
+      "turkish": "Size yardımcı olmamı ister misiniz?",
+      "transliteration": "SiZE yardımcı olmamı iSTER miSiNİZ?",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "turkish": "Acele etmeyin, zamanınız var.",
+      "transliteration": "AHeLE etmeyin, ZAmanınız var.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean it.",
+      "turkish": "Üzgünüm, bunu kastetmemiştim.",
+      "transliteration": "ÜZGÜNÜM, Bunu KASTetmemiştim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Thanks for being patient with me.",
+      "turkish": "Benimle bu kadar sabırlı olduğunuz için teşekkür ederim.",
+      "transliteration": "BeNİMLE bu kaDAR saBRLI olduğunuz için TEŞEKKÜR eDERİM.",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m feeling good today, for real.",
+      "turkish": "Bugün kendimi gerçekten iyi hissediyorum.",
+      "transliteration": "BUgün kendimi GERçekten İYİ hissediyorum.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "This song always puts me in a good mood.",
+      "turkish": "Bu şarkı beni her zaman iyi bir ruh haline sokuyor.",
+      "transliteration": "BU şarKİ beNI her Zaman İYİ bir RUH haLiNE SOKUyor.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Let’s go out, I need some sunshine.",
+      "turkish": "Dışarı çıkalım, biraz güneş lazım bana.",
+      "transliteration": "dıŞAarı çıKaLIM, biRAZ GÜneş LAZım baNA.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "My coffee tastes like a small victory.",
+      "turkish": "Kahvemin tadı küçük bir zafer gibi.",
+      "transliteration": "KAhvEmin TAdı küÇük bir zaFER giBi.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I laughed so hard, I forgot everything.",
+      "turkish": "Öyle güldüm ki her şeyi unuttum.",
+      "transliteration": "ÖyLE GÜlDÜm ki HER şeYİ unUTtum.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Your message made my whole day better.",
+      "turkish": "Mesajın tüm günümü güzelleştirdi.",
+      "transliteration": "MEsaJın tüm GÜNÜmü güZELleşTİRdi.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m in the mood to celebrate tonight.",
+      "turkish": "Bu gece kutlama havasındayım.",
+      "transliteration": "Bu GEce kuTLAma haVASınDAYım.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I came here to help today.",
+      "turkish": "Bugün yardımcı olmak için geldim.",
+      "transliteration": "BÜgün yaRDIMcı olMAK iÇİN GELdim.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "My goal is simple, stay on track.",
+      "turkish": "Hedefim basit, rotada kalmak.",
+      "transliteration": "HEdefim baSİT, ROtada kalMAK.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I want this resolved by Friday.",
+      "turkish": "Bunu Cuma'ya kadar çözmek istiyorum.",
+      "transliteration": "BUnu CUma'YA kaDAR ÇÖzmek isTIyoRUM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m calling to confirm your appointment.",
+      "turkish": "Randevunuzu teyit etmek için arıyorum.",
+      "transliteration": "ranDEvuNuzu teyİT etMEK iÇİN aRıyoRUM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m studying to switch careers.",
+      "turkish": "Kariyerimi değiştirmek için çalışıyorum.",
+      "transliteration": "kaRIyeRİmi deĞİŞtirMEK iÇİN ÇALIşıyoRUM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I joined this class to meet people.",
+      "turkish": "Bu kursa insanlarla tanışmak için katıldım.",
+      "transliteration": "bu KURsa inSANlarLA taNIŞmak iÇİN kaTILdım.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m here to learn, not to judge.",
+      "turkish": "Buradayım, öğrenmek için, yargılamak için değil.",
+      "transliteration": "buRADayım, öğRENmek iÇİN, yarGIlaMAdım.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "We share simit with neighbors.",
+      "turkish": "Komşularla simit paylaşırız.",
+      "transliteration": "KOMŞUlarLA SIMit PAYLAŞırız.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "On Fridays, we prepare manti.",
+      "turkish": "Cuma günleri mantı hazırlıyoruz.",
+      "transliteration": "CUma GÜNleRi manTI HAZIRLIyoruz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "During Ramadan, we break fast together.",
+      "turkish": "Ramazan’da birlikte iftar açıyoruz.",
+      "transliteration": "RAmaZAN’DA BİRLİKTE İFTAR AÇIyoruz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "We greet elders with extra respect.",
+      "turkish": "Yaşlılara daha fazla saygıyla selam veririz.",
+      "transliteration": "YAŞlıLAra DAha FAZla SAYGıyLA SELAM VERİRiz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Tea always comes first at visits.",
+      "turkish": "Ziyarette önce çay ikram edilir.",
+      "transliteration": "ZİYArette ÖNCE ÇAY İKRAM eDİLİR.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "We exchange small gifts during holidays.",
+      "turkish": "Bayramlarda küçük hediyeler veririz.",
+      "transliteration": "BAYramlarDA KÜÇÜK heDIYeler VEriRİZ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "At weddings, we dance all night.",
+      "turkish": "Düğünlerde sabaha kadar dans ederiz.",
+      "transliteration": "DÜĞÜNlerDE SAbaHA kaDar dans EDeRİZ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I pause, then I decide.",
+      "turkish": "Duruyorum, sonra karar veriyorum.",
+      "transliteration": "DuRU-Yo-RUM, SON-ra KA-RAR ve-RE-Yo-RUM",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "We’ll balance work and rest.",
+      "turkish": "İşi ve dinlenmeyi dengeleyelim.",
+      "transliteration": "İ-Sİ ve diNLenME-Yİ DEN-Ge-Le-YE-lim",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Keep your cool, stay balanced.",
+      "turkish": "Sakin kal, dengen bozulmasın.",
+      "transliteration": "SA-kin kal, den-gen bo-ZUL-MA-sın",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Let’s talk, not argue.",
+      "turkish": "Konuşalım, tartışmayı dengeleyelim.",
+      "transliteration": "Ko-Nu-ŞA-lım, TAR-tış-ma-YI denGE-le-YE-lim",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I split it fairly, evenly.",
+      "turkish": "Adil böldüm, dengeyi korudum.",
+      "transliteration": "A-dil BÖL-DÜM, DEN-ge-yİ ko-RU-DUM",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "One step at a time, okay?",
+      "turkish": "Birer adım, dengen tam olsun.",
+      "transliteration": "BiR-er A-dım, den-gen TAM ol-SUN",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Too much is harmful, right?",
+      "turkish": "Aşırıya kaçma, dengeyi tut.",
+      "transliteration": "A-ŞI-RI-ya KAÇ-ma, denGE-yİ tut",
+      "category": "Balance",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I feel nervous before meetings.",
+      "turkish": "Toplantıdan önce gergin hissediyorum.",
+      "transliteration": "Toplan-TI-DAN Ön-ce GER-gin his-SE-dyo-rum",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m relieved the problem is solved.",
+      "turkish": "Sorun çözüldü, içim rahatladı.",
+      "transliteration": "SO-run çö-ZÜL-DÜ, i-CİM ra-haTLA-dı",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m proud of how you handled it.",
+      "turkish": "Bunu nasıl yönettiğine gerçekten gurur duydum.",
+      "transliteration": "Bu-nu NA-sıl YÖN-et-ti-ği-ne ger-çek-ten GU-rur duy-dum",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Right now, I feel lonely.",
+      "turkish": "Şu an yalnız hissediyorum.",
+      "transliteration": "Şu AN ya-NI-z his-SE-dyo-rum",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I get angry when plans change.",
+      "turkish": "Planlar değişince sinirleniyorum.",
+      "transliteration": "PLAN-lar de-Gİ-ğin-ce si-NİR-le-ni-yo-rum",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "That news made me sad.",
+      "turkish": "O haber beni üzdü.",
+      "transliteration": "O HA-ber be-ni ÜZ-DÜ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "I’m excited to try this today.",
+      "turkish": "Bugün denemek için heyecanlıyım.",
+      "transliteration": "Bu-GÜN de-ne-mek i-ÇİN HEY-e-can-lı-yım",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T00:31:37.289720"
     }
   ],
-  "last_updated": "2026-11-13T00:43:52.698224"
+  "last_updated": "2026-11-14T00:31:37.289720"
 }
