@@ -18063,7 +18063,399 @@
       "transliteration": "Bu-GÜN de-ne-mek i-ÇİN HEY-e-can-lı-yım",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-14T00:31:37.289720"
+    },
+    {
+      "english": "Set one small goal today",
+      "turkish": "Bugün bir küçük hedef koy, tamam",
+      "transliteration": "Bugün bir KÜÇÜK hedef KOY, TAMAM",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Track habits, not your mood",
+      "turkish": "Ruh halin değil, alışkanlıklarını takip et",
+      "transliteration": "Ruh HALİN değil, alışkanlıklarını TAKİP et",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Read 10 minutes before scrolling",
+      "turkish": "Kaydırmadan önce on dakika oku, sonra devam",
+      "transliteration": "Kaydırmadan ÖNCE on DAKİKA oku, SONRA devam",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Ask better questions in meetings",
+      "turkish": "Toplantıda daha iyi sorular sor, çekinme",
+      "transliteration": "Toplantıda DAHA iyi SORular sor, ÇEKİNME",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Say thank you, often",
+      "turkish": "Çok sık teşekkür et, küçük şeyleri bile",
+      "transliteration": "ÇOK sık TEŞEKKÜR et, küÇÜK şeyleri bile",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Turn problems into one next step",
+      "turkish": "Sorunu değil, bir sonraki adımı düşün",
+      "transliteration": "Sorunu değil, bir sonraki ADIMI düşün",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Protect your mornings",
+      "turkish": "Sabahlarını koru, ilk saatleri boş bırakma",
+      "transliteration": "Sabahlarını KORU, ilk SAATleri boş BIRAKMA",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Is this bus going downtown?",
+      "turkish": "Bu otobüs merkeze gidiyor mu?",
+      "transliteration": "Bu OTOBÜS merkeze gIDİyor mu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Which platform does the tram leave from?",
+      "turkish": "Tramvay hangi platformdan kalkıyor?",
+      "transliteration": "TRAMVAY hangi PLATformdan KALKIyor?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "How much is a single ride?",
+      "turkish": "Tek biniş ne kadar?",
+      "transliteration": "TEK biNIŞ ne KA-dar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Do I need to tap my card?",
+      "turkish": "Kartımı okutmam gerekiyor mu?",
+      "transliteration": "kartımı o-KUTmam GEREkiyor mu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "turkish": "Bilet nereden alabilirim?",
+      "transliteration": "Bİlet neRExden aLAbiLİRİM?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Does the metro run all night?",
+      "turkish": "Metro gece boyunca çalışıyor mu?",
+      "transliteration": "METro geCe boYUNca ÇaLIŞIyor mu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "What time is the next bus?",
+      "turkish": "Bir sonraki otobüs ne zaman geliyor?",
+      "transliteration": "Bir SONRAki oTOBÜS ne zaMAN geLIyor?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I need to check my balance.",
+      "turkish": "Bakiye kontrolüne ihtiyacım var.",
+      "transliteration": "BAKIYE kon-tro-lü-ne iH-TI-ya-cım var.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Can I withdraw cash from this ATM?",
+      "turkish": "Bu ATM’den para çekebilir miyim?",
+      "transliteration": "Bu ATMs-den PA-ra çeke-bi-lir MI-yim?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "The card was declined again.",
+      "turkish": "Kartım yine reddedildi.",
+      "transliteration": "Kar-TIM ye-ni RED-de-diL-di.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "What’s the exchange rate today?",
+      "turkish": "Bugün döviz kuru kaç?",
+      "transliteration": "Bu-GÜN DÖ-viz KU-ru kaç?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Please charge it to my account.",
+      "turkish": "Lütfen hesabıma yansıtın.",
+      "transliteration": "LÜt-fen he-SA-bı-ma yan-SIT-ın.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I want to transfer money right now.",
+      "turkish": "Şimdi para transferi yapmak istiyorum.",
+      "transliteration": "Şİm-di pa-ra trans-FE-ri yap-MAK is-ti-YO-rum.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "How long does an international transfer take?",
+      "turkish": "Uluslararası transfer ne kadar sürer?",
+      "transliteration": "U-lu-la-ra-ra-SI trans-FE r ne ka-dar sü-rer?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "My morning coffee brings fresh ideas.",
+      "turkish": "Sabah kahvemi içince aklıma yeni fikirler geliyor.",
+      "transliteration": "SaBaH KAHveMi iCinCe aklIma yeNi FikirLer geLi yor.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "A walk through town clears my mind.",
+      "turkish": "Kasabada yürüyüşe çıkınca ilham kendini buluyor.",
+      "transliteration": "KA saBaDA yüRüYüS e çıkInCA ilHaM kenDiNi buLu yor.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Play a song, and start creating.",
+      "turkish": "Bir şarkı aç, sonra üretmeye başla.",
+      "transliteration": "Bir şarKı aÇ, sonRa üreTMeYe başLa.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I write one small goal today.",
+      "turkish": "Bugün tek bir küçük hedef yazıyorum, ilham da geliyor.",
+      "transliteration": "BuGün tek bir küÇük HEdef yaZı yoRum, ilHaM da geLi yor.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "The city lights spark my curiosity.",
+      "turkish": "Şehir ışıkları merakımı kıvılcımlandırıyor.",
+      "transliteration": "ŞEHir IŞıkLarı meRakımı kıVılCım lanDI rı yor.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Text your friend, ask for ideas.",
+      "turkish": "Bir arkadaşına mesaj at, fikir sor, ilham akıyor.",
+      "transliteration": "Bir arKadaşI nA meSAJ at, Fikir sor, ilHaM aKı yor.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I keep a pocket notebook for moments.",
+      "turkish": "Cebimde küçük bir defter taşıyorum, aniden ilham yakalıyorum.",
+      "transliteration": "CeBim de küÇük bir defTer taŞı yoRum, aNiden ilHaM yaKalı yoRum.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Are you seeing anyone right now?",
+      "turkish": "Şu an biriyle görüşüyor musun?",
+      "transliteration": "Şu an BİRİYle göRÜŞÜYOR muSUN?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I like your vibe, it’s easy.",
+      "turkish": "Senin enerjin hoşuma gidiyor, yanında rahatım.",
+      "transliteration": "seNİN E-nejİN hoşuMA GİDİYOR, yaNINDA raHATIM.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Can I steal you for coffee?",
+      "turkish": "Seni bir kahveye alabilir miyim?",
+      "transliteration": "seNİ bir KA-Hveye alaBİLİR miYİM?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Your smile brightens my day.",
+      "turkish": "Gülüşün günümü aydınlatıyor.",
+      "transliteration": "güLÜŞÜN güNÜ-mü ayDINlaTIyor.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Let’s keep talking, I’m enjoying this.",
+      "turkish": "Konuşmaya devam edelim, keyfim yerine geliyor.",
+      "transliteration": "koNUŞmaYA devaM eDE-LİM, KEYfIM yeRİne geLİYOR.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I’m not rushing, I just like you.",
+      "turkish": "Acele etmiyorum, sadece senden hoşlanıyorum.",
+      "transliteration": "a-ce-le ETMIyoRUM, saDEceN senden hoşLaNIyoRUM.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "You make me feel calm and safe.",
+      "turkish": "Yanında kendimi güvende hissediyorum.",
+      "transliteration": "yaNINda kenDİmi güVENG-de HİSse-DİYO-RUM.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Hi, it’s me, I’m calling now.",
+      "turkish": "Merhaba, ben arıyorum, şimdi.",
+      "transliteration": "MaRHabA, ben aRıYoRum, ŞİMdi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Can you talk for a minute?",
+      "turkish": "Bir dakika konuşabilir misin, lütfen?",
+      "transliteration": "Bir daKİka konuşA biLİr mi sin, lÜtFen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I missed your call, sorry!",
+      "turkish": "Aramanı kaçırdım, kusura bakma.",
+      "transliteration": "A raMa nı kaÇIrdım, kuSuRa baKma.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Where are you right now?",
+      "turkish": "Şu an nerdesin, söyleyebilir misin?",
+      "transliteration": "Şu an nerDe sİn, söy le yE bi lir mi sin?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I’m running late, call me back.",
+      "turkish": "Geç kalıyorum, beni geri ara.",
+      "transliteration": "Geç kaLıYoRum, be ni ge ri aRa.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "The signal is bad, can you hear me?",
+      "turkish": "Çekmiyor, beni duyuyor musun?",
+      "transliteration": "Çek mİyOr, be ni duYu yor mu sun?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I’ll send you the details by text.",
+      "turkish": "Detayları sana mesajla göndereceğim.",
+      "transliteration": "DeTay larI sa na me saj la gön de re ce ğim.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I’m going to the gym tonight.",
+      "turkish": "Bu gece spor salonuna gidiyorum.",
+      "transliteration": "Bu GECE spor SALO-nu-na GI-di-yo-rum.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Where’s the closest swimming pool?",
+      "turkish": "En yakın yüzme havuzu nerede?",
+      "transliteration": "En YAKIN YÜZ-me HA-vu-zu ne-re-de?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I need to book a personal trainer.",
+      "turkish": "Bir kişisel antrenörle görüşme ayarlamam lazım.",
+      "transliteration": "Bir KI-şi-sel an-TREN-ör-le gö-rüş-me ayar-la-mam la-zım.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Can you show me proper squat form?",
+      "turkish": "Bana doğru squat hareketini gösterir misin?",
+      "transliteration": "BA-na DOĞ-ru squat HA-re-ke-ti-ni gös-ter-ir mi-sin?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I’m sore, but I feel good.",
+      "turkish": "Kaslarım ağrıyor ama iyi hissediyorum.",
+      "transliteration": "KAS-la-rım AĞ-rı-yor ama i-yi HİS-si-yo-rum.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "What’s the best warm-up for running?",
+      "turkish": "Koşu için en iyi ısınma ne?",
+      "transliteration": "KO-şu i-çin en i-yi I-ŞIN-ma ne?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Do you have free weights here?",
+      "turkish": "Burada serbest ağırlık var mı?",
+      "transliteration": "BU-ra-da SER-best AĞ-ır-lık var mı?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Is it raining right now?",
+      "turkish": "Şu an yağmur yağıyor mu?",
+      "transliteration": "SÜN an YAĞmur yağıyor mu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "The wind feels stronger today.",
+      "turkish": "Rüzgar bugün daha güçlü gibi.",
+      "transliteration": "RÜZgar BUgün daHA GÜÇlü giBI.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "It’s colder than I expected.",
+      "turkish": "Beklediğimden daha soğuk.",
+      "transliteration": "BEKlediğimden daHA SOğuk.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Will it snow later?",
+      "turkish": "Akşam kar yağar mı?",
+      "transliteration": "AĞşam kar yaĞar mı?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Is it going to clear up soon?",
+      "turkish": "Ne zaman açılır?",
+      "transliteration": "NE zaMAN aÇI-lır?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "I need a jacket today, huh?",
+      "turkish": "Bugün ceket şart, değil mi?",
+      "transliteration": "BUgün CEket şart, deĞİl mi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "The sun’s out, finally.",
+      "turkish": "Güneş sonunda çıktı.",
+      "transliteration": "GÜneş SONunda ÇIKtı.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T23:25:09.112829"
     }
   ],
-  "last_updated": "2026-11-14T00:31:37.289720"
+  "last_updated": "2026-11-14T23:25:09.112829"
 }
