@@ -18455,7 +18455,399 @@
       "transliteration": "GÜneş SONunda ÇIKtı.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-14T23:25:09.112829"
+    },
+    {
+      "english": "Friends show up, even when it's messy.",
+      "turkish": "İyi arkadaşlar, işler karışsa bile gelir.",
+      "transliteration": "İYİ aRKAŞlar, İŞler kaRIŞsa Bİle geLİR.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "We can talk about anything, really.",
+      "turkish": "Her şey hakkında konuşabiliriz, gerçekten.",
+      "transliteration": "HEr ŞEY hakKINda KOnuŞaBİlİrİz, gerÇEKten.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Thanks for listening, I needed that.",
+      "turkish": "Dinlediğin için teşekkürler, buna ihtiyacım vardı.",
+      "transliteration": "DİNleDİĞİn iÇİN TEŞekKÜRler, buNA iHtiYAÇım VARdı.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Call me when you get home.",
+      "turkish": "Eve gidince beni ara, tamam mı?",
+      "transliteration": "EVE GİDİNCE beNİ ARA, taMAM mı?",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "You made my day with that text.",
+      "turkish": "O mesajınla günüm güzelleşti.",
+      "transliteration": "O MEjAyinLA GÜnÜm GÜZELleşti.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I’m lucky to have you as a friend.",
+      "turkish": "Seni arkadaşım olarak tanıdığım için şanslıyım.",
+      "transliteration": "SEni aRKAdaşım oLARak taNIdiĞİm iÇİN şanSLıyIM.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let’s grab coffee, no big plans.",
+      "turkish": "Bir kahve içelim, büyük plan yok.",
+      "transliteration": "bir KAHve iÇeLİm, büYÜk plan YOK.",
+      "category": "Friendship",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Want to meet for coffee tomorrow?",
+      "turkish": "Yarın kahve içmeye buluşalım mı?",
+      "transliteration": "YARIN KAHVE İÇMEYE BULUŞALIM MI?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I’m free this evening, are you?",
+      "turkish": "Bu akşam müsaitim, sen de müsait misin?",
+      "transliteration": "BU AKŞAM MÜSAİTİM, SEN DE MÜSAİT MİSİN?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let’s book tickets before they sell out.",
+      "turkish": "Satmadan önce biletleri hemen ayıralım.",
+      "transliteration": "SATMADAN ÖNCE BİLETLERİ HEMEN AYIRALIM",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "What time should we start?",
+      "turkish": "Ne zaman başlayalım?",
+      "transliteration": "NE ZAMAN BAŞLAYALIM?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I’ll pick you up at seven.",
+      "turkish": "Seni yedi gibi alırım.",
+      "transliteration": "SENİ YEDİ GİBİ ALIRIM",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Can we switch plans if it rains?",
+      "turkish": "Yağmur yağarsa planı değiştirebilir miyiz?",
+      "transliteration": "YAĞMUR YAĞARSA PLANı DEĞİŞTİREBİLİR MİYİZ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I’ll text you the address.",
+      "turkish": "Adresi sana mesaj atacağım.",
+      "transliteration": "ADRESİ SANA MESAJ ATACAĞIM",
+      "category": "Making Plans",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Who does the laundry today?",
+      "turkish": "Bugün çamaşırı kim yapıyor?",
+      "transliteration": "BUGün çamaşırı KİM yaPİYOR?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let’s clear the table together.",
+      "turkish": "Hadi birlikte sofrayı toplayalım.",
+      "transliteration": "HAdi birLİKte SOFrayı TOplayalım",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "That smell makes me feel safe.",
+      "turkish": "O koku bana güven veriyor.",
+      "transliteration": "O KOKU baNA GÜven veRIyor",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Dinner will be ready soon, promise.",
+      "turkish": "Yemek birazdan hazır olacak, söz.",
+      "transliteration": "YeMEK biRAzdan haZIR oLAcak, SÖZ",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "My parents call, and I smile.",
+      "turkish": "Ailem arıyor, ben gülümsüyorum.",
+      "transliteration": "AIlem aRİyor, BEN güLÜmSÜYOrum",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "We hug, then we talk things through.",
+      "turkish": "Sarılırız, sonra konuyu baştan sona konuşuruz.",
+      "transliteration": "SaRİLIRİZ, SONra KOnuYu baştan SOna KOnuşuRUZ",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Home is calm, even when it’s busy.",
+      "turkish": "Ev kalabalık olsa bile içim rahat.",
+      "transliteration": "EV kaLABalık olsa biLE İçİm raHAT",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let me forgive without explaining everything.",
+      "turkish": "Her şeyi anlatmadan affedebilirim.",
+      "transliteration": "HERSEYi anLATMADAN afFEdibilirim",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I hear you, and I choose peace.",
+      "turkish": "Seni duyuyorum, huzuru seçiyorum.",
+      "transliteration": "SENi DUYUYORUM, huZURU SECHIYORUM",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "We can reset, even after hurt.",
+      "turkish": "Acıdan sonra bile sıfırdan başlayabiliriz.",
+      "transliteration": "ACIdan SONRA BILE sıFIRdan BAŞLAYABiLIRIZ",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I forgive, and I still set boundaries.",
+      "turkish": "Affediyorum, ama sınırlarımı da koruyorum.",
+      "transliteration": "afFEDiYORUM, ama SINIRlaRIMI da KOruYORUM",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I won’t punish you for the past.",
+      "turkish": "Seni geçmiş yüzünden cezalandırmayacağım.",
+      "transliteration": "SEni geCHMiŞ yuzunDEN CEZAnDIRmeyeceğim",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I forgive you, but I need trust slowly.",
+      "turkish": "Seni affediyorum, ama güveni yavaş yavaş kurmalıyız.",
+      "transliteration": "SEni afFEDiYORUM, ama GUVENi YAvaş YAvaş kurmalıyız",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let’s make room for a fresh start.",
+      "turkish": "Yeni bir başlangıç için alan açalım.",
+      "transliteration": "YEni bir BAŞlaNgiÇ iÇin aLAN aÇALIM",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I laugh, and stress loosens.",
+      "turkish": "Gülüyorum, stres gevşiyor.",
+      "transliteration": "GÜLÜYORUM, stres GEVŞİYOR.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I start the day with hope.",
+      "turkish": "Güne umutla başlıyorum.",
+      "transliteration": "GÜNE UMUTLA BAŞLIYORUM.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Small wins feel huge today.",
+      "turkish": "Küçük başarılar bugün dev gibi.",
+      "transliteration": "KÜÇÜK BAŞARILAR bugün DEV GİBİ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "My body feels safe and cared for.",
+      "turkish": "Bedenim güvende, emek görüyor.",
+      "transliteration": "BEDENİM GÜVENDE, EMEK GÖRÜYOR.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I choose joy between the moments.",
+      "turkish": "Anların arasından mutluluğu seçiyorum.",
+      "transliteration": "ANLARIN ARASINDAN MUTLULUĞU SEÇİYORUM.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "A warm drink makes me smile.",
+      "turkish": "Ilık bir içecek içimden gülümsetiyor.",
+      "transliteration": "ILIK bir İÇECEK içimden GÜLÜMSETİYOR.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "I give myself permission to rest.",
+      "turkish": "Kendime dinlenme izni veriyorum.",
+      "transliteration": "KENDİME DİNLENME İZNİ VERİYORUM.",
+      "category": "Happiness",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Is breakfast included, by any chance?",
+      "turkish": "Kahvaltı fiyata dahil mi, acaba?",
+      "transliteration": "Kahvalti FIYATA dahil mi, AcaBA?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Can I check in early, please?",
+      "turkish": "Erken giriş yapabilir miyim, lütfen?",
+      "transliteration": "ERken GİRİŞ yapabilir miYİM, LÜtfen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "How late is check-out?",
+      "turkish": "Çıkış saati en geç kaçta?",
+      "transliteration": "CIKış SAATİ en GEÇ kaCta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "What time does the pool open?",
+      "turkish": "Havuz saat kaçta açılıyor?",
+      "transliteration": "HaVUZ SAAT kacTA aCHILIyor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Wi-Fi works well in the room?",
+      "turkish": "Odada Wi-Fi iyi çekiyor mu?",
+      "transliteration": "ODAda Wi-Fi iYİ CEkiyor mu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Is there parking on site?",
+      "turkish": "Tesisinizde otopark var mı?",
+      "transliteration": "TEsisinizde otoPARK var mi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Could I get an extra towel?",
+      "turkish": "Bir tane daha havlu alabilir miyim?",
+      "transliteration": "Bir TANE daha HAVlu alabilir miYİM?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Choose kindness, even when tired.",
+      "turkish": "Yorgun olsan bile nazik ol.",
+      "transliteration": "YORGUN olsan bile NAZİK ol.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Act on values, not moods.",
+      "turkish": "Duygu değil, değerlerine göre hareket et.",
+      "transliteration": "DUYGU değil, DEĞERLERİNE göre HAREKET et.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Make room for honest questions.",
+      "turkish": "Aklına takılan sorulara alan aç.",
+      "transliteration": "AKLINA takılan SORULARA ALAN AÇ.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Learn the habit of saying no.",
+      "turkish": "Hayır demeyi bir alışkanlık yap.",
+      "transliteration": "HAYIR demeyi bir ALIŞKANLIK yap.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Let mistakes teach, not shame.",
+      "turkish": "Hataların utandırmasın, öğretsin.",
+      "transliteration": "HATALARIN UTANDIRMASIN, ÖĞRETSİN.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Trust the process, not the hype.",
+      "turkish": "Abartıya değil, sürece güven.",
+      "transliteration": "ABARTIYA değil, SÜRECE GÜVEN.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Small boundaries protect your energy.",
+      "turkish": "Küçük sınırlar enerjini korur.",
+      "transliteration": "KÜÇÜK SINIRLAR enerjini KORUR.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Start before you feel ready.",
+      "turkish": "Hazır hissetmeden başlamaya başla.",
+      "transliteration": "HAzır hissetmeden BAŞlamaya başla.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Today, choose the hard right thing.",
+      "turkish": "Bugün, zor olan doğru seç.",
+      "transliteration": "BUgün, ZOR olan DOĞru seç.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Small wins stack up fast.",
+      "turkish": "Küçük zaferler üst üste gelir.",
+      "transliteration": "KÜçük zaferler üst üste GElir.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Make a plan, then just begin.",
+      "turkish": "Bir plan yap, sonra sadece başla.",
+      "transliteration": "Bir PLAN yap, sonra SADEce başla.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "When you slip, restart gently.",
+      "turkish": "Düşersen, yumuşakça yeniden başla.",
+      "transliteration": "DÜşersen, yumuşakça yeNİden başla.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Your effort speaks louder than excuses.",
+      "turkish": "Çaban, bahanelerden daha çok konuşur.",
+      "transliteration": "ÇAban, baHAnelerden daHA çok konuşur.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Move your body, change your mind.",
+      "turkish": "Hareket et, zihnin değişsin.",
+      "transliteration": "HaREket et, Zİhnin değişsin.",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T23:33:37.778428"
     }
   ],
-  "last_updated": "2026-11-14T23:25:09.112829"
+  "last_updated": "2026-11-15T23:33:37.778428"
 }
