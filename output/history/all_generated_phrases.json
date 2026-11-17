@@ -18847,7 +18847,399 @@
       "transliteration": "HaREket et, Zİhnin değişsin.",
       "category": "Motivation",
       "generated_at": "2026-11-15T23:33:37.778428"
+    },
+    {
+      "english": "Bro, that was so random",
+      "turkish": "Kanka, bu tam taksiye gibi",
+      "transliteration": "Kanka BU TAM TAKSiye gibi",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "For real, I don’t buy it",
+      "turkish": "Cidden, buna inanmıyorum",
+      "transliteration": "CİDDEN buna İNANMIYORUM",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Come on, stop acting tough",
+      "turkish": "Hadi, sertlik taslama artık",
+      "transliteration": "HADi SERTlik TASlama arTIK",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "That’s shady, not gonna lie",
+      "turkish": "Bu bayağı şüpheli, yalan yok",
+      "transliteration": "Bu BAYAGI şÜPHELİ yALAN yok",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I’m broke right now, for real",
+      "turkish": "Şu an fena şekilde parasızım",
+      "transliteration": "Şu AN feNA şEKilde paRaSIZım",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Don’t stress me, I got this",
+      "turkish": "Stres olma, ben hallederim",
+      "transliteration": "STRES olMA ben halLEDerim",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Girl, you’re gonna roast me",
+      "turkish": "Aşkım, beni fırçalayacaksın",
+      "transliteration": "ASkIM beNI FIRÇalayacaksın",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "My ideas need fresh air, today.",
+      "turkish": "Fikirlerime bugün biraz taze hava lazım.",
+      "transliteration": "Fikirlerime BUGÜN biraz taze hava LAZIM.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "What inspires you on quiet mornings?",
+      "turkish": "Seni sakin sabahlarda ne ilhamlandırıyor?",
+      "transliteration": "SENİ sakin sabaHLARda ne ilhamLANdırıYOR?",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I chase small sparks, not big goals.",
+      "turkish": "Ben büyük hedefler peşinde değil, küçük kıvılcımlar kovalıyorum.",
+      "transliteration": "Ben BÜYÜK heDEFLER peşinde deĞİL, KÜÇÜK kıvılcımLAR koVALIYoRUM.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Let’s try a crazy idea right now.",
+      "turkish": "Hadi şimdi aklımıza gelen çılgın bir fikri deneyelim.",
+      "transliteration": "HAdi şimdi aklımıza GElen çılgın bir fikri deNEyelim.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I sketch rough ideas, then refine.",
+      "turkish": "Kabaca çiziyorum, sonra ince ince düzeltiyorum.",
+      "transliteration": "KaBAca ÇİziyoRUM, sonRA inCE inCE düZELtiyoRUM.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Try new words, your mind will shift.",
+      "turkish": "Yeni kelimeler dene, zihin hemen yön değiştirir.",
+      "transliteration": "YEni KELimeler deNe, zihIN heMEN yön deĞİŞtiRİR.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I’m collecting references like souvenirs.",
+      "turkish": "Referanslar biriktiriyorum, sanki hatıra topluyorum.",
+      "transliteration": "RefeRANSlar BİRiktiriyorum, sanKi haTIRA topLUyorUM.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Hi, I’d like to order two kebabs.",
+      "turkish": "Merhaba, iki kebap sipariş edebilir miyim?",
+      "transliteration": "MER-ha-ba, i̇ki ke-bap si-PAR-iş ede-bi-lir mi-yim?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Can we get the menu, please?",
+      "turkish": "Menüyü alabilir miyiz, lütfen?",
+      "transliteration": "ME-nü-yü a-la-bi-lir mi-yiz, LUf-fen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "What do you recommend for first-timers?",
+      "turkish": "İlk kez gelenlere ne önerirsiniz?",
+      "transliteration": "İLK kez ge-len-le-re ne Ö-ne-ri̇r-si-niz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Is your chicken spicy, or mild?",
+      "turkish": "Tavuk acı mı, hafif mi?",
+      "transliteration": "TA-vuk a-cı mı, HA-fif mi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Could I have it without onions, please?",
+      "turkish": "Soğansız alabilir miyim, lütfen?",
+      "transliteration": "SO-ğan-sız a-la-bi-lir mi-yim, LUf-fen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Can I substitute rice for fries?",
+      "turkish": "Patates yerine pilav yapabilir misiniz?",
+      "transliteration": "pa-ta-tes ye-ri-ne pi-LAV ya-pa-bi-lir mi-si-niz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "We’d like to dine here, not take out.",
+      "turkish": "Burada yemek istiyoruz, paket istemiyoruz.",
+      "transliteration": "BU-ra-da ye-MEK i̇s-ti-yo-ruz, pa-KET is-te-mi-yo-ruz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I choose you, again and again.",
+      "turkish": "Seni her gün yeniden seçiyorum.",
+      "transliteration": "Seni her GÜn yenIDen SEÇiYorum.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Your smile makes my whole day.",
+      "turkish": "Gülüşün günümü tamamen değiştiriyor.",
+      "transliteration": "GÜlüşÜn gÜnümü taMAMen deĞiştİriyor.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I miss you, and I mean it.",
+      "turkish": "Seni özlüyorum, gerçekten.",
+      "transliteration": "Seni ÖZlüYorum, gerÇekten.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Hold my hand, just for a moment.",
+      "turkish": "Elimi tut, sadece bir an.",
+      "transliteration": "EliMi TUT, saDEce bir AN.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Let’s make space for us tonight.",
+      "turkish": "Bu gece bize yer açalım.",
+      "transliteration": "Bu geCe biZe yer AÇaLIM.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I want to build a gentle life.",
+      "turkish": "Nazik bir hayat kurmak istiyorum.",
+      "transliteration": "NAzik bir HAyat kuRmak isTiYorum.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "When you laugh, I feel light.",
+      "turkish": "Sen güldüğünde içim hafifliyor.",
+      "transliteration": "Sen GÜLdüğünde iÇim hafifLIyor.",
+      "category": "Love",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I lose track of time painting.",
+      "turkish": "Resim yaparken zamanı unutuyorum.",
+      "transliteration": "Resim YAPARKEN zamaNı UNUTUYORUM.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Sewing small pieces feels strangely satisfying.",
+      "turkish": "Küçücük parçalar dikip dikip garip şekilde tatmin oluyorum.",
+      "transliteration": "KüçÜCÜk PARçalar DİKİP dİKİP GAriP şEKİLde tatMİN OLUYORUM.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I unwind with a long bike ride.",
+      "turkish": "Uzun bir bisiklet turuyla kendime geliyorum.",
+      "transliteration": "UZun bir biSİklet TUruYLA kendİme GEliyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Board games bring my friends together.",
+      "turkish": "Masa oyunları arkadaşlarımı bir araya getiriyor.",
+      "transliteration": "MAsa OYunları arkaDAşlarımı bir aRAYA GEtiriyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I try street food walks on weekends.",
+      "turkish": "Hafta sonları sokak lezzetlerini gezmeyi seviyorum.",
+      "transliteration": "Hafta SOnları SOkak leZZetlerini geZMeYi seVİyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Baking bread makes my kitchen smell amazing.",
+      "turkish": "Ekmek pişirmek mutfağımı harika kokutuyor.",
+      "transliteration": "EkmEK piŞİRmek MUTfağımı haRİka koKUTUyor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I write short stories when I’m restless.",
+      "turkish": "Huzursuz olunca kısa hikayeler yazıyorum.",
+      "transliteration": "HUZurSUZ oLUNCA Kİsa HIkaYELER YAZıyorum.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Welcome! How is your day going?",
+      "turkish": "Hoş geldiniz, gününüz nasıl gidiyor?",
+      "transliteration": "Hoş GELDiniz, GUNunuz nasil gidiyor?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "What brings you here today?",
+      "turkish": "Sizi bugün buraya ne getirdi?",
+      "transliteration": "Sizi BUGUN buraya ne GETirdi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "May I introduce myself briefly?",
+      "turkish": "Kendimi kısaca tanıtabilir miyim?",
+      "transliteration": "Kendimi KISAca tanitabilir miyim?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I’m glad we could meet.",
+      "turkish": "Bizi bir araya getirebildiğimize sevindim.",
+      "transliteration": "Bizi bir araya GETirebildigimize SEVINDIM.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Hi! I like your energy.",
+      "turkish": "Merhaba, enerjin çok iyi.",
+      "transliteration": "Merhaba, enerjin ÇOK iyi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Do you prefer informal or formal?",
+      "turkish": "Daha samimi mi, daha resmî mi konuşalım?",
+      "transliteration": "Daha SAMimi mi, daha RESmi mi konusalim?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Thanks, you’re making this easy.",
+      "turkish": "Teşekkür ederim, bunu kolaylaştırıyorsun.",
+      "transliteration": "TEŞEkkür ederim, bunu kolaylaştiriyorsun.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I can wait without losing myself.",
+      "turkish": "Ben kendimi kaybetmeden bekleyebilirim.",
+      "transliteration": "Ben kendimi KAYBETmeden BEKleyebilirim.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Slow is still progress for me.",
+      "turkish": "Benim için yavaş da ilerlemektir.",
+      "transliteration": "BeNIM İÇİN YAVAŞ da İLERLEMEKTİR.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I’ll pause, then choose my next step.",
+      "turkish": "Duracağım, sonra bir sonraki adımı seçeceğim.",
+      "transliteration": "DUraCağım, sonra bir SONRAki ADIMI seçeceğim.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I trust time to do its part.",
+      "turkish": "Zamanın payını yerine getireceğine inanıyorum.",
+      "transliteration": "ZAMANın PAYını yeRİNE getireceğine İNANIyorum.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Stay steady, even when it’s slow.",
+      "turkish": "Yavaş olsa bile dik dur.",
+      "transliteration": "YAvaş olsa BİLE dik DUR.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I can handle this, one minute at a time.",
+      "turkish": "Bunu atlatabilirim, dakikası dakikasına.",
+      "transliteration": "BuNu atLaTaBİlİrim, daKiKasI daKiKasına.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Let it be imperfect, and keep going.",
+      "turkish": "Mükemmel olmasa da devam edelim.",
+      "transliteration": "MÜkEMmel olmasa da DEvam edeLİM.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Can you check my symptoms, please?",
+      "turkish": "Belirtilerimi kontrol edebilir misiniz, lütfen?",
+      "transliteration": "belirteLE-rimi kon-Trol ede-Bİ-lir mi-si-niz, LÜt-fen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Do I need blood tests?",
+      "turkish": "Kan tahlili gerekir mi?",
+      "transliteration": "kan tah-Lİ-lİ ge-re-KİR mi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "What should I watch for?",
+      "turkish": "Neye dikkat etmeliyim?",
+      "transliteration": "NE-ye dik-KAT et-me-Lİ-yim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Is this medication safe for me?",
+      "turkish": "Bu ilaç bana uygun mu?",
+      "transliteration": "bu i-LAÇ ba-na uy-GUN mu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "How long will it take to work?",
+      "turkish": "Etki etmesi ne kadar sürer?",
+      "transliteration": "ET-ki et-me-si ne ka-DAR sü-rer?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "Can I stop taking it early?",
+      "turkish": "Erken bırakabilir miyim?",
+      "transliteration": "ER-ken ba-KA-bi-LİR mi-yim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "What side effects are common?",
+      "turkish": "Hangi yan etkiler sık görülür?",
+      "transliteration": "HAN-gi yan et-Kİ-ler sık gö-rü-lür?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T02:40:28.636484"
     }
   ],
-  "last_updated": "2026-11-15T23:33:37.778428"
+  "last_updated": "2026-11-17T02:40:28.636484"
 }
