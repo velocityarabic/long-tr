@@ -19239,7 +19239,399 @@
       "transliteration": "HAN-gi yan et-Kİ-ler sık gö-rü-lür?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-17T02:40:28.636484"
+    },
+    {
+      "english": "I’m hopeful, even on hard days.",
+      "turkish": "Zor günlerde bile umutluyum.",
+      "transliteration": "Zor GUNLERDE bIle UMUTLUYUM",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Today, I choose hope over fear.",
+      "turkish": "Bugün, umudu korkuya tercih ediyorum.",
+      "transliteration": "BUGUN, umudu KORKUYA TERCIH EDIYORUM",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Let’s talk, then we’ll hope together.",
+      "turkish": "Konuşalım, sonra birlikte umut edelim.",
+      "transliteration": "KonusALIM, sonra BIrlikte UMUT edelim",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I feel a new chance coming.",
+      "turkish": "İçimde yeni bir şans geliyor.",
+      "transliteration": "IcIMde YENI bir SANS geliyor",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Even mistakes can lead to better days.",
+      "turkish": "Hatalar bile daha iyi günlere götürebilir.",
+      "transliteration": "HATALAR bile daha IYI gunlere GOTUREBILIR",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "We can rebuild from what broke.",
+      "turkish": "Kırılan şeylerden yeniden inşa edebiliriz.",
+      "transliteration": "KIRILAN SEYLERden yeniden INSA edebiliriz",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "My hope grows when I act small.",
+      "turkish": "Umut, küçük adımlar atınca büyüyor.",
+      "transliteration": "UMUT, KUCUK adimlar ATINCA BuyUYOR",
+      "category": "Hope",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "How do I reach this stop?",
+      "turkish": "Bu duraga nasıl ulaşırım, lütfen?",
+      "transliteration": "Bu DURAGa nasıl ULAşırım, lütfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Is there a pedestrian route nearby?",
+      "turkish": "Yakında yayalar için bir yol var mı?",
+      "transliteration": "YakINda YAYalar için bir yol var mı?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I’m looking for the bus interchange.",
+      "turkish": "Otobüs aktarma merkezini arıyorum, lütfen.",
+      "transliteration": "OTObüs AKtarma merkezini ARıyorum, lütfen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Do I turn left at the lights?",
+      "turkish": "Işıklarda sola mı dönmem gerekiyor?",
+      "transliteration": "IŞıklarda saLA mı dönmem GEREkiyor?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "What’s the nearest place to park?",
+      "turkish": "En yakın otopark nereye yakın?",
+      "transliteration": "En YAkin otOPark nereye Yakin?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Can I avoid the highway here?",
+      "turkish": "Buradan otoyoldan gitmeden geçebilir miyim?",
+      "transliteration": "BURadan otoYOLDan gitmeden geçebilir miyim?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Which side of the street is it?",
+      "turkish": "Orası yolun hangi tarafında?",
+      "transliteration": "ORası yolun hanGI tarafında?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I return to my breath, now.",
+      "turkish": "Şimdi nefesime dönüyorum.",
+      "transliteration": "Şimdi neFESime dönüyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I soften my shoulders, then my mind.",
+      "turkish": "Omuzlarımı yumuşatıyorum, sonra zihnimi.",
+      "transliteration": "OMUZlarımı YUMUşatıyoRum, SONra zihnimi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I can rest without earning it.",
+      "turkish": "Bunu hak etmem gerekmeden de dinlenebilirim.",
+      "transliteration": "Bunu HAK etmem GEREKmeden de DiNlenebilirim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I let worry have less space today.",
+      "turkish": "Bugün endişeye daha az yer veriyorum.",
+      "transliteration": "Bugün enDİŞeye daha az YER veRiyorum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "My pace is allowed to be steady.",
+      "turkish": "Hızım istikrarlı olabilir, sorun değil.",
+      "transliteration": "HİZım isTİkRarlı oLabiLİR, soRun deĞil.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I choose one kind action at a time.",
+      "turkish": "Bir seferde tek bir nazik adım seçiyorum.",
+      "transliteration": "Bir seFErde teK bir NAZİK aDİm seÇİyoRum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I stop arguing with what is.",
+      "turkish": "Olanla tartışmayı bırakıyorum.",
+      "transliteration": "OlanLA tarTIŞmayı bıRAkıyoRum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Is my passport okay for boarding?",
+      "turkish": "Pasaportumla uçağa binebilir miyim?",
+      "transliteration": "paSAPORTUMla UÇAğa biNEbiLİR miYİM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "My flight changed, what now?",
+      "turkish": "Uçuşum değişti, şimdi ne yapayım?",
+      "transliteration": "uÇUŞUM deĞİŞtİ, ŞİMdi ne yaPAYayIM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Do I need a visa for this?",
+      "turkish": "Buna vize gerekiyor mu, acaba?",
+      "transliteration": "buna viZE geREkiyor mu, aCABA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Where is the security checkpoint?",
+      "turkish": "Güvenlik kontrolü nerede?",
+      "transliteration": "GÜvenlik konTROlÜ NEREDE?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Can I get help with my bag?",
+      "turkish": "Valizimi taşımada yardım alabilir miyim?",
+      "transliteration": "VAliZİmi taŞImaDA yarDIM aLABİLİR miYİM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Is there a charger nearby?",
+      "turkish": "Yakında telefon şarj yeri var mı?",
+      "transliteration": "yaKInda teLEfon ŞARJ yeRi var mı?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Can you confirm my terminal?",
+      "turkish": "Terminalimi doğrulayabilir misiniz?",
+      "transliteration": "termiNALİmi DOĞrulayabiLİR miSiNİZ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I let rest refill my tank.",
+      "turkish": "Dinlenmek, tankımı doldursun.",
+      "transliteration": "DiN LENmEK, tankımı dolDURSUN.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Small wins still count for me.",
+      "turkish": "Benim için küçük zaferler de sayılır.",
+      "transliteration": "BeNİM İÇİN küÇÜK zaFeRler de saYI lIR.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I speak to myself with warmth.",
+      "turkish": "Kendime şefkatle konuşuyorum.",
+      "transliteration": "KenDiME şEF katle KO nuŞU YORUM.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I can be patient with delays.",
+      "turkish": "Gecikmelere de sabır gösterebilirim.",
+      "transliteration": "GE cik meLERE de saBIR gös teReBİ lİ rİm.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I release what I can’t control.",
+      "turkish": "Kontrol edemediğimi bırakıyorum.",
+      "transliteration": "KonTROL eDeMe dİĞİMİ bıRA KıYORUM.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I keep going, gently and steady.",
+      "turkish": "Devam ediyorum, nazik ve istikrarlı.",
+      "transliteration": "De vam eDİYORUM, naZİK ve isTİK raRLI.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I take action with a clear mind.",
+      "turkish": "Zihnim netken harekete geçiyorum.",
+      "transliteration": "ZİhNİM NETken haRe ke te GEÇİYORUM.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I can start before I feel ready.",
+      "turkish": "Hazır hissetmeden başlayabilirim,",
+      "transliteration": "HAZIR hissetmeden BAŞLAYABİLİRİM",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I deserve calm, even during change.",
+      "turkish": "Değişirken bile sakinliğe hakkım var,",
+      "transliteration": "DEĞİŞİRKEN bile SAKİNLİĞE hakkım VAR",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "My best is enough for today.",
+      "turkish": "Bugün için en iyim yeter,",
+      "transliteration": "BUGÜN için EN İYİM YETER",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I ask for help without shame.",
+      "turkish": "Yardım istemekten utanmıyorum,",
+      "transliteration": "YARDIM İSTEMEKten uTANMIYORUM",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I set one small goal right now.",
+      "turkish": "Şimdi tek bir küçük hedef koyuyorum,",
+      "transliteration": "ŞİMDİ tek bir KÜÇÜK HEDEF KOYUYORUM",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I keep going, even if it’s messy.",
+      "turkish": "Karmaşık olsa bile devam ediyorum,",
+      "transliteration": "KARMAŞIK olsa bile DEVAM ediyorum",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I speak up, my pace is mine.",
+      "turkish": "Sesimi yükseltirim, hızım benim,",
+      "transliteration": "SESiMI YÜKSELTİRİM, HIZIM benim",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I’ll send the updated file shortly.",
+      "turkish": "Güncellenmiş dosyayı kısa süre içinde göndereceğim.",
+      "transliteration": "GÜncellENmiş dosyayı kısa sÜre İÇinde gÖndereceğim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Can we confirm everyone is included?",
+      "turkish": "Herkesin eklendiğini doğrulayabilir miyiz?",
+      "transliteration": "HERkesin Eklendiğini doğrulayabilir miyiz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Please mark it as high priority.",
+      "turkish": "Lütfen bunu yüksek öncelik olarak işaretle.",
+      "transliteration": "LÜtfen bunu yüksek Öncelik olarak İŞaretle.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I need your signature on this form.",
+      "turkish": "Bu formda imzanıza ihtiyacım var.",
+      "transliteration": "Bu formda İMzanıza İhtiyacım var.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Let’s schedule a quick check-in.",
+      "turkish": "Hızlı bir görüşme planlayalım mı?",
+      "transliteration": "Hızlı bir gÖrüşme planLAYalım mı?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I’ll call you back in an hour.",
+      "turkish": "Bir saat içinde seni arayıp geri döneceğim.",
+      "transliteration": "Bir saAt İÇinde seni arayıp geri dÖneceğim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "Could you review this before Friday?",
+      "turkish": "Bunu Cuma öncesi kontrol edebilir misiniz?",
+      "transliteration": "Bunu CUma Öncesi kontrol edebilir misiniz?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I breathe in, let go, again.",
+      "turkish": "Nefes alıyorum, bırakıyorum, tekrar.",
+      "transliteration": "Nefes ALIyorum, BIRAKIyorum, TEKRAR.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I notice my shoulders, unclench.",
+      "turkish": "Omuzlarımı fark ediyorum, gevşetiyorum.",
+      "transliteration": "OMUZlarımı FARk ediyorum, gevşetiyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I soften my jaw, right now.",
+      "turkish": "Çenemi yumuşatıyorum, şu an.",
+      "transliteration": "ÇE nI mi YUMUŞaTıyoRUM, ŞU AN.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "My body is here, with me.",
+      "turkish": "Vücudum burada, benimle.",
+      "transliteration": "VÜcuDUM BU raDA, benimle.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I listen for one honest sensation.",
+      "turkish": "Tek bir dürüst duyumu dinliyorum.",
+      "transliteration": "Tek bir DÜRÜST duyuMu dinliyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I let thoughts pass without grabbing.",
+      "turkish": "Düşünceler gelir geçer, tutmuyorum.",
+      "transliteration": "DÜşünceler GELIR GEÇer, TU tmuyorum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
+    },
+    {
+      "english": "I slow my eyes, not the world.",
+      "turkish": "Dünya aynı kalır, ben gözlerimi yavaşlatırım.",
+      "transliteration": "DÜnYA ayNı kaLır, ben GÖzlerimi yaVAŞlatırım.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T01:55:07.830582"
     }
   ],
-  "last_updated": "2026-11-17T02:40:28.636484"
+  "last_updated": "2026-11-18T01:55:07.830582"
 }
