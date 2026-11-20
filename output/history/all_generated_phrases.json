@@ -20023,7 +20023,399 @@
       "transliteration": "kaHVALTIda BUrada en çok neyi öNErİrsiNİZ?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-19T01:32:21.383294"
+    },
+    {
+      "english": "I’m nervous, but I’ll go in.",
+      "turkish": "Gerginim ama içeri gireceğim.",
+      "transliteration": "Gerginim ama ICIre gireceğim.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Speak slowly, you can handle this.",
+      "turkish": "Yavaş konuş, bunu kaldırırsın.",
+      "transliteration": "YaVas konuş, bunu kaldIRirsın.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’ll make the call, right now.",
+      "turkish": "Aramayı şimdi yapacağım.",
+      "transliteration": "aRAMAYI siMdi yaPACAğım.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Thanks for listening, I’m trying.",
+      "turkish": "Dinlediğin için teşekkür ederim, deniyorum.",
+      "transliteration": "DİNlediğin iÇİN teşekkür eDERim, deNIyorum.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I can start small, then grow.",
+      "turkish": "Küçük başlayabilirim, sonra büyürüm.",
+      "transliteration": "KÜÇÜk başlaYABİLİRİM, SONra büyüRÜm.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’ll stay calm and keep going.",
+      "turkish": "Sakin kalacağım, devam edeceğim.",
+      "transliteration": "saKİN kaLAcağım, deVAM edeCEĞim.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I won’t run from this moment.",
+      "turkish": "Bu anın içinden kaçmayacağım.",
+      "transliteration": "Bu aNın iÇİNden kaÇMayaCAğım.",
+      "category": "Courage",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I track wins, not just goals.",
+      "turkish": "Zaferlerimi takip ediyorum, sadece hedefi değil.",
+      "transliteration": "ZaFerLerimi taKİp eDIyoRum, saDEce heDeFi deĞil.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "One lesson a day keeps me moving.",
+      "turkish": "Her gün bir ders alıyorum, yerimde durmuyorum.",
+      "transliteration": "Her gün bir ders aLİyoRum, yeRİmde durmu yoRum.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I ask better questions at work.",
+      "turkish": "İş yerinde daha iyi sorular soruyorum.",
+      "transliteration": "İş yeRİnDe daHa iYi soRuLar soRUyoRum.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I turn feedback into fuel.",
+      "turkish": "Geri bildirimi yakıta çeviriyorum.",
+      "transliteration": "GeRi bilDiRiMi yaKıta ÇeviRİyoRum.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I read for growth, not perfection.",
+      "turkish": "Büyüme için okuyor, mükemmeliyet için değil.",
+      "transliteration": "büYüme iÇİn oKUyor, müKeMMelİyet iÇİn deĞil.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Small changes, big impact on my mood.",
+      "turkish": "Küçük değişiklikler ruh halimi etkiliyor.",
+      "transliteration": "KüÇük deĞİşİklİkler ruh haLimi etKiLeYİyor.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I practice today, even if it's messy.",
+      "turkish": "Bugün yapıyorum, hatta işler dağınık olsa bile.",
+      "transliteration": "BuGün yaPıyoRum, haTta iŞler daĞıNık olsa biLe.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "When it fails, I adjust, not quit.",
+      "turkish": "Hata olunca, düzeltirim, bırakmam.",
+      "transliteration": "HATA olunca, DÜZELTİRİM, BIRAKMAM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I show up again, even tired.",
+      "turkish": "Yorgun olsam da yine geliyorum.",
+      "transliteration": "YORGUN olsam da YİNE GELİYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Today is practice, not a pass.",
+      "turkish": "Bugün prova, not geçmek.",
+      "transliteration": "BUGÜN PROVA, not geçmek.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I take the next step, right now.",
+      "turkish": "Şimdi bir sonraki adımı atıyorum.",
+      "transliteration": "ŞİMDİ bir SONRAKİ adımı ATIYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Small reps, big comeback energy.",
+      "turkish": "Küçük tekrarlar, büyük geri dönüş enerjisi.",
+      "transliteration": "KÜÇÜK TEKRARLAR, büyük GERİ DÖNÜŞ enerjisi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I don’t wait for motivation, I move.",
+      "turkish": "Motivasyon beklemiyorum, yürüyorum.",
+      "transliteration": "MOTİVASYON beklemiyorum, YÜRÜYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I learn fast from mistakes, then go.",
+      "turkish": "Hatalardan hızlı öğrenip devam ediyorum.",
+      "transliteration": "HATALARDAN hızlı ÖĞRENİP devam EDİYORUM.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I feel light as air right now",
+      "turkish": "Şu an içim bomboş ve hafif, sanki uçuyorum.",
+      "transliteration": "S-U-an i-cim bomboş ve HA-fif, san-ki U-çu-yo-rum.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Walking outside feels like a treat",
+      "turkish": "Dışarı çıkmak resmen bana iyi geliyor.",
+      "transliteration": "Di-şar-i çık-mak re-smen ba-na i-yi ge-li-yor.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "My playlist just unlocked my joy",
+      "turkish": "Çalma listem sevinci geri getirdi.",
+      "transliteration": "Çal-ma lis-te-m se-vi nci ge-ri ge-tir-di.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m smiling for no big reason",
+      "turkish": "Sebepsiz yere gülüyorum, içim kıpır kıpır.",
+      "transliteration": "Se-bep-siz ye-re gü-lü-yo-rum, i-cim kı-pır kı-pır.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Today’s good, I can feel it",
+      "turkish": "Bugün iyi, bunu içimde hissediyorum.",
+      "transliteration": "Bu-gün i-yi, bu-nu i-çi-mde his se-di-yo-rum.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Your laugh is contagious, seriously",
+      "turkish": "Gülüşün bulaşıcı, komik bir şey olmuş gibi.",
+      "transliteration": "Gü-lü-şün bu-la-şı-cı, ko-mik bir şey ol-muş gi-bi.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "The sun in my face helps",
+      "turkish": "Yüzüme vuran güneş iyi hissettiriyor.",
+      "transliteration": "Yü-zü-me vu-ran gü-neş i-yi his-set-ti-ri-yor.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Say one hard thing, kindly",
+      "turkish": "Nazikçe bir zor şeyi söyle.",
+      "transliteration": "NAZİKÇE bir ZOR şeyi SÖYLE.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Replace excuses with a specific plan",
+      "turkish": "Bahaneleri, net bir plana çevir.",
+      "transliteration": "BAHANELERİ, NET bir PLANA çevir.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Practice saying no without guilt",
+      "turkish": "Suçluluk duymadan hayır demeyi dene.",
+      "transliteration": "SUÇLULUK duymadan HAYIR demeyi dene.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Write your thoughts, then breathe",
+      "turkish": "Düşünceni yaz, sonra bir nefes al.",
+      "transliteration": "DÜŞÜNCENİ YAZ, sonra bir NEFES al.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Make tomorrow easier with one action",
+      "turkish": "Yarın kolaylaşsın diye bir şey yap.",
+      "transliteration": "YARIN KOLAYLAŞSın diye bir ŞEY yap.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Clean up one mess before sleep",
+      "turkish": "Uyumadan önce tek bir dağınıklığı toparla.",
+      "transliteration": "UYUMADAN ÖNCE TEK bir dağınıklığı TOPARLA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Learn one word from real life",
+      "turkish": "Günlük hayattan bir kelime öğren.",
+      "transliteration": "GÜNLÜK HAYATTAN bir KELİME öğren.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’d like to deposit cash, please.",
+      "turkish": "Banka kasasına nakit yatırabilir miyim, lütfen?",
+      "transliteration": "Banka kaSAsına NAKİT yaTRayaBİLİR miYİM, lütfen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "turkish": "Burada kartla ödeme yapabilir miyim?",
+      "transliteration": "BuRAdA kartla ÖDEme yaPABİLİR miYİM?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "My PIN isn’t working, help.",
+      "turkish": "PIN kodum çalışmıyor, lütfen yardım edin.",
+      "transliteration": "PIN koDUM çaLışMIYOR, lütfen yarDIM eDİN.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Is there a monthly account fee?",
+      "turkish": "Hesabım için aylık ücret var mı?",
+      "transliteration": "HeSaBIM iÇİN ayLık Ücret var mı?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Can I get cash without a card?",
+      "turkish": "Kart olmadan para çekebilir miyim?",
+      "transliteration": "Kart olmaDan paRA çeKEbilir miYİM?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I think I got charged twice.",
+      "turkish": "Bana iki kere ücret kesilmiş olabilir.",
+      "transliteration": "BaNA iKİ keRe Ücret keSİLMİş oLABİLİR.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Could you explain my statement?",
+      "turkish": "Hesap ekstremi bana açıklar mısınız?",
+      "transliteration": "HeSap eksTREMİ baNA aKİklar mısınız?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I feel calm after that walk",
+      "turkish": "O yürüyüşten sonra kendimi sakin hissediyorum.",
+      "transliteration": "O YÜRÜYÜŞTEN sonra kendimi SAKİN hissediyorum.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m feeling hopeful about tomorrow",
+      "turkish": "Yarın için umutluyum.",
+      "transliteration": "YARIN için UMUTLUYUM.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "This joke really made me laugh",
+      "turkish": "Bu şaka beni gerçekten güldürdü.",
+      "transliteration": "Bu ŞAKA beni gerÇEKTEN güldürdü.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m embarrassed I said that",
+      "turkish": "Onu söylediğim için utanıyorum.",
+      "transliteration": "Onu SÖYLEDİĞİM için UTANIYORUM.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I feel grateful for your help",
+      "turkish": "Yardımın için sana minnettarım.",
+      "transliteration": "YARDIMIN için sana MİNNETTARIM.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m a bit jealous right now",
+      "turkish": "Şu an biraz kıskancım.",
+      "transliteration": "Şu an biraz KI SKANCIYIM.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m frustrated because it won’t work",
+      "turkish": "Çalışmıyor diye sinirleniyorum.",
+      "transliteration": "ÇALIŞMIyor diye SİNİRLENİYORUM.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Excuse me, can I pass, please?",
+      "turkish": "Affedersiniz, geçebilir miyim lütfen?",
+      "transliteration": "Aﬀedersiniz, GECebilir miyim LUtfEn?",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Thank you so much, I appreciate it.",
+      "turkish": "Çok teşekkür ederim, gerçekten minnettarım.",
+      "transliteration": "ÇOK TEŞEkkür ederim, GERÇekten minnettarım.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "That was kind of you, truly.",
+      "turkish": "Bunu düşünmeniz çok kibarca, gerçekten.",
+      "transliteration": "Bunu DÜşünmeniz çok Kİbarca, GERÇekten.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "No worries, I’ve got it.",
+      "turkish": "Sorun değil, hallederim.",
+      "transliteration": "SoRUN deĞil, hallederim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Could you help me with this, please?",
+      "turkish": "Bununla ilgili bana yardımcı olur musunuz?",
+      "transliteration": "Bununla ilgiLI baNA yarDIMcı olur muSUunuz?",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "Please, go ahead, I’ll wait.",
+      "turkish": "Lütfen, siz önce gidin, ben beklerim.",
+      "transliteration": "LÜtfen, siz Önce giDIN, ben BEKlerim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
+    },
+    {
+      "english": "I’m grateful you explained that.",
+      "turkish": "Bunu anlattığınız için çok teşekkür ederim.",
+      "transliteration": "BuNU anLATtıĞıNİZ için ÇOK TEŞEkkür ederim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T02:05:17.549842"
     }
   ],
-  "last_updated": "2026-11-19T01:32:21.383294"
+  "last_updated": "2026-11-20T02:05:17.549842"
 }
